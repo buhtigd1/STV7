@@ -18,13 +18,12 @@ def download(url: str) -> list:
 def parse_date(date_str: str) -> datetime | None:
     """Parse startTime string into datetime object (UTC)."""
     try:
-        # Example format: "2026/09/11 08:30:00 +0000"
         return datetime.strptime(date_str.split(" +")[0], "%Y/%m/%d %H:%M:%S").replace(tzinfo=timezone.utc)
     except Exception:
         return None
 
 def build_m3u(events: list) -> str:
-    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding 'Dude' channels."""
+    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding 'Dude' channels, with local start time in channel name."""
     # Sort events by startTime ascending
     sorted_events = sorted(
         events,
@@ -35,12 +34,13 @@ def build_m3u(events: list) -> str:
     for ev in sorted_events:
         start_time = ev.get("eventInfo", {}).get("startTime", "")
         date_obj = parse_date(start_time)
-        # Convert to Jakarta time
         if date_obj:
-            jakarta_date = date_obj.astimezone(JAKARTA_TZ)
-            group = jakarta_date.strftime("%d-%m-%Y")
+            jakarta_dt = date_obj.astimezone(JAKARTA_TZ)
+            group = jakarta_dt.strftime("%d-%m-%Y")
+            local_time_str = jakarta_dt.strftime("%H:%M")
         else:
             group = "UnknownDate"
+            local_time_str = ""
 
         for ch in ev.get("decoded_channels", []):
             name = ch.get("title", "Unknown Channel")
@@ -55,8 +55,9 @@ def build_m3u(events: list) -> str:
             if not link:
                 continue
 
-            # EXTINF line
-            lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n')
+            # EXTINF line with local start time appended to channel name
+            display_name = f"{name} {local_time_str}" if local_time_str else name
+            lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{display_name}\n')
 
             # Widevine ClearKey properties if api exists
             if api and ".mpd" in link:
