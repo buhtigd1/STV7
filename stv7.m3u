@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="08-09-2026",TNT SPORTS FHD
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="09-09-2026",TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TAPMAD FHD" tvg-logo="" group-title="08-09-2026",TAPMAD FHD
+#EXTINF:-1 tvg-name="TAPMAD FHD" tvg-logo="" group-title="09-09-2026",TAPMAD FHD
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com
-#EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="" group-title="08-09-2026",WILLOW HD
+#EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="" group-title="09-09-2026",WILLOW HD
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="" group-title="09-09-2026",TSN SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -61,23 +61,23 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="09-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/cle-bal
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="09-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/nym-mia
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="09-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/hou-phi
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="09-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/laa-bos
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="09-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/col-nyy
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="09-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/tb-atl
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="09-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/pit-chw
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="09-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/ari-kc
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="09-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/chc-mil
 #EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="10-09-2026",TSN SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -231,107 +231,107 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="11-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/tor-ath
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="10-09-2026",TNT SPORTS FHD
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="11-09-2026",TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="10-09-2026",PARAMOUNT+ FHD
+#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="11-09-2026",PARAMOUNT+ FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cd9adfa77cd7ef0ee32b67c2511b4132:e2b31e51ab954d894280476d73f75ed6
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rzoyb9fllc/out/v1/8926eb65b8f64effb889daad38114562/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="10-09-2026",TNT SPORTS FHD
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="11-09-2026",TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PRIME VISION (IT)" tvg-logo="" group-title="10-09-2026",PRIME VISION (IT)
+#EXTINF:-1 tvg-name="PRIME VISION (IT)" tvg-logo="" group-title="11-09-2026",PRIME VISION (IT)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d5858307c485fbe867b3be16a90c04d:702c85b1f92f3074db651acc555367ba
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/moppq8e27i/out/v1/b979e15ea681450196bf11d55da65b04/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PRIME VIDEO 4k (IT)" tvg-logo="" group-title="10-09-2026",PRIME VIDEO 4k (IT)
+#EXTINF:-1 tvg-name="PRIME VIDEO 4k (IT)" tvg-logo="" group-title="11-09-2026",PRIME VIDEO 4k (IT)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae5c74948cad12851a7200464e50c55f:3c6cfb996bbbda74d2af8b82e126f6be
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjg77gklw5/out/v1/a70a4260e5f547f5a3e18faf0bc2514b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="10-09-2026",PARAMOUNT+ HD
+#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="11-09-2026",PARAMOUNT+ HD
 https://chatgpt.hereisman.net/playlist/56111/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="beIN ARABIC FHD" tvg-logo="" group-title="10-09-2026",beIN ARABIC FHD
+#EXTINF:-1 tvg-name="beIN ARABIC FHD" tvg-logo="" group-title="11-09-2026",beIN ARABIC FHD
 https://hrthrtjhrtijkhiurt.chkgjkg.online/hls/56.m3u8
-#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="10-09-2026",SonyLiv (ENG)
+#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="11-09-2026",SonyLiv (ENG)
 https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789022870~acl=/*~id=31225690679829302002975308645808~hmac=a02582543b9d7bca51a92c34d40efb97ff5ea2b7149678a33cb8197c3ee30434|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=03c688b4739ab2e8c31457fea2cc122a-1788970202691
-#EXTINF:-1 tvg-name="SonyLiv (HIN)" tvg-logo="" group-title="10-09-2026",SonyLiv (HIN)
+#EXTINF:-1 tvg-name="SonyLiv (HIN)" tvg-logo="" group-title="11-09-2026",SonyLiv (HIN)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/Footlive0909/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc7ea2ba64aeddde3d156e934dce4dab-1788978603554
-#EXTINF:-1 tvg-name="ENGLISH HD" tvg-logo="" group-title="10-09-2026",ENGLISH HD
+#EXTINF:-1 tvg-name="ENGLISH HD" tvg-logo="" group-title="11-09-2026",ENGLISH HD
 https://edgestream5.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="10-09-2026",HD SERVER
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="11-09-2026",HD SERVER
 https://www.rtmpcdn.com/live/95b24386-ffe5-4087-8244-2430a12df9d9.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="10-09-2026",LOW SERVER
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="11-09-2026",LOW SERVER
 http://193.47.62.55/hls/WAWAWAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="10-09-2026",TNT SPORTS FHD
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="11-09-2026",TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="10-09-2026",PARAMOUNT+ FHD
+#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="11-09-2026",PARAMOUNT+ FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b95afcb8286e4d4922b4acc7e9170b9a:cc0df72257f3838a48405ea83017fb14
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yv2uy4vjzo/out/v1/eeb6bca6dc544b9ea7004bbc58cfce22/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="10-09-2026",CBS SPORTS HD
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="11-09-2026",CBS SPORTS HD
 https://chatgpt.hereisman.net/playlist/56116/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="10-09-2026",SonyLiv (ENG)
+#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="11-09-2026",SonyLiv (ENG)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/Footlive0909/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=24a288f0bd85efe1fa4b5211cf8fd720-1788979803713
-#EXTINF:-1 tvg-name="ENGLISH HD" tvg-logo="" group-title="10-09-2026",ENGLISH HD
+#EXTINF:-1 tvg-name="ENGLISH HD" tvg-logo="" group-title="11-09-2026",ENGLISH HD
 https://edgestream5.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="10-09-2026",HD SERVER
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="11-09-2026",HD SERVER
 https://www.rtmpcdn.com/live/f0ee58f7-5c4b-4679-8416-a966bcc7fc9c.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="10-09-2026",LOW SERVER
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="11-09-2026",LOW SERVER
 http://193.47.62.55/hls/WAWAWA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="10-09-2026",beIN ENGLISH FHD
+#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="11-09-2026",beIN ENGLISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="10-09-2026",SD SERVER
+#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="11-09-2026",SD SERVER
 http://193.47.62.41/hls/FAFAFAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="10-09-2026",PARAMOUNT+ FHD
+#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="11-09-2026",PARAMOUNT+ FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84b21ffa0ed1eb4ddeb65da3c955326a:ba080a4afb37b81be8575492af1a5188
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uaid5yqlgg/out/v1/add0d46fdcdd4e08b4c4e12113b4dac1/70594a4d-9cfb-4ac4-bb8a-aa805a08efae-cenc.mpd?aws_sessionId=d9d71bf7-94ba-4de9-8042-2230130ee2a0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="10-09-2026",beIN ENGLISH FHD
+#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="11-09-2026",beIN ENGLISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SKY MAIN EVENT" tvg-logo="" group-title="10-09-2026",SKY MAIN EVENT
+#EXTINF:-1 tvg-name="SKY MAIN EVENT" tvg-logo="" group-title="11-09-2026",SKY MAIN EVENT
 https://chatgpt.hereisman.net/playlist/56121/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="EFL CUP HD" tvg-logo="" group-title="10-09-2026",EFL CUP HD
+#EXTINF:-1 tvg-name="EFL CUP HD" tvg-logo="" group-title="11-09-2026",EFL CUP HD
 https://chatgpt.hereisman.net/playlist/56112/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="10-09-2026",HD SERVER
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="11-09-2026",HD SERVER
 https://edgestream6.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="10-09-2026",LOW SERVER
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="11-09-2026",LOW SERVER
 http://193.47.62.55/hls/WAWAWAQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="10-09-2026",SPX LIVE [FHD]
+#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="11-09-2026",SPX LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/stl-sf
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="11-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/wsh-sd
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD]
+#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="11-09-2026",MLB LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-09/tex-sea
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="11-09-2026",beIN ENGLISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -455,55 +455,55 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Refe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="12-09-2026",PARAMOUNT+ FHD
+#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="13-09-2026",PARAMOUNT+ FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d3507f47a80d989950c3bd2278d30fe:496c078d72d4a546e82de8eea05be12c
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/t3ey0k5x8k/out/v1/cb09787e966f4bf7b482fb42397b50aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="12-09-2026",TNT SPORTS FHD
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="13-09-2026",TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ ES" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="12-09-2026",PARAMOUNT+ ES
+#EXTINF:-1 tvg-name="PARAMOUNT+ ES" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="13-09-2026",PARAMOUNT+ ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a376a2894284643366752b4a70bbc60:c380c60e90e5da5f7c153f466ae233a3
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qfzueywygj/out/v1/06e47cdb7418412d853429f602e29ece/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ PT" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="12-09-2026",PARAMOUNT+ PT
+#EXTINF:-1 tvg-name="PARAMOUNT+ PT" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="13-09-2026",PARAMOUNT+ PT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b3ab571ebb83f9b16dfc7294f03c3f0:b2f7336e74e92194c1f22979577c6400
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qw044y2yl3/out/v1/bd297c0904ac493a88956afbe4220a39/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="12-09-2026",PARAMOUNT+ HD
+#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="13-09-2026",PARAMOUNT+ HD
 https://chatgpt.hereisman.net/playlist/55823/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="PARAMOUNT+ [FHD]" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="12-09-2026",PARAMOUNT+ [FHD]
+#EXTINF:-1 tvg-name="PARAMOUNT+ [FHD]" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="13-09-2026",PARAMOUNT+ [FHD]
 https://embedindia.st/embed/ufc-fight-night-hooker-vs-parnasse
-#EXTINF:-1 tvg-name="PARAMOUNT+ ES [FHD]" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="12-09-2026",PARAMOUNT+ ES [FHD]
+#EXTINF:-1 tvg-name="PARAMOUNT+ ES [FHD]" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="13-09-2026",PARAMOUNT+ ES [FHD]
 https://embedindia.st/embed/ufc-fight-night-hooker-vs-parnasse/paramount-es
-#EXTINF:-1 tvg-name="PARAMOUNT+ PT [FHD]" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="12-09-2026",PARAMOUNT+ PT [FHD]
+#EXTINF:-1 tvg-name="PARAMOUNT+ PT [FHD]" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="13-09-2026",PARAMOUNT+ PT [FHD]
 https://embedindia.st/embed/ufc-fight-night-hooker-vs-parnasse/paramount-pt
-#EXTINF:-1 tvg-name="DAZN DE [FHD]" tvg-logo="" group-title="12-09-2026",DAZN DE [FHD]
+#EXTINF:-1 tvg-name="DAZN DE [FHD]" tvg-logo="" group-title="13-09-2026",DAZN DE [FHD]
 https://embedindia.st/embed/ufc-fight-night-hooker-vs-parnasse/dazn-de
-#EXTINF:-1 tvg-name="SD TV (USE VPN)" tvg-logo="" group-title="12-09-2026",SD TV (USE VPN)
+#EXTINF:-1 tvg-name="SD TV (USE VPN)" tvg-logo="" group-title="13-09-2026",SD TV (USE VPN)
 http://193.47.62.192/hls/FEEEEQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="SportsNet FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="12-09-2026",SportsNet FHD
+#EXTINF:-1 tvg-name="SportsNet FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="13-09-2026",SportsNet FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="" group-title="12-09-2026",PARAMOUNT+ HD
+#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="" group-title="13-09-2026",PARAMOUNT+ HD
 https://chatgpt.hereisman.net/playlist/53500/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="PARAMOUNT+ S2" tvg-logo="" group-title="12-09-2026",PARAMOUNT+ S2
+#EXTINF:-1 tvg-name="PARAMOUNT+ S2" tvg-logo="" group-title="13-09-2026",PARAMOUNT+ S2
 https://chatgpt.hereisman.net/playlist/53504/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="PARAMOUNT+ BR" tvg-logo="" group-title="12-09-2026",PARAMOUNT+ BR
+#EXTINF:-1 tvg-name="PARAMOUNT+ BR" tvg-logo="" group-title="13-09-2026",PARAMOUNT+ BR
 https://rdcstream.life/live/paramountplus/index.m3u8|referer=https://playerembed.xyz
-#EXTINF:-1 tvg-name="SD TV (USE VPN)" tvg-logo="" group-title="12-09-2026",SD TV (USE VPN)
+#EXTINF:-1 tvg-name="SD TV (USE VPN)" tvg-logo="" group-title="13-09-2026",SD TV (USE VPN)
 http://193.47.62.41/hls/suuu.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="WWE RAW [FHD]" tvg-logo="" group-title="15-09-2026",WWE RAW [FHD]
 https://embedindia.st/embed/wwe/2026-08-24
