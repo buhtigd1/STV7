@@ -83,44 +83,50 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=h
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cab8089ec22c79b7e48023d0f7cc3bd8:3baf207d85dfbfde3eeec1c7ae3cc4fc
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4b6jcx4eov/out/v1/3173a9cf67484677816695ee5c7107eb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=f845e1d42f316d417832a85f7220a0ce:3bf20a24044bb618803fd30587d76f98
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ooviqzozcz/out/v1/446de2305a514c0f804f033fff0d6f96/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="10-09-2026",TNT SPORTS - ETPL - 16:15–00:30
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW - ALT - ETPL - 16:15–00:30
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cab8089ec22c79b7e48023d0f7cc3bd8:3baf207d85dfbfde3eeec1c7ae3cc4fc
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4b6jcx4eov/out/v1/3173a9cf67484677816695ee5c7107eb/cenc.mpd
-#EXTINF:-1 tvg-name="TAPMAD - FHD" tvg-logo="" group-title="10-09-2026",TAPMAD - FHD - ETPL - 16:15–00:30
+#KODIPROP:inputstream.adaptive.license_key=f845e1d42f316d417832a85f7220a0ce:3bf20a24044bb618803fd30587d76f98
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ooviqzozcz/out/v1/446de2305a514c0f804f033fff0d6f96/cenc.mpd
+#EXTINF:-1 tvg-name="TAPMAD - AQ" tvg-logo="" group-title="10-09-2026",TAPMAD - AQ - ETPL - 16:15–00:30
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-name="FOX CRICKET HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="10-09-2026",FOX CRICKET HD - ETPL - 16:15–00:30
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW HD - ETPL - 16:15–00:30
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW - FHD - England vs Pakistan - 17:00–01:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=690201218ff23b214db738b4f9dbd0e5:3cc4af4885d71ac3cf41ed1de010156e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s0vxxrjcsl/out/v1/78d97a74f6b3438a89a405abd6de818e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="SKY CRICKET - AQ" tvg-logo="" group-title="10-09-2026",SKY CRICKET - AQ - England vs Pakistan - 17:00–01:00
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW - ALT - England vs Pakistan - 17:00–01:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=690201218ff23b214db738b4f9dbd0e5:3cc4af4885d71ac3cf41ed1de010156e
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/s0vxxrjcsl/out/v1/78d97a74f6b3438a89a405abd6de818e/cenc.mpd
 #EXTINF:-1 tvg-name="TAPMAD - AQ" tvg-logo="" group-title="10-09-2026",TAPMAD - AQ - England vs Pakistan - 17:00–01:00
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-name="TAMASHA - AQ" tvg-logo="" group-title="10-09-2026",TAMASHA - AQ - England vs Pakistan - 17:00–01:00
+https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDk6NDQ6NDcgQU0maGFzaF92YWx1ZT1VVmp4c1lmVFhEQ3hPNklqNDRUalV3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="FOX CRICKET HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="10-09-2026",FOX CRICKET HD - England vs Pakistan - 17:00–01:00
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-name="TEN SPORTS HD" tvg-logo="" group-title="10-09-2026",TEN SPORTS HD - England vs Pakistan - 17:00–01:00
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
 #EXTINF:-1 tvg-name="SonyLiv" tvg-logo="" group-title="10-09-2026",SonyLiv - England vs Pakistan - 17:00–01:00
-https://dai.google.com/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/criclive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7420defe27e52e0d9045387c32eb86b5-1789032604242
 #EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="10-09-2026",LOW SERVER - England vs Pakistan - 17:00–01:00
-http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/DDDDAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="10-09-2026",TNT SPORTS FHD - Fenerbahçe vs AS Roma - 23:45–01:50
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
