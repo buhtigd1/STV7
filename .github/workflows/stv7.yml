@@ -1,0 +1,41 @@
+name: Playlist Builder
+
+on:
+  schedule:
+    # Run every 3 hours
+    - cron: "0 */3 * * *"
+  workflow_dispatch:  # allow manual trigger
+
+jobs:
+  build-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run provider.py
+        run: |
+          python provider.py
+
+      - name: Add timestamp to log
+        run: |
+          echo "Updated at $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> stv7.log
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add stv7.m3u stv7.log
+          git commit -m "Update playlist and log at $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+          git push
