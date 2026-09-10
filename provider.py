@@ -16,14 +16,14 @@ def download(url: str) -> list:
     return resp.json()
 
 def parse_date(date_str: str) -> datetime | None:
-    """Parse startTime string into datetime object (UTC)."""
+    """Parse date string into datetime object (UTC)."""
     try:
         return datetime.strptime(date_str.split(" +")[0], "%Y/%m/%d %H:%M:%S").replace(tzinfo=timezone.utc)
     except Exception:
         return None
 
 def build_m3u(events: list) -> str:
-    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding 'Dude', 'MLB', and 'NFL' channels, with local start time in channel name."""
+    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding 'Dude', 'MLB', and 'NFL' channels, with event name and local start/end times in channel name."""
     # Sort events by startTime ascending
     sorted_events = sorted(
         events,
@@ -33,14 +33,25 @@ def build_m3u(events: list) -> str:
     lines = ["#EXTM3U\n"]
     for ev in sorted_events:
         start_time = ev.get("eventInfo", {}).get("startTime", "")
-        date_obj = parse_date(start_time)
-        if date_obj:
-            jakarta_dt = date_obj.astimezone(JAKARTA_TZ)
-            group = jakarta_dt.strftime("%d-%m-%Y")
-            local_time_str = jakarta_dt.strftime("%H:%M")
+        end_time = ev.get("eventInfo", {}).get("endTime", "")
+        event_title = ev.get("title", "")
+
+        start_dt = parse_date(start_time)
+        end_dt = parse_date(end_time)
+
+        if start_dt:
+            jakarta_start = start_dt.astimezone(JAKARTA_TZ)
+            group = jakarta_start.strftime("%d-%m-%Y")
+            start_str = jakarta_start.strftime("%H:%M")
         else:
             group = "UnknownDate"
-            local_time_str = ""
+            start_str = ""
+
+        if end_dt:
+            jakarta_end = end_dt.astimezone(JAKARTA_TZ)
+            end_str = jakarta_end.strftime("%H:%M")
+        else:
+            end_str = ""
 
         for ch in ev.get("decoded_channels", []):
             name = ch.get("title", "Unknown Channel")
@@ -55,8 +66,9 @@ def build_m3u(events: list) -> str:
             if not link:
                 continue
 
-            # EXTINF line with local start time appended to channel name
-            display_name = f"{name} {local_time_str}" if local_time_str else name
+            # EXTINF line with event title and local start/end times appended
+            time_part = f"{start_str}–{end_str}" if start_str and end_str else start_str
+            display_name = f"{name} - {event_title} - {time_part}" if time_part else f"{name} - {event_title}"
             lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{display_name}\n')
 
             # Widevine ClearKey properties if api exists
