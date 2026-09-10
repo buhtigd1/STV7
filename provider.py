@@ -12,11 +12,28 @@ def download(url: str) -> list:
     resp.raise_for_status()
     return resp.json()
 
+def parse_date(date_str: str) -> datetime | None:
+    """Parse startTime string into datetime object."""
+    try:
+        # Example format: "2026/09/11 08:30:00 +0000"
+        return datetime.strptime(date_str.split(" +")[0], "%Y/%m/%d %H:%M:%S")
+    except Exception:
+        return None
+
 def build_m3u(events: list) -> str:
-    """Build Kodi M3U playlist with Widevine ClearKey from decoded_channels."""
+    """Build Kodi M3U playlist grouped by event date."""
+    # Sort events by startTime ascending
+    sorted_events = sorted(
+        events,
+        key=lambda ev: parse_date(ev.get("eventInfo", {}).get("startTime", "")) or datetime.max
+    )
+
     lines = ["#EXTM3U\n"]
-    for ev in events:
-        group = ev.get("title", "General")
+    for ev in sorted_events:
+        start_time = ev.get("eventInfo", {}).get("startTime", "")
+        date_obj = parse_date(start_time)
+        group = date_obj.strftime("%Y-%m-%d") if date_obj else "UnknownDate"
+
         for ch in ev.get("decoded_channels", []):
             name = ch.get("title", "Unknown Channel")
             logo = ch.get("logo", "")
@@ -34,7 +51,6 @@ def build_m3u(events: list) -> str:
                 lines.append("#KODIPROP:inputstreamaddon=inputstream.adaptive\n")
                 lines.append("#KODIPROP:inputstream.adaptive.manifest_type=dash\n")
                 lines.append("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n")
-                # Use api string directly (already kid:key format in your JSON)
                 lines.append(f"#KODIPROP:inputstream.adaptive.license_key={api}\n")
 
             # Stream URL
