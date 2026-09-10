@@ -101,18 +101,46 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi1009/TAM/master.m
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1009/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=76178d3a8c34ced64bd647ba3652aba1-1789048200976
 #EXTINF:-1 tvg-name="SonyLiv - Kannada" tvg-logo="" group-title="10-09-2026",SonyLiv - Kannada - India W vs Bangladesh W - 21:30–01:15
 https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1009/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=76178d3a8c34ced64bd647ba3652aba1-1789048200976
+#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="" group-title="10-09-2026",PARAMOUNT+ FHD - Fenerbahçe vs AS Roma - 23:45–01:50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7c47c55bb2e36c4bdf8e62190551845:6bdc6b7181336205e8fbd70c1abcb630
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dagal4p349/out/v1/9bee813b23794c0987f1b45663173b81/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="10-09-2026",TNT SPORTS FHD - Fenerbahçe vs AS Roma - 23:45–01:50
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="" group-title="10-09-2026",PARAMOUNT+ HD - Fenerbahçe vs AS Roma - 23:45–01:50
+https://chatgpt.hereisman.net/playlist/56169/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-name="beIN ARABIC FHD" tvg-logo="" group-title="10-09-2026",beIN ARABIC FHD - Fenerbahçe vs AS Roma - 23:45–01:50
+https://hrthrtjhrtijkhiurt.chkgjkg.online/hls/68.m3u8
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="10-09-2026",HD SERVER - Fenerbahçe vs AS Roma - 23:45–01:50
+https://www.rtmpcdn.com/live/bf5477a3-55c0-478a-a3c6-7492c2897ac1.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="10-09-2026",SonyLiv (ENG) - Fenerbahçe vs AS Roma - 23:45–01:50
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Footlive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1aa342b0c16d12fa6b1bdfb6190aa0e3-1789056601932
+#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="10-09-2026",SD SERVER - Fenerbahçe vs AS Roma - 23:45–01:50
+http://193.47.62.55/hls/VAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="" group-title="10-09-2026",PARAMOUNT+ FHD - PSV Eindhoven vs Shakhtar Donetsk - 23:45–01:50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ab625e1136af7114b9c222d4b5f0916:443566ff55ac8c14546a2ef716e28825
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q69cjonkxm/out/v1/43733cfc2d6f43d1a2a5eb34935987ae/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="10-09-2026",TNT SPORTS FHD - PSV Eindhoven vs Shakhtar Donetsk - 23:45–01:50
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="10-09-2026",HD SERVER - PSV Eindhoven vs Shakhtar Donetsk - 23:45–01:50
+https://www.rtmpcdn.com/live/88baf42d-6bb2-490c-b308-6a2b2f77bb71.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="10-09-2026",SonyLiv (ENG) - PSV Eindhoven vs Shakhtar Donetsk - 23:45–01:50
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1aa342b0c16d12fa6b1bdfb6190aa0e3-1789056601932
+#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="10-09-2026",SD SERVER - PSV Eindhoven vs Shakhtar Donetsk - 23:45–01:50
+http://193.47.62.44/hls/VAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="11-09-2026",TNT SPORTS FHD - Manchester United vs Sabah - 02:00–04:10
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -260,7 +288,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="11-09-2026",SPX LIVE [FHD] - Seattle Mariners vs Texas Rangers - 03:10–06:10
-https://embedindia.st/embed/mlb/2026-09-09/stl-sf
+https://embedindia.st/embed/mlb/2026-09-10/tex-sea
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="11-09-2026",beIN ENGLISH FHD - Independiente vs Flamengo - 07:30–09:30
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -279,6 +307,44 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="" group-title="11-09-2026",TSN SPORTS FHD - Indianapolis Colts - 07:35–10:45
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TSN4 SPORTS FHD" tvg-logo="" group-title="11-09-2026",TSN4 SPORTS FHD - Indianapolis Colts - 07:35–10:45
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="PEACOCK TV FHD" tvg-logo="" group-title="11-09-2026",PEACOCK TV FHD - Indianapolis Colts - 07:35–10:45
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7841cf8bb88932dc03886bf3c02dc11e:a62589f3818c162bb9ad06bc7b0c609e
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ya4i7nnuyy/out/v1/b873bab13a8d4c9997fed2ce6ff4bd6d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="DAZN SPORTS FHD" tvg-logo="" group-title="11-09-2026",DAZN SPORTS FHD - Indianapolis Colts - 07:35–10:45
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae6ec1a71eb32003d708017652015f4:d546be6035f1c350e25ddcaad56a9ab9
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c71jccl3fk/out/v1/4222208d7fa54d69bf78a79b7a5b9a6d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="PEACOCK TV 4K" tvg-logo="" group-title="11-09-2026",PEACOCK TV 4K - Indianapolis Colts - 07:35–10:45
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b6a4622a2322e713bde46d64104c6b2:cf991bbbfc825b514bc2b7b219b7f4e7
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lhxga96eiv/out/v1/542c7196d5104e5fb8c5ab1283d25a10/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="NBC SPORTS FHD" tvg-logo="" group-title="11-09-2026",NBC SPORTS FHD - Indianapolis Colts - 07:35–10:45
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="11-09-2026",HD SERVER - Indianapolis Colts - 07:35–10:45
+https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
 #EXTINF:-1 tvg-name="FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="11-09-2026",FANCODE FHD - Namibia vs South Africa - 14:30–22:30
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
