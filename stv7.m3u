@@ -141,72 +141,6 @@ https://www.rtmpcdn.com/live/88baf42d-6bb2-490c-b308-6a2b2f77bb71.m3u8?|Referer=
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1aa342b0c16d12fa6b1bdfb6190aa0e3-1789056601932
 #EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="10-09-2026",SD SERVER - PSV Eindhoven vs Shakhtar Donetsk - 23:45–01:50
 http://193.47.62.44/hls/VAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="11-09-2026",TNT SPORTS FHD - Manchester United vs Sabah - 02:00–04:10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="11-09-2026",PARAMOUNT+ FHD - Bayern vs Bodø/Glimt - 02:00–04:10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd9adfa77cd7ef0ee32b67c2511b4132:e2b31e51ab954d894280476d73f75ed6
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rzoyb9fllc/out/v1/8926eb65b8f64effb889daad38114562/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="11-09-2026",TNT SPORTS FHD - Bayern vs Bodø/Glimt - 02:00–04:10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PRIME VISION (IT)" tvg-logo="" group-title="11-09-2026",PRIME VISION (IT) - Bayern vs Bodø/Glimt - 02:00–04:10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d5858307c485fbe867b3be16a90c04d:702c85b1f92f3074db651acc555367ba
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/moppq8e27i/out/v1/b979e15ea681450196bf11d55da65b04/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PRIME VIDEO 4k (IT)" tvg-logo="" group-title="11-09-2026",PRIME VIDEO 4k (IT) - Bayern vs Bodø/Glimt - 02:00–04:10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae5c74948cad12851a7200464e50c55f:3c6cfb996bbbda74d2af8b82e126f6be
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjg77gklw5/out/v1/a70a4260e5f547f5a3e18faf0bc2514b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="11-09-2026",PARAMOUNT+ HD - Bayern vs Bodø/Glimt - 02:00–04:10
-https://chatgpt.hereisman.net/playlist/56111/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="beIN ARABIC FHD" tvg-logo="" group-title="11-09-2026",beIN ARABIC FHD - Bayern vs Bodø/Glimt - 02:00–04:10
-https://hrthrtjhrtijkhiurt.chkgjkg.online/hls/56.m3u8
-#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="11-09-2026",SonyLiv (ENG) - Bayern vs Bodø/Glimt - 02:00–04:10
-https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789022870~acl=/*~id=31225690679829302002975308645808~hmac=a02582543b9d7bca51a92c34d40efb97ff5ea2b7149678a33cb8197c3ee30434|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=03c688b4739ab2e8c31457fea2cc122a-1788970202691
-#EXTINF:-1 tvg-name="SonyLiv (HIN)" tvg-logo="" group-title="11-09-2026",SonyLiv (HIN) - Bayern vs Bodø/Glimt - 02:00–04:10
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/Footlive0909/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc7ea2ba64aeddde3d156e934dce4dab-1788978603554
-#EXTINF:-1 tvg-name="ENGLISH HD" tvg-logo="" group-title="11-09-2026",ENGLISH HD - Bayern vs Bodø/Glimt - 02:00–04:10
-https://edgestream5.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="11-09-2026",HD SERVER - Bayern vs Bodø/Glimt - 02:00–04:10
-https://www.rtmpcdn.com/live/95b24386-ffe5-4087-8244-2430a12df9d9.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="11-09-2026",LOW SERVER - Bayern vs Bodø/Glimt - 02:00–04:10
-http://193.47.62.55/hls/WAWAWAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="11-09-2026",TNT SPORTS FHD - Como vs RB Leipzig - 02:00–04:05
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="11-09-2026",PARAMOUNT+ FHD - Slavia Praha vs RC Lens - 02:00–04:00
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b95afcb8286e4d4922b4acc7e9170b9a:cc0df72257f3838a48405ea83017fb14
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yv2uy4vjzo/out/v1/eeb6bca6dc544b9ea7004bbc58cfce22/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="11-09-2026",CBS SPORTS HD - Slavia Praha vs RC Lens - 02:00–04:00
-https://chatgpt.hereisman.net/playlist/56116/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="11-09-2026",SonyLiv (ENG) - Slavia Praha vs RC Lens - 02:00–04:00
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/Footlive0909/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=24a288f0bd85efe1fa4b5211cf8fd720-1788979803713
-#EXTINF:-1 tvg-name="ENGLISH HD" tvg-logo="" group-title="11-09-2026",ENGLISH HD - Slavia Praha vs RC Lens - 02:00–04:00
-https://edgestream5.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="11-09-2026",HD SERVER - Slavia Praha vs RC Lens - 02:00–04:00
-https://www.rtmpcdn.com/live/f0ee58f7-5c4b-4679-8416-a966bcc7fc9c.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="11-09-2026",LOW SERVER - Slavia Praha vs RC Lens - 02:00–04:00
-http://193.47.62.55/hls/WAWAWA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="11-09-2026",beIN ENGLISH FHD - Stevenage vs Luton Town - 02:00–04:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -241,6 +175,8 @@ http://193.47.62.55/hls/WAWAWAQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="ESPN SPORTS HD" tvg-logo="" group-title="11-09-2026",ESPN SPORTS HD - US OPEN - 03:00–10:00
+https://chatgpt.hereisman.net/playlist/55966/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-name="TSN4 SPORTS" tvg-logo="" group-title="11-09-2026",TSN4 SPORTS - US OPEN - 03:00–10:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -287,8 +223,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="11-09-2026",SPX LIVE [FHD] - Seattle Mariners vs Texas Rangers - 03:10–06:10
-https://embedindia.st/embed/mlb/2026-09-10/tex-sea
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="11-09-2026",beIN ENGLISH FHD - Independiente vs Flamengo - 07:30–09:30
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
