@@ -15,13 +15,12 @@ def download(url: str) -> list:
 def parse_date(date_str: str) -> datetime | None:
     """Parse startTime string into datetime object."""
     try:
-        # Example format: "2026/09/11 08:30:00 +0000"
         return datetime.strptime(date_str.split(" +")[0], "%Y/%m/%d %H:%M:%S")
     except Exception:
         return None
 
 def build_m3u(events: list) -> str:
-    """Build Kodi M3U playlist grouped by event date."""
+    """Build Kodi M3U playlist grouped by event date (DD-MM-YYYY), excluding 'Dude' channels."""
     # Sort events by startTime ascending
     sorted_events = sorted(
         events,
@@ -32,13 +31,17 @@ def build_m3u(events: list) -> str:
     for ev in sorted_events:
         start_time = ev.get("eventInfo", {}).get("startTime", "")
         date_obj = parse_date(start_time)
-        group = date_obj.strftime("%Y-%m-%d") if date_obj else "UnknownDate"
+        group = date_obj.strftime("%d-%m-%Y") if date_obj else "UnknownDate"
 
         for ch in ev.get("decoded_channels", []):
             name = ch.get("title", "Unknown Channel")
             logo = ch.get("logo", "")
             link = ch.get("link", "")
             api = ch.get("api", "")
+
+            # Skip channels containing "Dude" (case-insensitive)
+            if "dude" in name.lower():
+                continue
 
             if not link:
                 continue
