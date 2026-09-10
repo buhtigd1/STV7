@@ -1,47 +1,62 @@
 import json
 import requests
+import base64
 from datetime import datetime
 
 SOURCE_URL = "https://raw.githubusercontent.com/mdjamsad9/dudetvapi/main/public_decrypted/events_with_channels.json"
 OUTPUT_FILE = "stv7.m3u"
 LOG_FILE = "stv7.log"
 
-def download(url: str) -> dict:
+def download(url: str) -> list:
     resp = requests.get(url, timeout=30)
     resp.raise_for_status()
     return resp.json()
 
-def extract_stream(ch: dict) -> str | None:
-    """Try multiple possible keys for stream URL."""
-    for key in ["url", "stream_url", "link", "play_url"]:
-        if key in ch and ch[key]:
-            return ch[key]
-    # Example of nested source list
-    if "sources" in ch and isinstance(ch["sources"], list) and ch["sources"]:
-        return ch["sources"][0].get("url")
+def parse_api(api_str: str) -> str | None:
+    """Decode base64 api field into kid:key format for Kodi ClearKey."""
+    if not api_str:
+        return None
+    try:
+        decoded = base64.b64decode(api_str).decode("utf-8")
+        if ":" in decoded:
+            kid, key = decoded.split(":", 1)
+            return f"{kid}:{key}"
+    except Exception:
+        return None
     return None
 
-def build_m3u(data: dict) -> str:
+def build_m3u(events: list) -> str:
     lines = ["#EXTM3U\n"]
-    for event in data.get("events", []):
-        event_name = event.get("event_name", "General")
-        for ch in event.get("channels", []):
-            name = ch.get("name", "Unknown")
+    for ev in events:
+        title = ev.get("title", "Unknown Event")
+        for ch in ev.get("decoded_channels", []):
+            name = ch.get("title", "Unknown Channel")
             logo = ch.get("logo", "")
-            stream = extract_stream(ch)
-            if not stream:
+            link = ch.get("link", "")
+            api = parse_api(ch.get("api", ""))
+
+            if not link:
                 continue
-            lines.append(
-                f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{event_name}",{name}\n'
-                f'{stream}\n'
-            )
+
+            # Kodi EXTINF
+            lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{title}",{name}\n')
+
+            # Widevine ClearKey if available
+            if api:
+                lines.append("#KODIPROP:inputstreamaddon=inputstream.adaptive\n")
+                lines.append("#KODIPROP:inputstream.adaptive.manifest_type=dash\n")
+                lines.append("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n")
+                lines.append(f"#KODIPROP:inputstream.adaptive.license_key={api}\n")
+
+            # Stream URL
+            lines.append(f"{link}\n")
     return "".join(lines)
 
 def main():
     log_entries = [f"Run started at {datetime.now().isoformat()}"]
     try:
-        data = download(SOURCE_URL)
-        playlist = build_m3u(data)
+        events = download(SOURCE_URL)
+        playlist = build_m3u(events)
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(playlist)
         log_entries.append(f"✅ Playlist written to {OUTPUT_FILE}")
