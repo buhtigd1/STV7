@@ -8,6 +8,7 @@ OUTPUT_FILE = "stv7.m3u"
 LOG_FILE = "stv7.log"
 
 def download(url: str) -> list:
+    """Download and parse JSON from a URL."""
     resp = requests.get(url, timeout=30)
     resp.raise_for_status()
     return resp.json()
@@ -26,9 +27,10 @@ def parse_api(api_str: str) -> str | None:
     return None
 
 def build_m3u(events: list) -> str:
+    """Build Kodi M3U playlist with Widevine ClearKey when available."""
     lines = ["#EXTM3U\n"]
     for ev in events:
-        title = ev.get("title", "Unknown Event")
+        group = ev.get("title", "General")
         for ch in ev.get("decoded_channels", []):
             name = ch.get("title", "Unknown Channel")
             logo = ch.get("logo", "")
@@ -38,11 +40,11 @@ def build_m3u(events: list) -> str:
             if not link:
                 continue
 
-            # Kodi EXTINF
-            lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{title}",{name}\n')
+            # EXTINF line
+            lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n')
 
-            # Widevine ClearKey if available
-            if api:
+            # Widevine ClearKey properties if api exists
+            if api and link.endswith(".mpd"):
                 lines.append("#KODIPROP:inputstreamaddon=inputstream.adaptive\n")
                 lines.append("#KODIPROP:inputstream.adaptive.manifest_type=dash\n")
                 lines.append("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n")
