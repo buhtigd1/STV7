@@ -61,24 +61,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD] 05:35
-https://embedindia.st/embed/mlb/2026-09-09/cle-bal
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD] 05:40
-https://embedindia.st/embed/mlb/2026-09-09/nym-mia
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD] 05:40
-https://embedindia.st/embed/mlb/2026-09-09/hou-phi
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD] 05:45
-https://embedindia.st/embed/mlb/2026-09-09/laa-bos
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD] 06:05
-https://embedindia.st/embed/mlb/2026-09-09/col-nyy
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD] 06:15
-https://embedindia.st/embed/mlb/2026-09-09/tb-atl
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD] 06:40
-https://embedindia.st/embed/mlb/2026-09-09/pit-chw
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD] 06:40
-https://embedindia.st/embed/mlb/2026-09-09/ari-kc
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD] 06:40
-https://embedindia.st/embed/mlb/2026-09-09/chc-mil
 #EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="10-09-2026",TSN SPORTS 07:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -127,20 +109,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="NFL GAMEPASS FHD" tvg-logo="" group-title="10-09-2026",NFL GAMEPASS FHD 07:20
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c73c30e99e5ca273d95bbfec4db66943:989664c4e64f615d06cb3c19603b8723
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/llxsugerhv/out/v1/2d985584b7e54605abedb7022085fc79/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="TSN4 SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="10-09-2026",TSN4 SPORTS FHD 07:20
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="NFL LIVE [FHD]" tvg-logo="" group-title="10-09-2026",NFL LIVE [FHD] 07:20
-https://embedindia.st/embed/nfl/2026-08-29/det-ind
 #EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="10-09-2026",HD SERVER 07:20
 https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="10-09-2026",beIN ENGLISH FHD 07:30
@@ -173,8 +147,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD] 09:10
-https://embedindia.st/embed/mlb/2026-09-09/cin-lad
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW - FHD 16:15
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -217,8 +189,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m
 https://dai.google.com/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8
 #EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="10-09-2026",LOW SERVER 17:00
 http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="10-09-2026",MLB LIVE [FHD] 23:15
-https://embedindia.st/embed/mlb/2026-09-09/min-det
 #EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="10-09-2026",TNT SPORTS FHD 23:45
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -231,8 +201,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="11-09-2026",MLB LIVE [FHD] 00:05
-https://embedindia.st/embed/mlb/2026-09-09/tor-ath
 #EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="11-09-2026",TNT SPORTS FHD 02:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -329,10 +297,6 @@ https://edgestream6.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.onli
 http://193.47.62.55/hls/WAWAWAQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="11-09-2026",SPX LIVE [FHD] 03:10
 https://embedindia.st/embed/mlb/2026-09-09/stl-sf
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="11-09-2026",MLB LIVE [FHD] 06:05
-https://embedindia.st/embed/mlb/2026-09-09/wsh-sd
-#EXTINF:-1 tvg-name="MLB LIVE [FHD]" tvg-logo="" group-title="11-09-2026",MLB LIVE [FHD] 06:40
-https://embedindia.st/embed/mlb/2026-09-09/tex-sea
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="11-09-2026",beIN ENGLISH FHD 07:30
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
