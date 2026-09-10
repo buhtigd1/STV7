@@ -44,7 +44,7 @@ def build_m3u(events: list) -> str:
             lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n')
 
             # Widevine ClearKey properties if api exists
-            if api and link.endswith(".mpd"):
+            if api and ".mpd" in link:
                 lines.append("#KODIPROP:inputstreamaddon=inputstream.adaptive\n")
                 lines.append("#KODIPROP:inputstream.adaptive.manifest_type=dash\n")
                 lines.append("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n")
