@@ -23,7 +23,7 @@ def parse_date(date_str: str) -> datetime | None:
         return None
 
 def build_m3u(events: list) -> str:
-    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding 'Dude' channels, with local start time in channel name."""
+    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding 'Dude', 'MLB', and 'NFL' channels, with local start time in channel name."""
     # Sort events by startTime ascending
     sorted_events = sorted(
         events,
@@ -48,8 +48,8 @@ def build_m3u(events: list) -> str:
             link = ch.get("link", "")
             api = ch.get("api", "")
 
-            # Skip channels containing "Dude" (case-insensitive)
-            if "dude" in name.lower():
+            # Skip channels containing "Dude", "MLB", or "NFL" (case-insensitive)
+            if any(word in name.lower() for word in ["dude", "mlb", "nfl"]):
                 continue
 
             if not link:
