@@ -1,10 +1,13 @@
 import json
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 SOURCE_URL = "https://raw.githubusercontent.com/mdjamsad9/dudetvapi/main/public_decrypted/events_with_channels.json"
 OUTPUT_FILE = "stv7.m3u"
 LOG_FILE = "stv7.log"
+
+# Jakarta timezone (UTC+7)
+JAKARTA_TZ = timezone(timedelta(hours=7))
 
 def download(url: str) -> list:
     """Download and parse JSON from a URL."""
@@ -13,25 +16,31 @@ def download(url: str) -> list:
     return resp.json()
 
 def parse_date(date_str: str) -> datetime | None:
-    """Parse startTime string into datetime object."""
+    """Parse startTime string into datetime object (UTC)."""
     try:
-        return datetime.strptime(date_str.split(" +")[0], "%Y/%m/%d %H:%M:%S")
+        # Example format: "2026/09/11 08:30:00 +0000"
+        return datetime.strptime(date_str.split(" +")[0], "%Y/%m/%d %H:%M:%S").replace(tzinfo=timezone.utc)
     except Exception:
         return None
 
 def build_m3u(events: list) -> str:
-    """Build Kodi M3U playlist grouped by event date (DD-MM-YYYY), excluding 'Dude' channels."""
+    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding 'Dude' channels."""
     # Sort events by startTime ascending
     sorted_events = sorted(
         events,
-        key=lambda ev: parse_date(ev.get("eventInfo", {}).get("startTime", "")) or datetime.max
+        key=lambda ev: parse_date(ev.get("eventInfo", {}).get("startTime", "")) or datetime.max.replace(tzinfo=timezone.utc)
     )
 
     lines = ["#EXTM3U\n"]
     for ev in sorted_events:
         start_time = ev.get("eventInfo", {}).get("startTime", "")
         date_obj = parse_date(start_time)
-        group = date_obj.strftime("%d-%m-%Y") if date_obj else "UnknownDate"
+        # Convert to Jakarta time
+        if date_obj:
+            jakarta_date = date_obj.astimezone(JAKARTA_TZ)
+            group = jakarta_date.strftime("%d-%m-%Y")
+        else:
+            group = "UnknownDate"
 
         for ch in ev.get("decoded_channels", []):
             name = ch.get("title", "Unknown Channel")
