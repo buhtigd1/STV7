@@ -23,9 +23,7 @@ def parse_date(date_str: str) -> datetime | None:
         return None
 
 def build_m3u(events: list) -> str:
-    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding expired events and unwanted channels."""
-    now_jkt = datetime.now(JAKARTA_TZ)
-
+    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding 'Dude', 'MLB', and 'NFL' channels, with event name and local start/end times in channel name."""
     # Sort events by startTime ascending
     sorted_events = sorted(
         events,
@@ -41,17 +39,19 @@ def build_m3u(events: list) -> str:
         start_dt = parse_date(start_time)
         end_dt = parse_date(end_time)
 
-        # Convert to Jakarta time
-        jakarta_start = start_dt.astimezone(JAKARTA_TZ) if start_dt else None
-        jakarta_end = end_dt.astimezone(JAKARTA_TZ) if end_dt else None
+        if start_dt:
+            jakarta_start = start_dt.astimezone(JAKARTA_TZ)
+            group = jakarta_start.strftime("%d-%m-%Y")
+            start_str = jakarta_start.strftime("%H:%M")
+        else:
+            group = "UnknownDate"
+            start_str = ""
 
-        # Skip events that have already ended in Jakarta time
-        if jakarta_end and jakarta_end < now_jkt:
-            continue
-
-        group = jakarta_start.strftime("%d-%m-%Y") if jakarta_start else "UnknownDate"
-        start_str = jakarta_start.strftime("%H:%M") if jakarta_start else ""
-        end_str = jakarta_end.strftime("%H:%M") if jakarta_end else ""
+        if end_dt:
+            jakarta_end = end_dt.astimezone(JAKARTA_TZ)
+            end_str = jakarta_end.strftime("%H:%M")
+        else:
+            end_str = ""
 
         for ch in ev.get("decoded_channels", []):
             name = ch.get("title", "Unknown Channel")
