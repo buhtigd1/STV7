@@ -2,8 +2,8 @@ name: Playlist Builder
 
 on:
   schedule:
-    # Run every hour
-    - cron: "0 */1 * * *"
+    # Run every 3 hours
+    - cron: "0 */3 * * *"
   workflow_dispatch:  # allow manual trigger
 
 jobs:
