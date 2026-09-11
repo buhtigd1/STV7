@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="09-09-2026",TNT SPORTS FHD - CPL - 06:00–10:00
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TAPMAD FHD" tvg-logo="" group-title="09-09-2026",TAPMAD FHD - CPL - 06:00–10:00
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com
-#EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="" group-title="09-09-2026",WILLOW HD - CPL - 06:00–10:00
-http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="10-09-2026",TSN SPORTS - WWE - 07:00–09:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -27,148 +17,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
 #EXTINF:-1 tvg-name="BACKUP SD" tvg-logo="" group-title="10-09-2026",BACKUP SD - WWE - 07:00–09:00
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
-#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW - FHD - ETPL - 16:15–00:30
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2420d5014ea17f77f5400b8214e10ac2:46c3d858547ddd9f0b8d0b7a3b057868
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e0bkc74zda/out/v1/6577da522b874e25a1954c2897edd4d4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="10-09-2026",TNT SPORTS - ETPL - 16:15–00:30
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW - ALT - ETPL - 16:15–00:30
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2420d5014ea17f77f5400b8214e10ac2:46c3d858547ddd9f0b8d0b7a3b057868
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/e0bkc74zda/out/v1/6577da522b874e25a1954c2897edd4d4/cenc.mpd
-#EXTINF:-1 tvg-name="TAPMAD - AQ" tvg-logo="" group-title="10-09-2026",TAPMAD - AQ - ETPL - 16:15–00:30
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW HD - ETPL - 16:15–00:30
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW - FHD - England vs Pakistan - 17:00–01:00
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s0vxxrjcsl/out/v1/78d97a74f6b3438a89a405abd6de818e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SKY CRICKET - AQ" tvg-logo="" group-title="10-09-2026",SKY CRICKET - AQ - England vs Pakistan - 17:00–01:00
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW - ALT - England vs Pakistan - 17:00–01:00
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/s0vxxrjcsl/out/v1/78d97a74f6b3438a89a405abd6de818e/cenc.mpd
-#EXTINF:-1 tvg-name="TAPMAD - AQ" tvg-logo="" group-title="10-09-2026",TAPMAD - AQ - England vs Pakistan - 17:00–01:00
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-name="TAMASHA - AQ" tvg-logo="" group-title="10-09-2026",TAMASHA - AQ - England vs Pakistan - 17:00–01:00
-https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDk6NDQ6NDcgQU0maGFzaF92YWx1ZT1VVmp4c1lmVFhEQ3hPNklqNDRUalV3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-name="FOX CRICKET HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="10-09-2026",FOX CRICKET HD - England vs Pakistan - 17:00–01:00
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-name="TEN SPORTS HD" tvg-logo="" group-title="10-09-2026",TEN SPORTS HD - England vs Pakistan - 17:00–01:00
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
-#EXTINF:-1 tvg-name="SonyLiv" tvg-logo="" group-title="10-09-2026",SonyLiv - England vs Pakistan - 17:00–01:00
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/criclive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7420defe27e52e0d9045387c32eb86b5-1789032604242
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="10-09-2026",LOW SERVER - England vs Pakistan - 17:00–01:00
-http://193.47.62.41/hls/DDDDAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW - FHD - India W vs Bangladesh W - 21:30–01:15
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="10-09-2026",WILLOW - ALT - India W vs Bangladesh W - 21:30–01:15
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd
-#EXTINF:-1 tvg-name="TAMASHA - AQ" tvg-logo="" group-title="10-09-2026",TAMASHA - AQ - India W vs Bangladesh W - 21:30–01:15
-https://cdn05khi-n.tamashaweb.com:8087/jazzauth/wac2026-svod-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI2IDI6MjY6MzUgUE0maGFzaF92YWx1ZT1PSkdDa0NiUjFDdzY0WlVER1pRU2pnPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-name="T SPORTS HD" tvg-logo="" group-title="10-09-2026",T SPORTS HD - India W vs Bangladesh W - 21:30–01:15
-https://tvsen7.aynascope.net/Sports1/index.m3u8
-#EXTINF:-1 tvg-name="SonyLiv - English" tvg-logo="" group-title="10-09-2026",SonyLiv - English - India W vs Bangladesh W - 21:30–01:15
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=76178d3a8c34ced64bd647ba3652aba1-1789048200976
-#EXTINF:-1 tvg-name="SonyLiv - Hindi" tvg-logo="" group-title="10-09-2026",SonyLiv - Hindi - India W vs Bangladesh W - 21:30–01:15
-https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi1009/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=76178d3a8c34ced64bd647ba3652aba1-1789048200976
-#EXTINF:-1 tvg-name="SonyLiv - Tamil" tvg-logo="" group-title="10-09-2026",SonyLiv - Tamil - India W vs Bangladesh W - 21:30–01:15
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi1009/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=76178d3a8c34ced64bd647ba3652aba1-1789048200976
-#EXTINF:-1 tvg-name="SonyLiv - Telugu" tvg-logo="" group-title="10-09-2026",SonyLiv - Telugu - India W vs Bangladesh W - 21:30–01:15
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1009/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=76178d3a8c34ced64bd647ba3652aba1-1789048200976
-#EXTINF:-1 tvg-name="SonyLiv - Kannada" tvg-logo="" group-title="10-09-2026",SonyLiv - Kannada - India W vs Bangladesh W - 21:30–01:15
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1009/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=76178d3a8c34ced64bd647ba3652aba1-1789048200976
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="" group-title="10-09-2026",PARAMOUNT+ FHD - Fenerbahçe vs AS Roma - 23:45–01:50
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7c47c55bb2e36c4bdf8e62190551845:6bdc6b7181336205e8fbd70c1abcb630
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dagal4p349/out/v1/9bee813b23794c0987f1b45663173b81/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="10-09-2026",TNT SPORTS FHD - Fenerbahçe vs AS Roma - 23:45–01:50
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="" group-title="10-09-2026",PARAMOUNT+ HD - Fenerbahçe vs AS Roma - 23:45–01:50
-https://chatgpt.hereisman.net/playlist/56169/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="beIN ARABIC FHD" tvg-logo="" group-title="10-09-2026",beIN ARABIC FHD - Fenerbahçe vs AS Roma - 23:45–01:50
-https://hrthrtjhrtijkhiurt.chkgjkg.online/hls/68.m3u8
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="10-09-2026",HD SERVER - Fenerbahçe vs AS Roma - 23:45–01:50
-https://www.rtmpcdn.com/live/bf5477a3-55c0-478a-a3c6-7492c2897ac1.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="10-09-2026",SonyLiv (ENG) - Fenerbahçe vs AS Roma - 23:45–01:50
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Footlive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1aa342b0c16d12fa6b1bdfb6190aa0e3-1789056601932
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="10-09-2026",SD SERVER - Fenerbahçe vs AS Roma - 23:45–01:50
-http://193.47.62.55/hls/VAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="" group-title="10-09-2026",PARAMOUNT+ FHD - PSV Eindhoven vs Shakhtar Donetsk - 23:45–01:50
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ab625e1136af7114b9c222d4b5f0916:443566ff55ac8c14546a2ef716e28825
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q69cjonkxm/out/v1/43733cfc2d6f43d1a2a5eb34935987ae/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="10-09-2026",TNT SPORTS FHD - PSV Eindhoven vs Shakhtar Donetsk - 23:45–01:50
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="10-09-2026",HD SERVER - PSV Eindhoven vs Shakhtar Donetsk - 23:45–01:50
-https://www.rtmpcdn.com/live/88baf42d-6bb2-490c-b308-6a2b2f77bb71.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="10-09-2026",SonyLiv (ENG) - PSV Eindhoven vs Shakhtar Donetsk - 23:45–01:50
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1aa342b0c16d12fa6b1bdfb6190aa0e3-1789056601932
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="10-09-2026",SD SERVER - PSV Eindhoven vs Shakhtar Donetsk - 23:45–01:50
-http://193.47.62.44/hls/VAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="11-09-2026",beIN ENGLISH FHD - Stevenage vs Luton Town - 02:00–04:00
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="11-09-2026",SD SERVER - Stevenage vs Luton Town - 02:00–04:00
-http://193.47.62.41/hls/FAFAFAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="11-09-2026",PARAMOUNT+ FHD - Amadora vs Sporting Braga - 02:15–04:20
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=84b21ffa0ed1eb4ddeb65da3c955326a:ba080a4afb37b81be8575492af1a5188
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uaid5yqlgg/out/v1/add0d46fdcdd4e08b4c4e12113b4dac1/70594a4d-9cfb-4ac4-bb8a-aa805a08efae-cenc.mpd?aws_sessionId=d9d71bf7-94ba-4de9-8042-2230130ee2a0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="11-09-2026",beIN ENGLISH FHD - Amadora vs Sporting Braga - 02:15–04:20
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SKY MAIN EVENT" tvg-logo="" group-title="11-09-2026",SKY MAIN EVENT - Amadora vs Sporting Braga - 02:15–04:20
-https://chatgpt.hereisman.net/playlist/56121/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="EFL CUP HD" tvg-logo="" group-title="11-09-2026",EFL CUP HD - Amadora vs Sporting Braga - 02:15–04:20
-https://chatgpt.hereisman.net/playlist/56112/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="11-09-2026",HD SERVER - Amadora vs Sporting Braga - 02:15–04:20
-https://edgestream6.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="11-09-2026",LOW SERVER - Amadora vs Sporting Braga - 02:15–04:20
-http://193.47.62.55/hls/WAWAWAQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="" group-title="11-09-2026",TSN SPORTS - US OPEN - 03:00–10:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -223,62 +71,8 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="11-09-2026",beIN ENGLISH FHD - Independiente vs Flamengo - 07:30–09:30
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="11-09-2026",beIN ENGLISH FHD - Cienciano vs Torque - 07:30–09:30
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="D Sports FHD" tvg-logo="" group-title="11-09-2026",D Sports FHD - Cienciano vs Torque - 07:30–09:30
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="" group-title="11-09-2026",TSN SPORTS FHD - Indianapolis Colts - 07:35–10:45
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN4 SPORTS FHD" tvg-logo="" group-title="11-09-2026",TSN4 SPORTS FHD - Indianapolis Colts - 07:35–10:45
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PEACOCK TV FHD" tvg-logo="" group-title="11-09-2026",PEACOCK TV FHD - Indianapolis Colts - 07:35–10:45
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7841cf8bb88932dc03886bf3c02dc11e:a62589f3818c162bb9ad06bc7b0c609e
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ya4i7nnuyy/out/v1/b873bab13a8d4c9997fed2ce6ff4bd6d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="DAZN SPORTS FHD" tvg-logo="" group-title="11-09-2026",DAZN SPORTS FHD - Indianapolis Colts - 07:35–10:45
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eae6ec1a71eb32003d708017652015f4:d546be6035f1c350e25ddcaad56a9ab9
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c71jccl3fk/out/v1/4222208d7fa54d69bf78a79b7a5b9a6d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PEACOCK TV 4K" tvg-logo="" group-title="11-09-2026",PEACOCK TV 4K - Indianapolis Colts - 07:35–10:45
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b6a4622a2322e713bde46d64104c6b2:cf991bbbfc825b514bc2b7b219b7f4e7
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lhxga96eiv/out/v1/542c7196d5104e5fb8c5ab1283d25a10/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="NBC SPORTS FHD" tvg-logo="" group-title="11-09-2026",NBC SPORTS FHD - Indianapolis Colts - 07:35–10:45
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="11-09-2026",HD SERVER - Indianapolis Colts - 07:35–10:45
-https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
+#EXTINF:-1 tvg-name="Liga MX [FHD]" tvg-logo="" group-title="11-09-2026",Liga MX [FHD] - Pumas UNAM vs Club León - 10:05–12:10
+https://embedindia.st/embed/liga-mx/2026-09-10/unam-leo
 #EXTINF:-1 tvg-name="FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="11-09-2026",FANCODE FHD - Namibia vs South Africa - 14:30–22:30
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -347,6 +141,50 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="11-09-2026",TNT SPORTS HD - MotoGP - 15:30–21:00
 https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
+#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="11-09-2026",WILLOW - FHD - England vs Pakistan - 17:00–01:00
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s0vxxrjcsl/out/v1/78d97a74f6b3438a89a405abd6de818e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="SKY CRICKET - AQ" tvg-logo="" group-title="11-09-2026",SKY CRICKET - AQ - England vs Pakistan - 17:00–01:00
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="11-09-2026",WILLOW - ALT - England vs Pakistan - 17:00–01:00
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/s0vxxrjcsl/out/v1/78d97a74f6b3438a89a405abd6de818e/cenc.mpd
+#EXTINF:-1 tvg-name="TAPMAD - AQ" tvg-logo="" group-title="11-09-2026",TAPMAD - AQ - England vs Pakistan - 17:00–01:00
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-name="TAMASHA - AQ" tvg-logo="" group-title="11-09-2026",TAMASHA - AQ - England vs Pakistan - 17:00–01:00
+https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDk6NDQ6NDcgQU0maGFzaF92YWx1ZT1VVmp4c1lmVFhEQ3hPNklqNDRUalV3PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-name="FOX CRICKET HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="11-09-2026",FOX CRICKET HD - England vs Pakistan - 17:00–01:00
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="TEN SPORTS HD" tvg-logo="" group-title="11-09-2026",TEN SPORTS HD - England vs Pakistan - 17:00–01:00
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
+#EXTINF:-1 tvg-name="SonyLiv" tvg-logo="" group-title="11-09-2026",SonyLiv - England vs Pakistan - 17:00–01:00
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/criclive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7420defe27e52e0d9045387c32eb86b5-1789032604242
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="11-09-2026",LOW SERVER - England vs Pakistan - 17:00–01:00
+http://193.47.62.41/hls/DDDDAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="11-09-2026",TNT SPORTS FHD - Dockers vs Geelong Cats - 17:10–20:10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="" group-title="11-09-2026",TSN SPORTS FHD - Dockers vs Geelong Cats - 17:10–20:10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="FOX SPORTS FHD" tvg-logo="" group-title="11-09-2026",FOX SPORTS FHD - Dockers vs Geelong Cats - 17:10–20:10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="FANCODE FHD" tvg-logo="" group-title="11-09-2026",FANCODE FHD - Formula 1 - 18:30–23:30
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -437,6 +275,136 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 #EXTINF:-1 tvg-name="Server 4" tvg-logo="" group-title="11-09-2026",Server 4 - ONE Friday Fights - 19:30–23:30
 https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8
+#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="11-09-2026",WILLOW - FHD - ETPL - 20:15–00:30
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2420d5014ea17f77f5400b8214e10ac2:46c3d858547ddd9f0b8d0b7a3b057868
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e0bkc74zda/out/v1/6577da522b874e25a1954c2897edd4d4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="11-09-2026",TNT SPORTS - ETPL - 20:15–00:30
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="11-09-2026",WILLOW - ALT - ETPL - 20:15–00:30
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2420d5014ea17f77f5400b8214e10ac2:46c3d858547ddd9f0b8d0b7a3b057868
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/e0bkc74zda/out/v1/6577da522b874e25a1954c2897edd4d4/cenc.mpd
+#EXTINF:-1 tvg-name="TAPMAD - AQ" tvg-logo="" group-title="11-09-2026",TAPMAD - AQ - ETPL - 20:15–00:30
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="11-09-2026",WILLOW HD - ETPL - 20:15–00:30
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="FOX DEPORTES" tvg-logo="" group-title="11-09-2026",FOX DEPORTES - Al-Qadsiah vs Al-Ettifaq - 22:25–00:25
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Laliga Hypermotion ES" tvg-logo="" group-title="11-09-2026",Laliga Hypermotion ES - Nürnberg vs Hannover - 23:30–01:35
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+#EXTINF:-1 tvg-name="beIN ENGLISH" tvg-logo="" group-title="11-09-2026",beIN ENGLISH - Darmstadt 98 vs Arminia Bielefeld - 23:30–01:30
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="FOX DEPORTES" tvg-logo="" group-title="12-09-2026",FOX DEPORTES - Al-Ahli vs Al-Hazem - 01:00–03:00
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Laliga Hypermotion ES" tvg-logo="" group-title="12-09-2026",Laliga Hypermotion ES - AZ Alkmaar vs Willem - 01:00–03:00
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+#EXTINF:-1 tvg-name="TNT SPORTS" tvg-logo="" group-title="12-09-2026",TNT SPORTS - Cubs vs Pittsburgh Pirates - 01:20–04:20
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Laliga Hypermotion ES" tvg-logo="" group-title="12-09-2026",Laliga Hypermotion ES - Burgos vs AD Ceuta - 01:30–03:30
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+#EXTINF:-1 tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="12-09-2026",FUBO SPORTS FHD - Venezia vs Fiorentina - 01:45–03:50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="12-09-2026",beIN ENGLISH FHD - Venezia vs Fiorentina - 01:45–03:50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="CBS NETWORK" tvg-logo="" group-title="12-09-2026",CBS NETWORK - Venezia vs Fiorentina - 01:45–03:50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="PREMIER SPORTS" tvg-logo="" group-title="12-09-2026",PREMIER SPORTS - Sevilla vs Valencia - 02:00–04:05
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="FANCODE FHD" tvg-logo="" group-title="12-09-2026",FANCODE FHD - Sevilla vs Valencia - 02:00–04:05
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="CAZE TV FHD" tvg-logo="" group-title="12-09-2026",CAZE TV FHD - Sevilla vs Valencia - 02:00–04:05
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="12-09-2026",beIN ENGLISH FHD - West Ham vs Wrexham - 02:00–04:05
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="12-09-2026",SPX LIVE [FHD] - Washington Nationals vs Angels - 05:45–08:45
+https://embedindia.st/embed/mlb/2026-09-10/tex-sea
+#EXTINF:-1 tvg-name="TNT Sports FHD" tvg-logo="" group-title="12-09-2026",TNT Sports FHD - CPL - 06:00–10:00
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TAPMAD FHD" tvg-logo="" group-title="12-09-2026",TAPMAD FHD - CPL - 06:00–10:00
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com
+#EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="" group-title="12-09-2026",WILLOW HD - CPL - 06:00–10:00
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="TNT SPORTS" tvg-logo="" group-title="12-09-2026",TNT SPORTS - Blue Jays vs Baltimore Orioles - 06:07–09:07
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="" group-title="12-09-2026",TSN SPORTS - Boston Red Sox vs Royals - 06:10–09:10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="WWE LIVE FHD" tvg-logo="" group-title="12-09-2026",WWE LIVE FHD - WWE Smackdown Friday - 07:00–10:00
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 #EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="12-09-2026",SPX LIVE [FHD] - WWE Smackdown Friday - 07:00–10:00
@@ -453,6 +421,70 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Refe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="12-09-2026",CBS SPORTS HD - Racing Club vs Deportivo Alavés - 19:00–21:00
+https://chatgpt.hereisman.net/playlist/56053/load-playlist?|Referer=https://gooz.aapmains.net 
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="12-09-2026",LOW SERVER - Racing Club vs Deportivo Alavés - 19:00–21:00
+http://193.47.62.41/hls/FBBBQQQQqqqQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="12-09-2026",beIN ENGLISH FHD - Genoa vs Frosinone - 20:00–22:05
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="12-09-2026",beIN ENGLISH FHD - Dortmund vs Paderborn - 20:30–22:35
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="12-09-2026",FUBO SPORTS FHD - Liverpool vs Fulham - 21:00–23:05
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="12-09-2026",beIN ENGLISH FHD - Bournemouth vs Brentford - 21:00–23:05
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="12-09-2026",SD SERVER - Bournemouth vs Brentford - 21:00–23:05
+http://193.47.62.41/hls/FAFAFAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="12-09-2026",PARAMOUNT+ FHD - Palace vs Ipswich Town - 21:00–23:05
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7839f26a16aa64e533561a247a9c776b:ee570639771dae849d929b0adec00f44
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/swlpqgir9l/out/v1/9e423461ad3649779029b7c4e6d8680a/673d12cc-a260-4541-8e0b-328e8603d6f3-cenc.mpd?aws_sessionId=0dd45eaf-c4f7-4fdf-83c8-3b9446b0b3c4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="12-09-2026",SD SERVER - Palace vs Ipswich Town - 21:00–23:05
+http://193.47.62.41/hls/FAFAFAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="12-09-2026",beIN ENGLISH FHD - Lazio vs AC Milan - 23:00–01:05
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="NBC SPORTS FHD" tvg-logo="" group-title="12-09-2026",NBC SPORTS FHD - Tottenham Hotspur vs Everton - 23:30–01:35
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="12-09-2026",SD SERVER - Athletic Club vs Elche - 23:30–01:35
+http://193.47.62.41/hls/FAFAFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="13-09-2026",beIN ENGLISH FHD - Atalanta vs Cagliari - 01:45–03:50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="CBS NETWORK" tvg-logo="" group-title="13-09-2026",CBS NETWORK - Atalanta vs Cagliari - 01:45–03:50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="13-09-2026",PARAMOUNT+ FHD - UFC - 04:00–11:30
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
