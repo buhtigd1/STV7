@@ -25,7 +25,7 @@ def parse_date(date_str: str) -> datetime | None:
 def build_m3u(events: list) -> str:
     """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY),
     excluding 'Dude', 'MLB', and 'NFL' channels, with event name and local start/end times in channel title.
-    If channel name contains 'TSN', use custom logo."""
+    If channel name contains 'TSN' or 'Sky', use custom logos."""
     sorted_events = sorted(
         events,
         key=lambda ev: parse_date(ev.get("eventInfo", {}).get("startTime", "")) or datetime.max.replace(tzinfo=timezone.utc)
@@ -66,9 +66,23 @@ def build_m3u(events: list) -> str:
             if not link:
                 continue
 
-            # Override logo if channel contains TSN
+            # Override logos
             if "tsn" in channel_name.lower():
                 logo = "https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png"
+            elif "sky" in channel_name.lower():
+                logo = "https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/skysports.png"
+            elif "eurosport" in channel_name.lower():
+                logo = "https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/eurosport.png"
+            elif "willow" in channel_name.lower():
+                logo = "https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/willow.png" 
+            elif "tapmad" in channel_name.lower():
+                logo = "https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tapmad.png" 
+            elif "tnt" in channel_name.lower():
+                logo = "https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tntsports.png" 
+            elif "espn" in channel_name.lower():
+                logo = "https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/espn.png" 
+            elif "tennis" in channel_name.lower():
+                logo = "https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tennis2.png"     
 
             # Format: Start - End - Event - Channel
             if start_str and end_str:
