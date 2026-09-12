@@ -23,7 +23,7 @@ def parse_date(date_str: str) -> datetime | None:
         return None
 
 def build_m3u(events: list) -> str:
-    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding 'Dude', 'MLB', and 'NFL' channels, with event name and local start/end times in channel name."""
+    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding 'Dude', 'MLB', and 'NFL' channels, with event name and local start/end times in channel title."""
     # Sort events by startTime ascending
     sorted_events = sorted(
         events,
@@ -54,22 +54,27 @@ def build_m3u(events: list) -> str:
             end_str = ""
 
         for ch in ev.get("decoded_channels", []):
-            name = ch.get("title", "Unknown Channel")
+            channel_name = ch.get("title", "Unknown Channel")
             logo = ch.get("logo", "")
             link = ch.get("link", "")
             api = ch.get("api", "")
 
             # Skip channels containing "Dude", "MLB", or "NFL" (case-insensitive)
-            if any(word in name.lower() for word in ["dude", "mlb", "nfl"]):
+            if any(word in channel_name.lower() for word in ["dude", "mlb", "nfl"]):
                 continue
 
             if not link:
                 continue
 
-            # EXTINF line with event title and local start/end times appended
-            time_part = f"{start_str}–{end_str}" if start_str and end_str else start_str
-            display_name = f"{name} - {event_title} - {time_part}" if time_part else f"{name} - {event_title}"
-            lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{display_name}\n')
+            # Format: Start - End - Event - Channel
+            if start_str and end_str:
+                display_name = f"{start_str} - {end_str} - {event_title} - {channel_name}"
+            elif start_str:
+                display_name = f"{start_str} - {event_title} - {channel_name}"
+            else:
+                display_name = f"{event_title} - {channel_name}"
+
+            lines.append(f'#EXTINF:-1 tvg-name="{channel_name}" tvg-logo="{logo}" group-title="{group}",{display_name}\n')
 
             # Widevine ClearKey properties if api exists
             if api and ".mpd" in link:
