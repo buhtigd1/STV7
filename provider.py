@@ -23,8 +23,9 @@ def parse_date(date_str: str) -> datetime | None:
         return None
 
 def build_m3u(events: list) -> str:
-    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY), excluding 'Dude', 'MLB', and 'NFL' channels, with event name and local start/end times in channel title."""
-    # Sort events by startTime ascending
+    """Build Kodi M3U playlist grouped by Jakarta event date (DD-MM-YYYY),
+    excluding 'Dude', 'MLB', and 'NFL' channels, with event name and local start/end times in channel title.
+    If channel name contains 'TSN', use custom logo."""
     sorted_events = sorted(
         events,
         key=lambda ev: parse_date(ev.get("eventInfo", {}).get("startTime", "")) or datetime.max.replace(tzinfo=timezone.utc)
@@ -59,12 +60,15 @@ def build_m3u(events: list) -> str:
             link = ch.get("link", "")
             api = ch.get("api", "")
 
-            # Skip channels containing "Dude", "MLB", or "NFL" (case-insensitive)
+            # Skip unwanted channels
             if any(word in channel_name.lower() for word in ["dude", "mlb", "nfl"]):
                 continue
-
             if not link:
                 continue
+
+            # Override logo if channel contains TSN
+            if "tsn" in channel_name.lower():
+                logo = "https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png"
 
             # Format: Start - End - Event - Channel
             if start_str and end_str:
@@ -83,7 +87,6 @@ def build_m3u(events: list) -> str:
                 lines.append("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n")
                 lines.append(f"#KODIPROP:inputstream.adaptive.license_key={api}\n")
 
-            # Stream URL
             lines.append(f"{link}\n")
     return "".join(lines)
 
