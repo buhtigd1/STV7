@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="10-09-2026",07:00 - 09:00 - WWE - TSN SPORTS
+#EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png" group-title="10-09-2026",07:00 - 09:00 - WWE - TSN SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -167,7 +167,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1/ddb2c1e928dc4a54b8e9db919be1d39a/cenc.mpd
 #EXTINF:-1 tvg-name="SonyLiv - English" tvg-logo="" group-title="11-09-2026",21:30 - 01:15 - Sri Lanka W vs Pakistan W - SonyLiv - English
 https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-#EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="" group-title="12-09-2026",02:00 - 10:00 - US OPEN - TSN SPORTS
+#EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png" group-title="12-09-2026",02:00 - 10:00 - US OPEN - TSN SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -175,7 +175,7 @@ https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="ESPN SPORTS HD" tvg-logo="" group-title="12-09-2026",02:00 - 10:00 - US OPEN - ESPN SPORTS HD
 https://chatgpt.hereisman.net/playlist/56194/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="TSN4 SPORTS" tvg-logo="" group-title="12-09-2026",02:00 - 10:00 - US OPEN - TSN4 SPORTS
+#EXTINF:-1 tvg-name="TSN4 SPORTS" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png" group-title="12-09-2026",02:00 - 10:00 - US OPEN - TSN4 SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -197,13 +197,13 @@ https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=8W
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTINF:-1 tvg-name="TAPMAD FHD" tvg-logo="" group-title="12-09-2026",02:00 - 10:00 - US OPEN - TAPMAD FHD
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-name="TSN3 SPORTS" tvg-logo="" group-title="12-09-2026",02:00 - 10:00 - US OPEN - TSN3 SPORTS
+#EXTINF:-1 tvg-name="TSN3 SPORTS" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png" group-title="12-09-2026",02:00 - 10:00 - US OPEN - TSN3 SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN5 SPORTS" tvg-logo="" group-title="12-09-2026",02:00 - 10:00 - US OPEN - TSN5 SPORTS
+#EXTINF:-1 tvg-name="TSN5 SPORTS" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png" group-title="12-09-2026",02:00 - 10:00 - US OPEN - TSN5 SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -239,7 +239,7 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="" group-title="12-09-2026",06:10 - 09:10 - Boston Red Sox vs Royals - TSN SPORTS
+#EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png" group-title="12-09-2026",06:10 - 09:10 - Boston Red Sox vs Royals - TSN SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -313,7 +313,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cbriuqwzto/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=19686e7ce46d2f6ae88c6d6dd8874e5d:d9c15a24051a1f44f16aae02105cdaf4
 https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/2cnyc2z1lz/out/v1/8ac31523346442f3827301f2f2af3abd/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="12-09-2026",17:30 - 22:30 - Formula 1 - TSN SPORTS FHD
+#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png" group-title="12-09-2026",17:30 - 22:30 - Formula 1 - TSN SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -459,7 +459,7 @@ https://embedindia.st/embed/ufc-fight-night-hooker-vs-parnasse/paramount-pt
 https://embedindia.st/embed/ufc-fight-night-hooker-vs-parnasse/dazn-de
 #EXTINF:-1 tvg-name="SD TV (USE VPN)" tvg-logo="" group-title="13-09-2026",04:00 - 11:30 - UFC - SD TV (USE VPN)
 http://193.47.62.192/hls/FEEEEQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="SportsNet FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="13-09-2026",04:00 - 11:30 - UFC - SportsNet FHD
+#EXTINF:-1 tvg-name="SportsNet FHD" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png" group-title="13-09-2026",04:00 - 11:30 - UFC - SportsNet FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
