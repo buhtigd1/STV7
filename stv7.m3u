@@ -135,32 +135,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com
 #EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/willow.png" group-title="14-09-2026",06:00 - 10:30 - CPL - WILLOW HD
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png" group-title="14-09-2026",07:20 - 10:30 - Dallas Cowboys - TSN SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="NBC SPORTS FHD" tvg-logo="" group-title="14-09-2026",07:20 - 10:30 - Dallas Cowboys - NBC SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN4 SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/tsn.png" group-title="14-09-2026",07:20 - 10:30 - Dallas Cowboys - TSN4 SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="14-09-2026",08:00 - 10:05 - Santos Laguna vs Juárez - SD SERVER
-http://193.47.62.44/hls/ZFFFQqqQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="14-09-2026",08:00 - 10:05 - Santos Laguna vs Juárez - SPX LIVE [FHD]
-https://embedindia.st/embed/liga-mx/2026-09-13/san-jua
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="14-09-2026",08:07 - 10:12 - Guadalajara vs Pumas UNAM - SD SERVER
-http://193.47.62.44/hls/ZFFFQqqQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="14-09-2026",08:07 - 10:12 - Guadalajara vs Pumas UNAM - SPX LIVE [FHD]
-https://embedindia.st/embed/liga-mx/2026-09-13/gdl-unam
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="14-09-2026",23:30 - 01:35 - Torino vs AS Roma - beIN ENGLISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
