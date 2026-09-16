@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-09-2026",17:00 - 19:00 - FC Seoul vs Persib Bandung - LOW SERVER
+http://193.47.62.44/hls/VTTTQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-09-2026",19:15 - 21:20 - Port FC vs Vissel Kobe - LOW SERVER
+http://193.47.62.44/hls/FCCCQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://raw.githubusercontent.com/didikc/TV-Logo/main/logos/willow.png" group-title="16-09-2026",20:30 - 00:30 - ETPL - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
