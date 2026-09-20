@@ -187,6 +187,12 @@ http://193.47.62.59/hls/DLLLQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=
 https://chatgpt.hereisman.net/playlist/56826/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="21-09-2026",00:40 - 03:40 - Cincinnati Reds vs Chicago Cubs - SPX LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-20/chc-cin
+#EXTINF:-1 tvg-name="DAZN SPORTS (EN/IT/DE)" tvg-logo="" group-title="21-09-2026",01:45 - 03:50 - AC Milan vs Lecce - DAZN SPORTS (EN/IT/DE)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6e4d958dccf6f218396ebaf59f3340b:acf6768c6d7f021e3f32a2fb6053ce90
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gvqrf1cix8/out/v1/fe7706b4999a4884abc34601a7aa9fa9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="21-09-2026",01:45 - 03:50 - AC Milan vs Lecce - PARAMOUNT+ FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -331,6 +337,18 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/cfv0fqo8qr/out
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="PRIME VIDEO FHD" tvg-logo="" group-title="21-09-2026",03:05 - 06:15 - Jacksonville Jaguars - PRIME VIDEO FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=27482ee4cc1a32fab82c38121e294380:22e336dfd6669b9335a02f13c2d761d7
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/acjdjeevzv/out/v1/6e83db81cb0946a4a763a17fc8c60f4c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="PRIME VIDEO FHD" tvg-logo="" group-title="21-09-2026",03:05 - 06:15 - Las Vegas Raiders - PRIME VIDEO FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fe781266072532cd6cc38dbbb29675d:434ff61496a166770bed473ce65561a5
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/a5vkfjna1p/out/v1/3b20f2b7c3ed477d83c876e97ab0121d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="SPX FHD LIVE" tvg-logo="" group-title="21-09-2026",03:05 - 06:15 - Las Vegas Raiders - SPX FHD LIVE
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="" group-title="21-09-2026",03:05 - 06:15 - Las Vegas Raiders - TSN SPORTS FHD
