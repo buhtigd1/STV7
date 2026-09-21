@@ -67,8 +67,6 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=MTk5NGIxZGY3ZGZkMmU4YThkN2I5YmYzZmI5MDAyODU6MjJhMTQ0NGIzZGExOGUxMzkxOTE2djViMrQ2NTI4MzU=
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="WNBA LIVE [FHD]" tvg-logo="" group-title="21-09-2026",06:00 - 08:45 - Sparks vs Portland Fire - WNBA LIVE [FHD]
-https://embedindia.st/embed/wnba/2026-09-20/por-la
 #EXTINF:-1 tvg-name="WILLOW FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="21-09-2026",06:00 - 10:30 - CPL - WILLOW FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -101,38 +99,10 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ocpytzatl3/out/v1
 https://chatgpt.hereisman.net/playlist/56881/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-name="MLS LIVE [FHD]" tvg-logo="" group-title="21-09-2026",06:00 - 08:15 - Inter Miami vs San Diego - MLS LIVE [FHD]
 https://embedindia.st/embed/mls/2026-09-20/mia-sd
-#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="21-09-2026",07:00 - 09:05 - Toluca vs Santos Laguna - SPX LIVE [FHD]
-https://embedindia.st/embed/liga-mx/2026-09-19/mty-caz
-#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="21-09-2026",07:00 - 09:05 - Pachuca vs Club Tijuana - SPX LIVE [FHD]
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="21-09-2026",09:10 - 11:15 - Querétaro vs Club León - LOW SERVER
+http://193.47.62.41/hls/UFFFCQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="21-09-2026",09:10 - 11:15 - Querétaro vs Club León - SPX LIVE [FHD]
 https://embedindia.st/embed/liga-mx/2026-09-20/pac-tij
-#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="" group-title="21-09-2026",07:20 - 10:30 - Indianapolis Colts - TSN SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN4 SPORTS FHD" tvg-logo="" group-title="21-09-2026",07:20 - 10:30 - Indianapolis Colts - TSN4 SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="NBC SPORTS FHD" tvg-logo="" group-title="21-09-2026",07:20 - 10:30 - Indianapolis Colts - NBC SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PEACOCK TV 4K" tvg-logo="" group-title="21-09-2026",07:20 - 10:30 - Indianapolis Colts - PEACOCK TV 4K
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa7ba6e9bc6ee1748308a6d7a99288f8:07622a12fe28e7498d07bfe22163b823
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9ershi5a9p/out/v1/5ec68d72b4c24ed7b15080170227f24e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="21-09-2026",07:20 - 10:30 - Indianapolis Colts - HD SERVER
-https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
-#EXTINF:-1 tvg-name="WNBA LIVE [FHD]" tvg-logo="" group-title="21-09-2026",08:00 - 10:45 - [OLD] Aces vs Seattle Storm - WNBA LIVE [FHD]
-https://embedindia.st/embed/wnba/2026-09-20/sea-lv
 #EXTINF:-1 tvg-name="WWE RAW [FHD]" tvg-logo="" group-title="22-09-2026",07:00 - 09:30 - WWE Raw - WWE RAW [FHD]
 https://embedindia.st/embed/wwe/2026-08-24
 #EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="22-09-2026",07:00 - 09:30 - WWE Raw - HD SERVER
