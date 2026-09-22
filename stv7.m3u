@@ -67,76 +67,72 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=MTk5NGIxZGY3ZGZkMmU4YThkN2I5YmYzZmI5MDAyODU6MjJhMTQ0NGIzZGExOGUxMzkxOTE2djViMrQ2NTI4MzU=
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="WILLOW FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="21-09-2026",06:00 - 10:30 - CPL - WILLOW FHD
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="22-09-2026",05:35 - 08:35 - 1. Orioles vs Toronto Blue Jays - TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a983a40b395d5c3fc017322b8c4b1695:559dd7742a6c8dd7be5edb904a9a550f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zqttnrpszn/out/v1/4e3561c0771c46aaa625bff2338290da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="21-09-2026",06:00 - 10:30 - CPL - TNT SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TAPMAD FHD" tvg-logo="" group-title="21-09-2026",06:00 - 10:30 - CPL - TAPMAD FHD
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com
-#EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="21-09-2026",06:00 - 10:30 - CPL - WILLOW HD
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="APPLE TV (EN)" tvg-logo="" group-title="21-09-2026",06:00 - 08:15 - Inter Miami vs San Diego - APPLE TV (EN)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c523dcb110e623db40bea10f32f7950:045d12ef72e7fcfa499fe76a697aaae1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jsy0errqcz/out/v1/40fb3131e3aa4cafaf02c37f54eae610/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="APPLE TV (ES)" tvg-logo="" group-title="21-09-2026",06:00 - 08:15 - Inter Miami vs San Diego - APPLE TV (ES)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aee81902dcdd58d74d0cf0bc0f3b982:78311e6ec91c81c387a3cf2fb0b084a7
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ocpytzatl3/out/v1/dc1d3cef754c4826b8a8d4665bd1b7bc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="APPLE TV HD" tvg-logo="" group-title="21-09-2026",06:00 - 08:15 - Inter Miami vs San Diego - APPLE TV HD
-https://chatgpt.hereisman.net/playlist/56881/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="MLS LIVE [FHD]" tvg-logo="" group-title="21-09-2026",06:00 - 08:15 - Inter Miami vs San Diego - MLS LIVE [FHD]
-https://embedindia.st/embed/mls/2026-09-20/mia-sd
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="21-09-2026",09:10 - 11:15 - Querétaro vs Club León - LOW SERVER
-http://193.47.62.41/hls/UFFFCQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="21-09-2026",09:10 - 11:15 - Querétaro vs Club León - SPX LIVE [FHD]
-https://embedindia.st/embed/liga-mx/2026-09-20/pac-tij
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="WWE RAW [FHD]" tvg-logo="" group-title="22-09-2026",07:00 - 09:30 - WWE Raw - WWE RAW [FHD]
 https://embedindia.st/embed/wwe/2026-08-24
 #EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="22-09-2026",07:00 - 09:30 - WWE Raw - HD SERVER
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://26hrwgorfcmh.windows-devs.top/
 #EXTINF:-1 tvg-name="Backup SD" tvg-logo="" group-title="22-09-2026",07:00 - 09:30 - WWE Raw - Backup SD
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://27lftgqlgzmy.windows-devs.top/
+#EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="" group-title="22-09-2026",07:00 - 09:45 - York Liberty vs Atlanta Dream - TSN SPORTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="WNBA LIVE [FHD]" tvg-logo="" group-title="22-09-2026",07:00 - 09:45 - York Liberty vs Atlanta Dream - WNBA LIVE [FHD]
-https://embedindia.st/embed/wnba/2026-09-20/min-con
+https://embedindia.st/embed/wnba/2026-09-21/atl-ny
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="22-09-2026",07:00 - 10:45 - Bangladesh W vs India W - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k9yu7gqx4l/out/v1/802932ae129a4f7db700113d6598b50f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=fffbd595a239d4e97d8f4bc9704a2d76:614232c4a473ebbd72e77c860c03db2f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="22-09-2026",07:00 - 10:45 - Bangladesh W vs India W - WILLOW - ALT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k9yu7gqx4l/out/v1/802932ae129a4f7db700113d6598b50f/cenc.mpd
-#EXTINF:-1 tvg-name="SonyLiv - English" tvg-logo="" group-title="22-09-2026",07:00 - 10:45 - Bangladesh W vs India W - SonyLiv - English
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651
-#EXTINF:-1 tvg-name="SonyLiv - Hindi" tvg-logo="" group-title="22-09-2026",07:00 - 10:45 - Bangladesh W vs India W - SonyLiv - Hindi
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2009/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651
-#EXTINF:-1 tvg-name="SonyLiv - Tamil" tvg-logo="" group-title="22-09-2026",07:00 - 10:45 - Bangladesh W vs India W - SonyLiv - Tamil
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2009/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651
-#EXTINF:-1 tvg-name="SonyLiv - Telugu" tvg-logo="" group-title="22-09-2026",07:00 - 10:45 - Bangladesh W vs India W - SonyLiv - Telugu
-https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2009/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651
-#EXTINF:-1 tvg-name="SonyLiv - Kannada" tvg-logo="" group-title="22-09-2026",07:00 - 10:45 - Bangladesh W vs India W - SonyLiv - Kannada
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2009/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651
+#KODIPROP:inputstream.adaptive.license_key=fffbd595a239d4e97d8f4bc9704a2d76:614232c4a473ebbd72e77c860c03db2f
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd
+#EXTINF:-1 tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="22-09-2026",07:00 - 10:45 - Bangladesh W vs India W - SonyLiv (Asia)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/AG2026_D2109/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f691aae3d1074f653fce1065bfd82cfe-1790033404867
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="22-09-2026",07:00 - 10:45 - Bangladesh W vs India W - LOW SERVER
+http://193.47.62.59/hls/K999.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="" group-title="22-09-2026",07:15 - 10:35 - Indianapolis Colts - TSN SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TSN4 SPORTS FHD" tvg-logo="" group-title="22-09-2026",07:15 - 10:35 - Indianapolis Colts - TSN4 SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="CTV SPORTS FHD" tvg-logo="" group-title="22-09-2026",07:15 - 10:35 - Indianapolis Colts - CTV SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jsy0errqcz/out/v1/40fb3131e3aa4cafaf02c37f54eae610/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="22-09-2026",07:15 - 10:35 - Indianapolis Colts - HD SERVER
+https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
 #EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="22-09-2026",08:45 - 11:45 - 1. Giants vs Minnesota Twins - SPX LIVE [FHD]
-https://embedindia.st/embed/mlb/2026-09-20/chc-cin
+https://embedindia.st/embed/mlb/2026-09-21/min-sf
+#EXTINF:-1 tvg-name="TSN SPORTS" tvg-logo="" group-title="22-09-2026",09:00 - 11:45 - Mercury vs Dallas Wings - TSN SPORTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="WNBA LIVE [FHD]" tvg-logo="" group-title="22-09-2026",09:00 - 11:45 - Mercury vs Dallas Wings - WNBA LIVE [FHD]
-https://embedindia.st/embed/wnba/wnba/2026-09-20/ny-tor
+https://embedindia.st/embed/wnba/2026-09-21/dal-phx
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="22-09-2026",18:30 - 02:30 - England vs Sri Lanka - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
