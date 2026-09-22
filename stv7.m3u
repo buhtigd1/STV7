@@ -5,40 +5,6 @@ https://embedindia.st/embed/wwe/2026-08-24
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://26hrwgorfcmh.windows-devs.top/
 #EXTINF:-1 tvg-name="Backup SD" tvg-logo="" group-title="22-09-2026",07:00 - 09:30 - WWE Raw - Backup SD
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://27lftgqlgzmy.windows-devs.top/
-#EXTINF:-1 tvg-name="FANCODE FHD" tvg-logo="" group-title="22-09-2026",11:00 - 14:45 - Japan vs India - FANCODE FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="FANCODE ENG - IN" tvg-logo="" group-title="22-09-2026",11:00 - 14:45 - Japan vs India - FANCODE ENG - IN
-https://dai-fancode.pages.dev/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-name="FANCODE HIN - IN" tvg-logo="" group-title="22-09-2026",11:00 - 14:45 - Japan vs India - FANCODE HIN - IN
-https://dai-fancode.pages.dev/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="22-09-2026",11:00 - 14:45 - Japan vs India - LOW SERVER
-http://193.47.62.59/hls/K999.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="" group-title="22-09-2026",12:00 - 15:45 - Sri Lanka W vs India W - WILLOW - FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=26b5d1e236534979b5f85ffa22a37dbf:cfd708ebfd7d08d24fd0033b9bd9e62e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mhafawkat7/out/v1/bcd1058ace2b4f1b90739cd7f847054c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="" group-title="22-09-2026",12:00 - 15:45 - Sri Lanka W vs India W - WILLOW - ALT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=26b5d1e236534979b5f85ffa22a37dbf:cfd708ebfd7d08d24fd0033b9bd9e62e
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mhafawkat7/out/v1/bcd1058ace2b4f1b90739cd7f847054c/cenc.mpd
-#EXTINF:-1 tvg-name="SonyLiv - English" tvg-logo="" group-title="22-09-2026",12:00 - 15:45 - Sri Lanka W vs India W - SonyLiv - English
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2209/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac5c9139daa7b1e82543ea4043814dc3-1790049002358
-#EXTINF:-1 tvg-name="SonyLiv - Hindi" tvg-logo="" group-title="22-09-2026",12:00 - 15:45 - Sri Lanka W vs India W - SonyLiv - Hindi
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2209/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac5c9139daa7b1e82543ea4043814dc3-1790049002358
-#EXTINF:-1 tvg-name="SonyLiv - Tamil" tvg-logo="" group-title="22-09-2026",12:00 - 15:45 - Sri Lanka W vs India W - SonyLiv - Tamil
-https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2209/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac5c9139daa7b1e82543ea4043814dc3-1790049002358
-#EXTINF:-1 tvg-name="SonyLiv - Telugu" tvg-logo="" group-title="22-09-2026",12:00 - 15:45 - Sri Lanka W vs India W - SonyLiv - Telugu
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2209/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac5c9139daa7b1e82543ea4043814dc3-1790049002358
-#EXTINF:-1 tvg-name="SonyLiv - Kannada" tvg-logo="" group-title="22-09-2026",12:00 - 15:45 - Sri Lanka W vs India W - SonyLiv - Kannada
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2209/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac5c9139daa7b1e82543ea4043814dc3-1790049002358
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="22-09-2026",18:30 - 02:30 - England vs Sri Lanka - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
