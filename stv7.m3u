@@ -47,12 +47,6 @@ https://live.vivo155.com/live/sd-1-4646511.m3u8?txSecret=1e43e83dc06e22be05c9111
 https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8
 #EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="23-09-2026",23:45 - 01:45 - Servette FC vs OL Lyonnes - LOW SERVER
 http://193.47.62.50/hls/JFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="24-09-2026",00:10 - 03:10 - Tigers vs Washington Nationals - TNT SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="SportDigital Fussball" tvg-logo="" group-title="24-09-2026",01:00 - 03:05 - Saudi Arabia vs Kuwait - SportDigital Fussball
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -105,8 +99,6 @@ https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8
 https://www.rtmpcdn.com/live/945637a5-d44d-48bf-82ea-e888f98a8ddd.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="24-09-2026",02:00 - 04:00 - Turks vs Montserrat - LOW SERVER
 http://193.47.62.50/hls/EEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="24-09-2026",02:45 - 05:45 - Giants vs Minnesota Twins - SPX LIVE [FHD]
-https://embedindia.st/embed/mlb/2026-09-22/wsh-det
 #EXTINF:-1 tvg-name="FOX SPORTS FHD" tvg-logo="" group-title="24-09-2026",03:00 - 05:00 - Bahamas vs Saint Martin - FOX SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
