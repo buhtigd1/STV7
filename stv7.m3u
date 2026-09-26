@@ -11,68 +11,152 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="" group-title="26-09-2026",12:00 - 15:45 - Malaysia vs Oman - WILLOW - FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc19251f2f2d18ba39485a6eeeaf2128:15c5b05be425a19e8c532311e6ae05ab
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ahjbt5mi7u/out/v1/2bf071397abe422b8640c38a38a47b40/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TAPMAD - FHD" tvg-logo="" group-title="26-09-2026",16:00 - 18:00 - Pakistan vs Thailand - TAPMAD - FHD
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",16:00 - 18:00 - Pakistan vs Thailand - LOW SERVER
+http://193.47.62.50/hls/CCCCA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="FANCODE (IND)" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="26-09-2026",16:30 - 18:35 - IFA Shield 2026 - FANCODE (IND)
-https://dai-fancode.pages.dev/mumbai/4249522_english_hls_36e3fc162559957_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-name="SKY SPORTS FHD" tvg-logo="" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - SKY SPORTS FHD
+https://dai-fancode.pages.dev/mumbai/4249526_english_hls_a8622be15a66305_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-name="SKY SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - SKY SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6cc913d4e085f85bc435381400cd02e:6f53b5bd64aecc2448cda0660cbfc9aa
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rcklyn1clh/out/v1/a7e90c797fc04d5d985b7d792f885319/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="APPLE TV FHD" tvg-logo="" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - APPLE TV FHD
+#KODIPROP:inputstream.adaptive.license_key=6da852a2207613c03a164ba3598c5cdf:cc73c95a99827613acc7db72f343101f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1uutehmxgj/out/v1/3f3147d941f540109ed245604087ab84/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="APPLE TV FHD" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - APPLE TV FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e225b040c2154d47ec1f051e89db217d:a52408ead2d95dde7db794bb0065f835
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/uwgqatzrgm/out/v1/5d8ffce32bca4e2993975be25d7ed61a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - TSN SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_key=637d72635e849ddf7d3927a75b6c7566:4e6da254e1e4886817e9987f8fe9cbfb
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ffmxrgs6gg/out/v1/b4e22263d7744de5938d9a940bae6755/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - TSN SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="FANCODE - FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - FANCODE - FHD
+#EXTINF:-1 tvg-name="FANCODE - FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - FANCODE - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SporTV BR FHD" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - SporTV BR FHD
+#EXTINF:-1 tvg-name="SporTV BR FHD" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - SporTV BR FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="RUSSIA FEED" tvg-logo="" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - RUSSIA FEED
-https://bl.rutube.ru/livestream/e95c7887c361ec6022064a930516cd22/index.m3u8?s=GuYoUFk41ib0wo3Ar8qHAA&e=1790425386&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-name="Sportscast FHD" tvg-logo="" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - Sportscast FHD
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5b968989-eb20-4f90-bfaf-8f632a35ebe4/master.m3u8
-#EXTINF:-1 tvg-name="SKY F1 Italia [IT]" tvg-logo="" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - SKY F1 Italia [IT]
+#EXTINF:-1 tvg-name="Mixed On Board" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - Mixed On Board
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11184a9a65df0f9fcd62ea270560fbd8:5a072e18cc6e9959eaa9d9a5a5513eb4
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1789291363_s~61ca1e1d-4f5e-40e8-887c-1ae6ffc0d81a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~cab5437d01d2f062542236a5a990ca2f53a26ddfcf88adb0949ffebc68d9f052/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
-#EXTINF:-1 tvg-name="DAZN ESPANOL [FHD]" tvg-logo="" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - DAZN ESPANOL [FHD]
-https://embedindia.st/embed/azerbaijan-grand-prix---practice-3-28820
-#EXTINF:-1 tvg-name="SKY SPORTS [FHD]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - SKY SPORTS [FHD]
-https://embedindia.st/embed/f1/2026/azerbaijan/fp3
-#EXTINF:-1 tvg-name="APPLE TV [FHD]" tvg-logo="" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - APPLE TV [FHD]
-https://embedindia.st/embed/azerbaijan-grand-prix---practice-3-28818
-#EXTINF:-1 tvg-name="SKY ITALIA [FHD]" tvg-logo="" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - SKY ITALIA [FHD]
-https://embedindia.st/embed/azerbaijan-grand-prix---practice-3-28822
-#EXTINF:-1 tvg-name="VIAPLAY NL [FHD]" tvg-logo="" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - VIAPLAY NL [FHD]
-https://embedindia.st/embed/azerbaijan-grand-prix---practice-3-28824
-#EXTINF:-1 tvg-name="SKY SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - SKY SPORTS HD
+#KODIPROP:inputstream.adaptive.license_key=90f17a7299852d9977658eb69920fbc6:165431e6578b659fbc8fa8c3135a1172
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m4vsyc3qkj/out/v1/8efa8c75056f42f883de887bb2a14b52/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Driver Tracker FHD" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - Driver Tracker FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6bd55068e192831ff013f039f267c564:8e33799297baf59bc80537a49db25f30
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/raznosj3n9/out/v1/22a9ebf05a214ed5944576242a51a1a3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Driver Data FHD" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - Driver Data FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=890b9767c66d2b951da8ba8cdd0da465:cbf2e11eb0fc0be46d407034bb68d28a
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1iymopi0i2/out/v1/f5a0021818c5455dbf1e7b36d2c40bb3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="APPLE TV ALT" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - APPLE TV ALT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e106b27c6f3c840e255afe89f723a579:4ef75e04c9009236b0568752056956a7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jw2wckkiaa/out/v1/9a5089df42684b10aca83c19be6bbdf0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="RUSSIA FEED" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - RUSSIA FEED
+https://bl.rutube.ru/livestream/dce5a89ec8856d2116a985eb90fec5f2/index.m3u8?s=uWaNHQy62JEo3ot18uk19A&e=1790505833&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-name="SKY F1 Italia [IT]" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - SKY F1 Italia [IT]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118a6477fbf274ef4ab397ae762cb61:31ba7c00dc9667233ecb2a6e7e24ee08
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1790503662_f~0_g~1_s~bea341b8-3cf3-488e-8fe2-35c1516fc718_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~92c277b0e1fc705933a720ec2996cf6d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
+#EXTINF:-1 tvg-name="P1 Driver FHD" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - P1 Driver FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a4ff0e45b0fb0f6c00fc66cd259c70b:cc56f0db9ea85e383f085082877b4686
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0ejkymx0dm/out/v1/26898814c4204757b149e1653d511a84/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="P2 Driver FHD" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - P2 Driver FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c9800bda869d7f613011d522c501d11:6ca8a2d0d85cc1402fe0e6404102a334
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gt8ix83g56/out/v1/ee46a44e718740f98194584d442eacc3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="P3 Driver FHD" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - P3 Driver FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e40807bb624b04b1446cd2c9fd0ec06:777e32f84683ed539666e32776874c7f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/liozwj5ioj/out/v1/8d2b1a8a55344b93afde369364594e7c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Lewis Hamilton CAM" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - Lewis Hamilton CAM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=244d3ebf736fbbd1d9f11047e5ad41fe:e774919ed173f74bbadb9df6c8be418c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4by8ikyb71/out/v1/3ec4d908305a43bc832e8cdc4cc37651/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Max Verstappen CAM" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - Max Verstappen CAM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e28555f238d7125561a70d5ded440d5:eb4cde89627ce7e0e708780efd12df77
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dhuaihfn7d/out/v1/b8640caf324f414bb936b4e1bcb253e1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Charles Leclerc CAM" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - Charles Leclerc CAM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a5d925d4ca77fee0159c820cc4deb0b:f7c8882a181037a01ef1699ceae4e83d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3k08kzg5qg/out/v1/cc5d748630a04fdabd7535d763659e9d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Lando Norris CAM" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - Lando Norris CAM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ebdf77d8ab86f9a433ea2c5f6818406:c4b67549cf599d5dd99af3bafe1ce48e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gu9nplf0re/out/v1/15b24dbb29e24a64b9f4e6b8e857fbc0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Oscar Piastri CAM" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - Oscar Piastri CAM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7919c8a9110f4a263ec6047ff950469b:81f018a4873ef55dc35b82947e32c49d
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ilsmqyvbu9/out/v1/4b03b766915743ab84f5858152abbf57/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="George Russell CAM" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - George Russell CAM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=596c11a1ec02138e48c8fb1c45e94a38:8f7fa08c4bcb789b1ca156e6a5b41365
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/octudb6zux/out/v1/268ee83730664defba0ea35fc3d20ba4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Kimi Antonelli CAM" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - Kimi Antonelli CAM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c769942d91544ec621fc31d083377aae:0acf854c8a46b88525a6843f9cd94afa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xjyaspmwwp/out/v1/2a917dcaf9b44bd5b56662428505c371/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Sportscast FHD" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - Sportscast FHD
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5b968989-eb20-4f90-bfaf-8f632a35ebe4/master.m3u8
+#EXTINF:-1 tvg-name="DAZN ESPANOL [FHD]" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - DAZN ESPANOL [FHD]
+https://embedindia.st/embed/azerbaijan-grand-prix---race-28838
+#EXTINF:-1 tvg-name="SKY SPORTS [FHD]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - SKY SPORTS [FHD]
+https://embedindia.st/embed/f1/2026/azerbaijan/race
+#EXTINF:-1 tvg-name="APPLE TV [FHD]" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - APPLE TV [FHD]
+https://embedindia.st/embed/azerbaijan-grand-prix---race-28836
+#EXTINF:-1 tvg-name="SKY ITALIA [FHD]" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - SKY ITALIA [FHD]
+https://embedindia.st/embed/azerbaijan-grand-prix---race-28840
+#EXTINF:-1 tvg-name="VIAPLAY NL [FHD]" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - VIAPLAY NL [FHD]
+https://embedindia.st/embed/azerbaijan-grand-prix---race-28842
+#EXTINF:-1 tvg-name="SKY SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - SKY SPORTS HD
 https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="26-09-2026",18:00 - 20:00 - Formula 1 - SD SERVER
-http://193.47.62.44/hls/RRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="26-09-2026",17:55 - 20:00 - Formula 1 - SD SERVER
+http://193.47.62.59/hls/vlll.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",19:00 - 21:00 - Ceuta vs Real Sociedad - LOW SERVER
+http://193.47.62.50/hls/abbbQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="SporTV BR FHD" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="26-09-2026",19:30 - 21:30 - Vietnam vs Philippines - SporTV BR FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
