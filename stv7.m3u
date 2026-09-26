@@ -45,40 +45,6 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 #EXTINF:-1 tvg-name="Server 4" tvg-logo="" group-title="25-09-2026",19:30 - 23:30 - ONE Friday Fights - Server 4
 https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="25-09-2026",23:00 - 01:04 - Armenia vs Latvia - beIN ENGLISH FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SporTV BR FHD" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="25-09-2026",23:00 - 01:04 - Armenia vs Latvia - SporTV BR FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="Sport TV HD" tvg-logo="" group-title="25-09-2026",23:00 - 01:04 - Armenia vs Latvia - Sport TV HD
-https://chatgpt.hereisman.net/playlist/57045/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="SonyLiv " tvg-logo="" group-title="25-09-2026",23:00 - 01:04 - Armenia vs Latvia - SonyLiv 
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/footlive2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=568a425993f179164ab7b37e7d010c9c-1790350202403
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="25-09-2026",23:00 - 01:04 - Armenia vs Latvia - HD SERVER
-https://www.rtmpcdn.com/live/f845cdb3-29e7-4146-b62e-9258b171f954.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="25-09-2026",23:00 - 01:04 - Armenia vs Latvia - LOW SERVER
-http://193.47.62.50/hls/HVVVVAAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="25-09-2026",23:00 - 01:05 - Georgia vs Northern Ireland - beIN ENGLISH FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="FOX SOCCER+ HD" tvg-logo="" group-title="25-09-2026",23:00 - 01:05 - Georgia vs Northern Ireland - FOX SOCCER+ HD
-https://chatgpt.hereisman.net/playlist/57044/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="SonyLiv" tvg-logo="" group-title="25-09-2026",23:00 - 01:05 - Georgia vs Northern Ireland - SonyLiv
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/footlive2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=01d1efc7a5b6b4e9dbc9c5254003fc74-1790349602307
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="25-09-2026",23:00 - 01:05 - Georgia vs Northern Ireland - HD SERVER
-https://www.rtmpcdn.com/live/525c698e-5506-4e67-b394-4e1793965139.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="25-09-2026",23:00 - 01:05 - Georgia vs Northern Ireland - LOW SERVER
-http://193.47.62.55/hls/HVVVVAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="PRIME VIDEO FHD" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Türkiye vs France - PRIME VIDEO FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -147,104 +113,6 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/Footlive2509/ENG/master.
 https://www.rtmpcdn.com/live/dd713707-0e3c-4608-a515-71f8ae0968d0.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Italy vs Belgium - LOW SERVER
 http://193.47.62.41/hls/LIIIAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="DAZN SPORTS FHD" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Hungary vs Ukraine - DAZN SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=62743adac219756975f1381037833a60:5cfc130423094766b86683c56a2233cf
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ma4gaeu3qd/out/v1/2c8b7fb77a8c4c9ba8cbceddfe3c13d1/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SporTV BR FHD" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="26-09-2026",01:45 - 03:50 - Hungary vs Ukraine - SporTV BR FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="Nations League HD" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Hungary vs Ukraine - Nations League HD
-https://chatgpt.hereisman.net/playlist/57055/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="SonyLiv (ASIA)" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Hungary vs Ukraine - SonyLiv (ASIA)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/Footlive2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d70b97cc5216366d3abc85b1926731d5-1790360403133
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Hungary vs Ukraine - HD SERVER
-https://www.rtmpcdn.com/live/7db4ab96-ad90-45cc-984b-cd9fa1effa14.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Hungary vs Ukraine - LOW SERVER
-http://193.47.62.41/hls/LIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="DAZN SPORTS FHD" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Poland vs Bosnia - DAZN SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0679cb547fb1100ab2fe6ec0e137b113:770099725c8e0bb8a1cfbff6c536a82b
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jlzantdnce/out/v1/3df66a16fb1d421e9c7ccb85e164c30d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="DAZN SPORTS HD" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Poland vs Bosnia - DAZN SPORTS HD
-https://chatgpt.hereisman.net/playlist/57054/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Poland vs Bosnia - SonyLiv (Asia)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037141/Footlive2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d70b97cc5216366d3abc85b1926731d5-1790360403133
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Poland vs Bosnia - HD SERVER
-https://www.rtmpcdn.com/live/caf0994c-efb4-442e-932c-8abf4681ef8e.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Poland vs Bosnia - LOW SERVER
-http://193.47.62.59/hls/LIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="DAZN SPORTS FHD" tvg-logo="" group-title="26-09-2026",01:45 - 03:45 - Sweden vs Romania - DAZN SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=544bff94983cbe339bc2d57f05ad61dc:26ab154aba9b1f7aabeac4c48bcd0dc7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l67xzkf5jm/out/v1/345cb778def2457892ea37c2c826d8c5/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="26-09-2026",01:45 - 03:45 - Sweden vs Romania - beIN ENGLISH FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="FOX SOCCER+ HD" tvg-logo="" group-title="26-09-2026",01:45 - 03:45 - Sweden vs Romania - FOX SOCCER+ HD
-https://chatgpt.hereisman.net/playlist/57053/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="26-09-2026",01:45 - 03:45 - Sweden vs Romania - SonyLiv (Asia)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/Footlive2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d70b97cc5216366d3abc85b1926731d5-1790360403133
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="26-09-2026",01:45 - 03:45 - Sweden vs Romania - HD SERVER
-https://www.rtmpcdn.com/live/97549ec0-bc8d-4970-ac61-af1cf3312f22.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",01:45 - 03:45 - Sweden vs Romania - LOW SERVER
-http://193.47.62.55/hls/LIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="DAZN SPORTS FHD" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Montenegro vs Cyprus - DAZN SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9219e0148df539f6b63b295945987e7:8b18f9117403acdd0d5ad000772f2062
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/di5rbsugx5/out/v1/45b59ec03e764604a9bc745f5a40d01d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="DAZN SPORTS HD" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Montenegro vs Cyprus - DAZN SPORTS HD
-https://chatgpt.hereisman.net/playlist/57056/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Montenegro vs Cyprus - SonyLiv (Asia)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/Footlive2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d70b97cc5216366d3abc85b1926731d5-1790360403133
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Montenegro vs Cyprus - HD SERVER
-https://www.rtmpcdn.com/live/875dc817-28d2-4f7e-9804-051297192fb7.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",01:45 - 03:50 - Montenegro vs Cyprus - LOW SERVER
-http://193.47.62.41/hls/LIIIA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Mali vs Cabo Verde - LOW SERVER
-http://193.47.62.55/hls/DTTTAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="beIN ARABIC HD" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Algeria vs Zambia - beIN ARABIC HD
-https://18soso.s3.us-east-2.amazonaws.com/bein4/master.m3u8
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Algeria vs Zambia - HD SERVER
-https://www.rtmpcdn.com/live/05b65a40-5e2b-4478-ae28-4b6acc5a7a99.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Algeria vs Zambia - LOW SERVER
-http://193.47.62.55/hls/DTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Burkina Faso vs Benin - HD SERVER
-https://www.rtmpcdn.com/live/29557de5-4e27-45dd-8652-8a61e83d497a.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Burkina Faso vs Benin - LOW SERVER
-http://193.47.62.50/hls/DTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="beIN ARABIC FHD" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Egypt vs Angola - beIN ARABIC FHD
-https://cdn.gamhed.online/hls/arena8x-2.m3u8
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Egypt vs Angola - HD SERVER
-https://www.rtmpcdn.com/live/4c83a480-06a7-4ab1-a8a0-ca20cde631a6.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Egypt vs Angola - LOW SERVER
-http://193.47.62.50/hls/DTTTAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="beIN ARABIC HD" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Morocco vs Gabon - beIN ARABIC HD
-https://18soso.s3.us-east-2.amazonaws.com/bein3/master.m3u8
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Morocco vs Gabon - HD SERVER
-https://www.rtmpcdn.com/live/2b24f899-f079-4d3c-80a1-68f6044029c5.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="26-09-2026",02:00 - 04:00 - Morocco vs Gabon - LOW SERVER
-http://193.47.62.41/hls/DTTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Orioles Broadcast FHD" tvg-logo="" group-title="26-09-2026",03:05 - 06:05 - 1. Yankees vs Baltimore Orioles - Orioles Broadcast FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=edafbc61f9f67deb370419ce01542eb8:f2a4a90a2b57b5edcd13dc83c12108b5
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/junis2k6qx/out/v1/a3333f2513df4c5ca3e9cfe6713622d6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="26-09-2026",05:40 - 08:40 - Phillies vs Tampa Bay Rays - SPX LIVE [FHD]
 https://embedindia.st/embed/mlb/2026-09-25/tb-phi
 #EXTINF:-1 tvg-name="WWE LIVE FHD" tvg-logo="" group-title="26-09-2026",07:00 - 10:00 - WWE Smackdown Friday - WWE LIVE FHD
@@ -373,12 +241,6 @@ https://chatgpt.hereisman.net/playlist/53504/load-playlist?|Referer=https://gooz
 https://rdcstream.life/live/paramountplus/index.m3u8|referer=https://playerembed.xyz
 #EXTINF:-1 tvg-name="SD TV (USE VPN)" tvg-logo="" group-title="27-09-2026",04:00 - 11:30 - UFC - SD TV (USE VPN)
 http://193.47.62.41/hls/suuu.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="" group-title="27-09-2026",06:00 - 08:00 - Canada vs Chile - TSN SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CANAL5 FHD" tvg-logo="" group-title="27-09-2026",08:00 - 10:05 - Mexico vs Colombia - CANAL5 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
