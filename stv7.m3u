@@ -20,7 +20,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 #EXTINF:-1 tvg-name="Server 4" tvg-logo="" group-title="02-10-2026",19:30 - 23:30 - ONE Friday Fights - Server 4
 https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8
 #EXTINF:-1 tvg-name="DARTS LIVE [FHD]" tvg-logo="" group-title="03-10-2026",01:00 - 03:30 - Morocco - DARTS LIVE [FHD]
-https://embedindia.st/embed/2026-world-grand-prix--day-5-29600
+https://embedindia.st/embed/2026-world-grand-prix--day-6-29601
 #EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="03-10-2026",01:00 - 03:30 - Morocco - LOW SERVER
 http://193.47.62.55/hls/ZRRRAAAAAx.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="WWE LIVE FHD" tvg-logo="" group-title="03-10-2026",07:00 - 10:00 - WWE Smackdown Friday - WWE LIVE FHD
@@ -379,42 +379,22 @@ https://embedindia.st/embed/cfl/2026-10-02/cgy-ssk
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=db683d059dfaf1f32f3a8162656c6725:cf325534ea496365b2e0834d913167aa
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xsl3qjiero/out/v1/5e63410b4fca4a8a97243a8b2f14d8ef/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ ALT" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="04-10-2026",03:00 - 11:00 - UFC - PARAMOUNT+ ALT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=91c369f8579e3824b4604bf573726b26:8000cad8c28844f145ba45bc831441eb
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yccrx4cftf/out/v1/75d33583e4ce40dfa9b447f853779365/c1a91071-cdd0-436b-841f-66ae21603155-cenc.mpd?aws_sessionId=1d014f33-15e2-4955-9417-f274fefaa89b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=555002659e06532881e22447986a79da:8ece00ca4e37a67a8763f5b2ff60e948
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ej80ruf35n/out/v1/fee46a895a76426eb2e5f13a045c6c95/befe6c61-480a-4063-a7a4-bd1b76f5e0df-cenc.mpd?aws_sessionId=c2effc63-fa98-4932-88fe-d0133d24a27d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="04-10-2026",03:00 - 11:00 - UFC - TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD (ES)" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="04-10-2026",03:00 - 11:00 - UFC - PARAMOUNT+ FHD (ES)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5365f66e2716f0311124d62b326dfc6:2f0511b885ae7faf41eff3ece2933a06
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z6e4nz7ldo/out/v1/b076c83a8c9d461ca94bf3114b4cf886/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD (PT)" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="04-10-2026",03:00 - 11:00 - UFC - PARAMOUNT+ FHD (PT)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=73c658c668ce95620f4ec06ef697baac:25943ea01a7449bf18f7c0b3485e599c
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3kqirt2kdh/out/v1/5d452af859b3471984a9ac97cae836c4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="04-10-2026",03:00 - 11:00 - UFC - PARAMOUNT+ HD
-https://chatgpt.hereisman.net/playlist/57167/load-playlist-multi?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD (2)" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="04-10-2026",03:00 - 11:00 - UFC - PARAMOUNT+ HD (2)
-https://chatgpt.hereisman.net/playlist/57169/load-playlist-multi?|Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/57507/load-playlist-multi?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-name="PARAMOUNT+ [FHD]" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="04-10-2026",03:00 - 11:00 - UFC - PARAMOUNT+ [FHD]
-https://embedindia.st/embed/ufc-fight-night-rosas-jr-vs-barcelos-29468
+https://embedindia.st/embed/ufc-332-silva-vs-wang-29759
 #EXTINF:-1 tvg-name="PARAMOUNT+ ES [FHD]" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="04-10-2026",03:00 - 11:00 - UFC - PARAMOUNT+ ES [FHD]
-https://embedindia.st/embed/ufc-fight-night-rosas-jr-vs-barcelos-29469
+https://embedindia.st/embed/ufc-332-silva-vs-wang-29760
 #EXTINF:-1 tvg-name="PARAMOUNT+ PT [FHD]" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="04-10-2026",03:00 - 11:00 - UFC - PARAMOUNT+ PT [FHD]
-https://embedindia.st/embed/ufc-fight-night-rosas-jr-vs-barcelos-29470
+https://embedindia.st/embed/ufc-332-silva-vs-wang-29761
 #EXTINF:-1 tvg-name="SD TV (USE VPN)" tvg-logo="" group-title="04-10-2026",03:00 - 11:00 - UFC - SD TV (USE VPN)
 http://193.47.62.192/hls/FEEEEQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="SportsNet FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="04-10-2026",03:00 - 11:00 - UFC - SportsNet FHD
@@ -443,8 +423,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="04-10-2026",05:30 - 08:30 - Tampa Bay Rays - TNT SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Toronto Raptors - NBA LIVE [FHD]
-https://
+https://embedindia.st/embed/nba/2026-10-03/mia-tor
 #EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - [OLD] Zuffa Boxing 11 - TSN SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -460,65 +446,25 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 #EXTINF:-1 tvg-name="CFL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - [OLD] Zuffa Boxing 11 - CFL LIVE [FHD]
 https://embedindia.st/embed/cfl/2026-10-02/ham-ott
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Philadelphia Flyers vs Hurricanes - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-02/nyr-det
+https://embedindia.st/embed/nhl/2026-10-03/car-phi
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Penguins vs Montréal Canadiens - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-02/wsh-car
-#EXTINF:-1 tvg-name="PREMIER SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="04-10-2026",06:00 - 09:00 - Lightning vs Washington Capitals - PREMIER SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="04-10-2026",06:00 - 09:00 - Lightning vs Washington Capitals - TSN SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SortzX NHL HD" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Lightning vs Washington Capitals - SortzX NHL HD
-https://chatgpt.hereisman.net/playlist/57449/load-playlist?|Referer=https://gooz.aapmains.net
+https://embedindia.st/embed/nhl/2026-10-03/mtl-pit
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Lightning vs Washington Capitals - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-02/bos-wpg
+https://embedindia.st/embed/nhl/2026-10-03/wsh-tb
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Maple Leafs vs Ottawa Senators - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-02/stl-dal
+https://embedindia.st/embed/nhl/2026-10-03/ott-tor
+#EXTINF:-1 tvg-name="NHL LIVE HD" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Buffalo Sabres vs Blackhawks - NHL LIVE HD
+https://chatgpt.hereisman.net/playlist/57526/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Buffalo Sabres vs Blackhawks - NHL LIVE [FHD]
-https://embedindia.st/embed/
-#EXTINF:-1 tvg-name="FUBO NETWORK USA" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Blue Jackets vs Utah Mammoth - FUBO NETWORK USA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Blue Jackets vs Utah Mammoth - beIN ENGLISH FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="ViX ESPANOL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="04-10-2026",06:00 - 09:00 - Blue Jackets vs Utah Mammoth - ViX ESPANOL FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8959a54083ac9b038280f7a197bb8e49:8339e2ebe47760127758a395d04d3c9f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mu2pxung7j/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd?aws_sessionId=6f0890cb-778b-4837-9611-29c007da0923|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SporTV BR FHD" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="04-10-2026",06:00 - 09:00 - Blue Jackets vs Utah Mammoth - SporTV BR FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="HD SERVER " tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Blue Jackets vs Utah Mammoth - HD SERVER 
-https://edgestream2.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Blue Jackets vs Utah Mammoth - SD SERVER
-https://www.rtmpcdn.com/live/ab1ea1d1-7137-44ee-8592-90789d7aa234.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Blue Jackets vs Utah Mammoth - LOW SERVER
-http://193.47.62.41/hls/OIIIQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+https://embedindia.st/embed/nhl/2026-10-03/chi-buf
+#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Blue Jackets vs Utah Mammoth - NHL LIVE [FHD]
+https://embedindia.st/embed/nhl/2026-10-03/uta-cbj
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Edmonton Oilers vs Seattle Kraken - NHL LIVE [FHD]
 https://embedindia.st/embed/
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:30 - 09:30 - Islanders vs New Jersey Devils - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-02/ana-vgk
+https://embedindia.st/embed/nhl/2026-10-03/nj-nyi
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",07:00 - 10:00 - Minnesota Wild vs Boston Bruins - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-01/chi-uta
+https://embedindia.st/embed/nhl/2026-10-03/bos-min
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",07:00 - 10:00 - Nashville Predators vs Dallas Stars - NHL LIVE [FHD]
 https://embedindia.st/embed/nhl/2026-10-01/fla-sj
 #EXTINF:-1 tvg-name="beIN ENGLISH 3" tvg-logo="" group-title="04-10-2026",07:00 - 09:10 - Argentina vs Burkina Faso - beIN ENGLISH 3
@@ -533,6 +479,18 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="FOX SPORTS FHD" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="04-10-2026",07:30 - 10:30 - Milwaukee Brewers - FOX SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="FOX DEPORTES" tvg-logo="" group-title="04-10-2026",07:30 - 10:30 - Milwaukee Brewers - FOX DEPORTES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",08:00 - 11:00 - Avalanche vs St. Louis Blues - NHL LIVE [FHD]
 https://embedindia.st/embed/nhl/2026-10-01/edm-van
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",09:00 - 12:00 - Canucks vs Calgary Flames - NHL LIVE [FHD]
