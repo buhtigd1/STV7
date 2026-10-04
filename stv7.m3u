@@ -59,104 +59,6 @@ https://chatgpt.hereisman.net/playlist/53504/load-playlist?|Referer=https://gooz
 https://rdcstream.life/live/paramountplus/index.m3u8|referer=https://playerembed.xyz
 #EXTINF:-1 tvg-name="SD TV (USE VPN)" tvg-logo="" group-title="04-10-2026",03:00 - 11:00 - UFC - SD TV (USE VPN)
 http://193.47.62.41/hls/suuu.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="04-10-2026",05:30 - 08:30 - Tampa Bay Rays - TNT SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="04-10-2026",06:00 - 09:00 - Toronto Raptors - TSN SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Toronto Raptors - NBA LIVE [FHD]
-https://embedindia.st/embed/nba/2026-10-03/mia-tor
-#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - [OLD] Zuffa Boxing 11 - TSN SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN5 SPORTS FHD" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - [OLD] Zuffa Boxing 11 - TSN5 SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="CFL LIVE HD" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - [OLD] Zuffa Boxing 11 - CFL LIVE HD
-https://chatgpt.hereisman.net/playlist/57529/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="CFL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - [OLD] Zuffa Boxing 11 - CFL LIVE [FHD]
-https://embedindia.st/embed/cfl/2026-10-03/wpg-mtl
-#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Philadelphia Flyers vs Hurricanes - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-03/car-phi
-#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Penguins vs Montréal Canadiens - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-03/mtl-pit
-#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Lightning vs Washington Capitals - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-03/wsh-tb
-#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:00 - 09:00 - Maple Leafs vs Ottawa Senators - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-03/ott-tor
-#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",06:30 - 09:30 - Islanders vs New Jersey Devils - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-03/nj-nyi
-#EXTINF:-1 tvg-name="NHL LIVE HD" tvg-logo="" group-title="04-10-2026",07:00 - 10:00 - Minnesota Wild vs Boston Bruins - NHL LIVE HD
-https://digitalnoodle.s3.us-east-1.amazonaws.com/bruins.m3u8
-#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",07:00 - 10:00 - Minnesota Wild vs Boston Bruins - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-03/bos-min
-#EXTINF:-1 tvg-name="NHL LIVE HD" tvg-logo="" group-title="04-10-2026",07:00 - 10:00 - Nashville Predators vs Dallas Stars - NHL LIVE HD
-https://digitalnoodle.s3.us-east-1.amazonaws.com/stars.m3u8
-#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",07:00 - 10:00 - Nashville Predators vs Dallas Stars - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-03/dal-nsh
-#EXTINF:-1 tvg-name="FOX SPORTS FHD" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="04-10-2026",07:30 - 10:30 - Milwaukee Brewers - FOX SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="FOX DEPORTES" tvg-logo="" group-title="04-10-2026",07:30 - 10:30 - Milwaukee Brewers - FOX DEPORTES
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="NHL LIVE FHD" tvg-logo="" group-title="04-10-2026",08:00 - 11:00 - Avalanche vs St. Louis Blues - NHL LIVE FHD
-https://digitalnoodle.s3.us-east-1.amazonaws.com/avalanche.m3u8
-#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",08:00 - 11:00 - Avalanche vs St. Louis Blues - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-03/stl-col
-#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",09:00 - 12:00 - San Jose Sharks vs Kings - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-03/la-sj
-#EXTINF:-1 tvg-name="PREMIER SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="04-10-2026",09:00 - 12:00 - Canucks vs Calgary Flames - PREMIER SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="04-10-2026",09:00 - 12:00 - Canucks vs Calgary Flames - NHL LIVE [FHD]
-https://embedindia.st/embed/nhl/2026-10-03/cgy-van
-#EXTINF:-1 tvg-name="CANAL5 FHD" tvg-logo="" group-title="04-10-2026",09:00 - 11:10 - USA vs Mexico - CANAL5 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="NBC UNIVERSO [USA]" tvg-logo="" group-title="04-10-2026",09:00 - 11:10 - USA vs Mexico - NBC UNIVERSO [USA]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
-#EXTINF:-1 tvg-name="ESPN AR FHD" tvg-logo="" group-title="04-10-2026",09:00 - 11:10 - USA vs Mexico - ESPN AR FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
-#EXTINF:-1 tvg-name="Tru TV HD" tvg-logo="" group-title="04-10-2026",09:00 - 11:10 - USA vs Mexico - Tru TV HD
-https://chatgpt.hereisman.net/playlist/57553/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="04-10-2026",09:00 - 11:10 - USA vs Mexico - HD SERVER
-https://www.rtmpcdn.com/live/b97b626a-b2ec-4870-bae2-76507fc266b8.m3u8
-#EXTINF:-1 tvg-name="ESPN BR SD" tvg-logo="" group-title="04-10-2026",09:00 - 11:10 - USA vs Mexico - ESPN BR SD
-http://193.47.62.41/hls/tllllQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="04-10-2026",12:00 - 13:30 - MotoGP - TNT SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -189,66 +91,66 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=MTk5NGIxZGY3ZGZkMmU4YThkN2I5YmYzZmI5MDAyODU6MjJhMTQ0NGIzZGExOGUxMzkxOTE2djViMrQ2NTI4MzU=
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SKY SPORTS FHD" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - SKY SPORTS FHD
+#EXTINF:-1 tvg-name="SKY SPORTS FHD" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - SKY SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b093b15b677c732d99e94e4e7a7dc3f:a16ef774c00333b13c0572da8d13a3d3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ttmfhg11yd/out/v1/de59f982be774908a518a2458751a52c/cenc.mpd
-#EXTINF:-1 tvg-name="APPLE TV FHD" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - APPLE TV FHD
+#KODIPROP:inputstream.adaptive.license_key=5734bfc9aca5e8e478c98f0617ae56f7:b24ed75de070e35c154feeb68fc21e57
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iryr4nfnvz/out/v1/56a65d76a55e49ffa4ac4669a8f9cf26/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="APPLE TV FHD" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - APPLE TV FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=22ab68dce16cc62dbdbf61a93fe9455e:5266d40464a632a3e6069ce8ccdab36c
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jmkhzvjref/out/v1/33df23745a174bb1811fc2f96e900b08/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - TSN SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_key=ad6abbc0c6e35344580087ef6a3fbf3b:cfff2c2e7ea9def66448406eef1911e9
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qg95ap2ngd/out/v1/351af353038c4a05af277388f24c4f8c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - TSN SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="FANCODE - FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - FANCODE - FHD
+#EXTINF:-1 tvg-name="FANCODE - FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - FANCODE - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="SporTV BR FHD" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - SporTV BR FHD
+#EXTINF:-1 tvg-name="SporTV BR FHD" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - SporTV BR FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="FORMULA 1 FHD" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - FORMULA 1 FHD
-https://ghostinpixels.s3.us-east-1.amazonaws.com/f1.m3u8
-#EXTINF:-1 tvg-name="RUSSIA FEED" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - RUSSIA FEED
-https://bl.rutube.ru/livestream/d99bbd05aea1c0084c640e5dd9851834/index.m3u8?s=ho-OlNZ8a-rYHUEfg_0MeQ&e=1791100384&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-name="Sportscast FHD" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - Sportscast FHD
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e77cab6d-7a9e-4baa-abab-2c70e51149dd/master.m3u8
-#EXTINF:-1 tvg-name="DAZN SPORTS FHD" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - DAZN SPORTS FHD
-https://netanjahu.hls.st/t/d7e2d00b5b21655224ed97d8a52a7e68/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="ELEVEN SPORTS PL" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - ELEVEN SPORTS PL
-https://netanjahu.hls.st/t/33999099267acc06e541fb62fa3c3cd3/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="SKY SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - SKY SPORTS HD
+#EXTINF:-1 tvg-name="FORMULA 1 FHD" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - FORMULA 1 FHD
+https://admin2.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-name="RUSSIA FEED" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - RUSSIA FEED
+https://bl.rutube.ru/livestream/6f720c31786abeb7fd11f847db8a2084/index.m3u8?s=XHCTvH12_MBnBEkLnZ-k5g&e=1791182503&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-name="Sportscast FHD" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - Sportscast FHD
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c5cd3615-4d73-4b1b-b368-204f9d6ddad5/master.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS DE" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - SKY SPORTS DE
+https://netanjahu.hls.st/t/a304b0a7b4765ba0312de32326c4a99c/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-name="ELEVEN SPORTS PL" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - ELEVEN SPORTS PL
+https://netanjahu.hls.st/t/adb57217346ee4d7cbc072c94d0de6e5/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-name="SKY SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - SKY SPORTS HD
 https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - SD SERVER
-http://193.47.62.41/hls/FEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="SKY F1 Italia [IT]" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - SKY F1 Italia [IT]
+#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - SD SERVER
+http://193.47.62.55/hls/fvvvv.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="SKY F1 Italia [IT]" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - SKY F1 Italia [IT]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118a6477fbf274ef4ab397ae762cb61:31ba7c00dc9667233ecb2a6e7e24ee08
-https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1791088034_f~0_g~1_s~2aa71a64-9a1e-470d-a104-24c2be9656fc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~dae629d427e5eb3f6d206f4c0586a1d8/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
-#EXTINF:-1 tvg-name="DAZN ESPANOL [FHD]" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - DAZN ESPANOL [FHD]
-https://embedindia.st/embed/bahrain-grand-prix---qualifying-29714
-#EXTINF:-1 tvg-name="SKY SPORTS [FHD]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - SKY SPORTS [FHD]
-https://embedindia.st/embed/f1/2026/bahrain/qualifying
-#EXTINF:-1 tvg-name="APPLE TV [FHD]" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - APPLE TV [FHD]
-https://embedindia.st/embed/bahrain-grand-prix---qualifying-29712
-#EXTINF:-1 tvg-name="SKY ITALIA [FHD]" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - SKY ITALIA [FHD]
-https://embedindia.st/embed/bahrain-grand-prix---qualifying-29716
-#EXTINF:-1 tvg-name="VIAPLAY NL [FHD]" tvg-logo="" group-title="04-10-2026",13:55 - 15:15 - Formula 1 - VIAPLAY NL [FHD]
-https://embedindia.st/embed/bahrain-grand-prix---qualifying-29718
+https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1791184112_f~0_g~1_s~0d5cf2cf-1b2c-4d75-b1f8-7170d2be18c2_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~551e4bc3580ed531c98b15668319162e/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
+#EXTINF:-1 tvg-name="DAZN ESPANOL [FHD]" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - DAZN ESPANOL [FHD]
+https://embedindia.st/embed/bahrain-grand-prix---race-29723
+#EXTINF:-1 tvg-name="SKY SPORTS [FHD]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - SKY SPORTS [FHD]
+https://embedindia.st/embed/f1/2026/bahrain/race
+#EXTINF:-1 tvg-name="APPLE TV [FHD]" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - APPLE TV [FHD]
+https://embedindia.st/embed/bahrain-grand-prix---race-29721
+#EXTINF:-1 tvg-name="SKY ITALIA [FHD]" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - SKY ITALIA [FHD]
+https://embedindia.st/embed/bahrain-grand-prix---race-29725
+#EXTINF:-1 tvg-name="VIAPLAY NL [FHD]" tvg-logo="" group-title="04-10-2026",13:55 - 17:15 - Formula 1 - VIAPLAY NL [FHD]
+https://embedindia.st/embed/bahrain-grand-prix---race-29727
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="04-10-2026",18:30 - 02:00 - WCL - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -317,6 +219,8 @@ https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8|referer
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 tvg-name="LOW SERVER " tvg-logo="" group-title="04-10-2026",23:30 - 01:30 - Las Palmas vs Real Valladolid - LOW SERVER 
 http://193.47.62.41/hls/HOOOQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="05-10-2026",00:00 - 03:00 - Red Wings vs Winnipeg Jets - NHL LIVE [FHD]
+https://embedindia.st/embed/nhl/2026-10-03/car-phi
 #EXTINF:-1 tvg-name="ViX ESPANOL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="05-10-2026",00:00 - 03:20 - Houston Texans vs Dallas Cowboys - ViX ESPANOL FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -339,7 +243,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8
 #EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="05-10-2026",00:00 - 03:20 - Buccaneers vs Green Bay Packers - HD SERVER
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-name="WNBA LIVE [FHD]" tvg-logo="" group-title="05-10-2026",01:00 - 03:45 - Dream vs New York Liberty - WNBA LIVE [FHD]
+#EXTINF:-1 tvg-name="WNBA LIVE [FHD]" tvg-logo="" group-title="05-10-2026",01:00 - 03:45 - Atlanta Dream vs New York Liberty - WNBA LIVE [FHD]
 https://embedindia.st/embed/wnba/2026-10-02/dal-gs
 #EXTINF:-1 tvg-name="OMAN SPORTS HD" tvg-logo="" group-title="05-10-2026",01:00 - 03:00 - Egypt vs South Africa - OMAN SPORTS HD
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -431,6 +335,12 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="BAHRAIN SPORTS HD" tvg-logo="" group-title="05-10-2026",01:45 - 03:50 - Ireland vs Israel - BAHRAIN SPORTS HD
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS FHD" tvg-logo="" group-title="05-10-2026",03:00 - 06:00 - Milwaukee Brewers - FOX SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="WNBA LIVE [FHD]" tvg-logo="" group-title="05-10-2026",03:00 - 05:45 - Valkyries vs Las Vegas Aces - WNBA LIVE [FHD]
 https://embedindia.st/embed/wnba/2026-10-01/ind-lv
 #EXTINF:-1 tvg-name="SPX FHD LIVE" tvg-logo="" group-title="05-10-2026",03:25 - 06:45 - Kansas City Chiefs - SPX FHD LIVE
@@ -899,6 +809,42 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manip
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=MzU3Y2NlYTI3MTM4N2MzMjg4Y2M4YzIzMDFmMTNkMzU6NmQ5OWQzNGU4NThkaTJhYjU53TRkOGRmODYyMjEwNmE=
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nsuvwbv5a0/out/v1/745ffbb961054110852973877632f4e9/f7dd18d6-fb4d-4a8a-80fb-0cea8594021e-cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com
+#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="05-10-2026",05:00 - 08:00 - Rangers vs Utah Mammoth - NHL LIVE [FHD]
+https://embedindia.st/embed/nhl/2026-10-03/mtl-pit
+#EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="05-10-2026",06:00 - 09:00 - Denver Nuggets vs Utah Jazz - NBA LIVE [FHD]
+https://embedindia.st/embed/nba/2026-10-03/mia-tor
+#EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="05-10-2026",06:00 - 09:00 - Clippers vs Warriors - NBA LIVE [FHD]
+https://embedindia.st/embed/wnba/2026-09-27/wsh-atl
+#EXTINF:-1 tvg-name="WILLOW FHD [Ad-Free]" tvg-logo="" group-title="05-10-2026",06:00 - 09:00 - Clippers vs Warriors - WILLOW FHD [Ad-Free]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=YTdlZDhkNGExZmEyZWI0NzFhNmJlNTVmZTJkMmQyNDg6MDE0NWJlYzY4YmM0MWE4YTBiOTUzM3E0NG80NGQzOWM=
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd
+#EXTINF:-1 tvg-name="WILLOW FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="05-10-2026",06:00 - 09:00 - Clippers vs Warriors - WILLOW FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=YTdlZDhkNGExZmEyZWI0NzFhNmJlNTVmZTJkMmQyNDg6MDE0NWJlYzY4YmM0MWE4YTBiOTUzM3E0NG80NGQzOWM=
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd
+#EXTINF:-1 tvg-name="WILLOW SD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="05-10-2026",06:00 - 09:00 - Clippers vs Warriors - WILLOW SD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=MDg0YmVlNzA3NDk3OTk2MTU4ZTRlYzZkOWNhZDQwZTQ6MmViOTgwNzFiZjhjMDA2ZWY4YjVhNXU4Nz41MWQ4NDM=
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/cfv0fqo8qr/out/v1/8e02e7de7e9245c4b54f304c1159878d/cenc-sd.mpd
+#EXTINF:-1 tvg-name="FOX SPORTS FHD" tvg-logo="" group-title="05-10-2026",07:00 - 10:00 - Los Angeles Dodgers - FOX SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="05-10-2026",07:00 - 10:00 - Anaheim Ducks vs Florida Panthers - NHL LIVE [FHD]
+https://embedindia.st/embed/nhl/2026-10-03/wsh-tb
+#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="05-10-2026",07:00 - 10:00 - Seattle Kraken vs Calgary Flames - NHL LIVE [FHD]
+https://embedindia.st/embed/nhl/2026-10-03/ott-tor
+#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="05-10-2026",08:00 - 11:00 - Vancouver Canucks vs Knights - NHL LIVE [FHD]
+https://embedindia.st/embed/nhl/2026-10-03/nj-nyi
 #EXTINF:-1 tvg-name="WWE RAW [FHD]" tvg-logo="" group-title="06-10-2026",07:00 - 09:30 - WWE Raw - WWE RAW [FHD]
 https://embedindia.st/embed/wwe/2026-08-24
 #EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="06-10-2026",07:00 - 09:30 - WWE Raw - HD SERVER
