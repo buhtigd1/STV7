@@ -1,50 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SportDigital Fussball" tvg-logo="" group-title="05-10-2026",13:30 - 15:35 - Ecuador vs Panama - SportDigital Fussball
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="AD SPORTS FHD" tvg-logo="" group-title="05-10-2026",13:30 - 15:35 - Ecuador vs Panama - AD SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
-#EXTINF:-1 tvg-name="ALKASS ONE HD" tvg-logo="" group-title="05-10-2026",13:30 - 15:35 - Ecuador vs Panama - ALKASS ONE HD
-https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-name="KTV SPORT HD " tvg-logo="" group-title="05-10-2026",13:30 - 15:35 - Ecuador vs Panama - KTV SPORT HD 
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="OMAN SPORTS HD" tvg-logo="" group-title="05-10-2026",13:30 - 15:35 - Ecuador vs Panama - OMAN SPORTS HD
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="BAHRAIN SPORTS HD" tvg-logo="" group-title="05-10-2026",13:30 - 15:35 - Ecuador vs Panama - BAHRAIN SPORTS HD
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-name="SportDigital Fussball" tvg-logo="" group-title="05-10-2026",17:30 - 19:35 - Japan vs New Zealand - SportDigital Fussball
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="AD SPORTS FHD" tvg-logo="" group-title="05-10-2026",17:30 - 19:35 - Japan vs New Zealand - AD SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
-#EXTINF:-1 tvg-name="ALKASS ONE HD" tvg-logo="" group-title="05-10-2026",17:30 - 19:35 - Japan vs New Zealand - ALKASS ONE HD
-https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-name="KTV SPORT HD " tvg-logo="" group-title="05-10-2026",17:30 - 19:35 - Japan vs New Zealand - KTV SPORT HD 
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="OMAN SPORTS HD" tvg-logo="" group-title="05-10-2026",17:30 - 19:35 - Japan vs New Zealand - OMAN SPORTS HD
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="BAHRAIN SPORTS HD" tvg-logo="" group-title="05-10-2026",17:30 - 19:35 - Japan vs New Zealand - BAHRAIN SPORTS HD
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="05-10-2026",18:30 - 02:00 - WCL - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd73ed2416f865f64c3531cdb2ee4f82:82bc46b3cd438e34923d12c5591654ed
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdqnlnqefq/out/v1/49ddd42b1eda4ef2a9a14f5a84732743/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=78090352c9a0d9d111321531abac5d84:e1f3409d25274b3c335f9179b80f481b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4xrvq8cub7/out/v1/e341473ca5c249318f1ec8b9352012c1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="05-10-2026",18:30 - 02:00 - WCL - FANCODE FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -55,14 +15,18 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd73ed2416f865f64c3531cdb2ee4f82:82bc46b3cd438e34923d12c5591654ed
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdqnlnqefq/out/v1/49ddd42b1eda4ef2a9a14f5a84732743/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=78090352c9a0d9d111321531abac5d84:e1f3409d25274b3c335f9179b80f481b
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4xrvq8cub7/out/v1/e341473ca5c249318f1ec8b9352012c1/cenc.mpd
 #EXTINF:-1 tvg-name="FANCODE ENG - IN" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="05-10-2026",18:30 - 02:00 - WCL - FANCODE ENG - IN
-https://dai-fancode.pages.dev/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4249217_english_hls_c61fbb525579262_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-name="FANCODE HIN - IN" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="05-10-2026",18:30 - 02:00 - WCL - FANCODE HIN - IN
-https://dai-fancode.pages.dev/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4249217_hindi_hls_1480bdd9cf91170_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="05-10-2026",18:30 - 02:00 - WCL - LOW SERVER
 http://193.47.62.44/hls/TGGGAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="FHD SERVER" tvg-logo="" group-title="05-10-2026",20:00 - 23:00 - Indonesia vs Thailand - FHD SERVER
+https://live.vivo155.com/live/hd-en-1-4652619.m3u8?txSecret=2de4253c0c1c98af313e9ae3fbfb5eb1&txTime=6AC3DC04|Referer=https://player.online909.com/
+#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="05-10-2026",20:00 - 23:00 - Indonesia vs Thailand - SD SERVER
+http://193.47.62.55/hls/ekkkkAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="05-10-2026",23:00 - 01:05 - Cyprus vs Latvia - beIN ENGLISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -75,6 +39,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="FOX SPORTS HD" tvg-logo="" group-title="05-10-2026",23:00 - 01:05 - Cyprus vs Latvia - FOX SPORTS HD
+https://chatgpt.hereisman.net/playlist/57635/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-name="DAZN SPORTS FHD" tvg-logo="" group-title="05-10-2026",23:00 - 01:05 - Cyprus vs Latvia - DAZN SPORTS FHD
+https://netanjahu.hls.st/t/813f3aba208f7dea3ccdcfe2fe736801/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-name="Sport TV HD" tvg-logo="" group-title="05-10-2026",23:00 - 01:05 - Cyprus vs Latvia - Sport TV HD
+https://netanjahu.hls.st/t/f2d8788a7a5cd686a58a351748d39171/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="05-10-2026",23:00 - 01:05 - Cyprus vs Latvia - HD SERVER
+https://www.rtmpcdn.com/live/569599d8-2ec4-4ef5-b23e-5fd94b4998eb.m3u8
+#EXTINF:-1 tvg-name="SD SERVER GRE" tvg-logo="" group-title="05-10-2026",23:00 - 01:05 - Cyprus vs Latvia - SD SERVER GRE
+http://193.47.62.44/hls/CACACAAAAQQQQX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="06-10-2026",01:45 - 03:50 - France vs Belgium - beIN ENGLISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
