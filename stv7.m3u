@@ -119,68 +119,6 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8|referer=https:
 https://awscdn1.tamashaweb.com/out/v1/ce90227a71444af18fddc88750c08f76/index.m3u8?start=1791546600
 #EXTINF:-1 tvg-name="PTV SPORTS HD" tvg-logo="" group-title="13-10-2026",20:00 - 23:45 - Pakistan vs Sri Lanka - PTV SPORTS HD
 https://baila-lentoo.pages.dev/all-sp/809398.m3u8
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="13-10-2026",23:45 - 01:50 - Sabah vs Slavia Praha - PARAMOUNT+ FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d29b6b16d339227a48c34cc7db653e6:c3ae68f8dd22965c21c9045d62db98dc
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/e0sjaaepmg/out/v1/f2965d1e22694d6a9d400b5044f082d0/e37f6c33-7547-4df8-898c-a91c85ca749c-cenc.mpd?aws_sessionId=f92c2fb9-1098-420a-a25e-438b2477a0a5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="13-10-2026",23:45 - 01:50 - Sabah vs Slavia Praha - TNT SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="ViX ESPANOL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="13-10-2026",23:45 - 01:50 - Sabah vs Slavia Praha - ViX ESPANOL FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf3ca9dfdd220846534578d88622d97d:7ce518f3de991da7be500f8458b7d6bb
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mfm0oerz72/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd?aws_sessionId=94235c70-be88-4031-a867-cd193556024d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="13-10-2026",23:45 - 01:50 - Sabah vs Slavia Praha - STAN SPORTS HD
-https://netanjahu.hls.st/t/4057f8a17a2ed443be386f9313363890/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="13-10-2026",23:45 - 01:50 - Sabah vs Slavia Praha - PARAMOUNT+ HD
-https://netanjahu.hls.st/t/e2a225fb776182522f012d64978e7761/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="DAZN SPORTS HD" tvg-logo="" group-title="13-10-2026",23:45 - 01:50 - Sabah vs Slavia Praha - DAZN SPORTS HD
-https://netanjahu.hls.st/t/2a7c1758eac7765117c59ed96a89ada3/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="ARENA SPORTS HD" tvg-logo="" group-title="13-10-2026",23:45 - 01:50 - Sabah vs Slavia Praha - ARENA SPORTS HD
-https://netanjahu.hls.st/t/d3509e68fddfbb64da3d78fa73f1cb6e/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="Ziggo Sports HD" tvg-logo="" group-title="13-10-2026",23:45 - 01:50 - Sabah vs Slavia Praha - Ziggo Sports HD
-https://netanjahu.hls.st/t/70f56dc6f848eb8a2d1989690d9603c4/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="13-10-2026",23:45 - 01:50 - Sabah vs Slavia Praha - HD SERVER
-https://www.rtmpcdn.com/live/77821c7a-a46b-46ed-b327-57c62acbbddf.m3u8
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="13-10-2026",23:45 - 01:50 - Sabah vs Slavia Praha - LOW SERVER
-http://193.47.62.55/hls/H999A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="ESPN NL UHD" tvg-logo="" group-title="14-10-2026",01:15 - 03:15 - Al-Ittihad vs Shabab Al-Ahli - ESPN NL UHD
-https://netanjahu.hls.st/t/e6c99de39ba29483d34d39bef4e1517c/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="14-10-2026",01:15 - 03:15 - Al-Ittihad vs Shabab Al-Ahli - HD SERVER
-https://live.vivo155.com/live/sd-1-4621484.m3u8?txSecret=db5028f2c33a5fd6dc1af22a38626d5e&txTime=6ACE8553|Referer=https://player.online878.com/
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="14-10-2026",01:45 - 03:45 - Wolverhampton vs Bolton - PARAMOUNT+ FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f381ee828963508f18f6f4f3a6f56e7:8e9d4748b90bbf1588d2bf688458f11e
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/3yrlxxm99h/out/v1/0041371678064a19a14ef208719430ce/68580bb6-e0f8-4248-a608-d8ca8eb30366-cenc.mpd?aws_sessionId=ffd110d2-b4b8-4a80-b2d0-bbf8e3f9c9d9|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="14-10-2026",01:45 - 03:45 - Wolverhampton vs Bolton - PARAMOUNT+ HD
-https://netanjahu.hls.st/t/94e5dc0ffa65c9c43e5c25c0f6749344/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="14-10-2026",01:45 - 03:45 - Wolverhampton vs Bolton - LOW SERVER
-http://193.47.62.50/hls/H333AAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="14-10-2026",01:45 - 03:50 - Wrexham vs West Bromwich - PARAMOUNT+ FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=442a6a211887ae4c7f8fb5e987b16734:7829e1fcee3920184897bce740ce0994
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/cqrklafzlh/out/v1/f566727854494321a40e9a55563746dd/096b5d86-0a73-4323-bc22-06a8bfde2127-cenc.mpd?aws_sessionId=8a7d4a57-d601-4b9a-a4d3-f6ae2db4a4c1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="14-10-2026",01:45 - 03:50 - Wrexham vs West Bromwich - PARAMOUNT+ HD
-https://netanjahu.hls.st/t/c2489efcb91d91106590eb7a6d087f9e/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="14-10-2026",01:45 - 03:50 - Wrexham vs West Bromwich - LOW SERVER
-http://193.47.62.50/hls/H333AAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="14-10-2026",01:55 - 04:00 - Golazo Show - TNT SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="14-10-2026",02:00 - 04:10 - Atlético Madrid vs Manchester United - PARAMOUNT+ FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -406,73 +344,35 @@ https://netanjahu.hls.st/t/f4f178a9ff3458089bfcf96c445b6bfe/index.m3u8?|Referer=
 #EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="14-10-2026",02:00 - 04:05 - Stoke City vs Middlesbrough - SD SERVER
 http://193.47.62.56/hls/DYYYA.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",05:00 - 08:00 - Detroit Red Wings vs Devils - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/
+https://taifood-blog.asia/embed/nhl/2026-10-13/nj-det
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",05:15 - 08:15 - Blue Jackets vs Florida Panthers - NHL LIVE [FHD]
 https://taifood-blog.asia/embed/
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",05:30 - 08:30 - Canadiens vs Buffalo Sabres - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="14-10-2026",05:45 - 08:45 - Hurricanes vs Washington Capitals - PARAMOUNT+ FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=429b92da5873ba068fb1925d3b7c3963:9d1c11d9a3ca81fcf7506a2cca130b2c
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/blcro3nzpx/out/v1/54e2fc6603624696a19ec0e2d8a06d8f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="14-10-2026",05:45 - 08:45 - Hurricanes vs Washington Capitals - FUBO SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ozgoff0ij2/out/v1/e9584c6de0d145a9ac1b36ddf7795081/f08baf34-e257-4880-aed5-aa9356df87d6-cenc.mpd?aws_sessionId=ed7178f3-2312-49ba-9ca0-ca2bcae9ca56|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="DAZN SPORTS (IT)" tvg-logo="" group-title="14-10-2026",05:45 - 08:45 - Hurricanes vs Washington Capitals - DAZN SPORTS (IT)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=389571df4336a82150f7f22f6a7bb84d:043c82d081d456fe3c6282e5bc13b8cb
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cfiiwou6qb/out/v1/48c9184e3b084619a7cb100bc473fc1b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="14-10-2026",05:45 - 08:45 - Hurricanes vs Washington Capitals - beIN ENGLISH FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="CBS NETWORK FHD" tvg-logo="" group-title="14-10-2026",05:45 - 08:45 - Hurricanes vs Washington Capitals - CBS NETWORK FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="Ziggo Sports HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="14-10-2026",05:45 - 08:45 - Hurricanes vs Washington Capitals - Ziggo Sports HD
-https://netanjahu.hls.st/t/6587db81d5121bfc7c1ff4d2282dfc9b/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="14-10-2026",05:45 - 08:45 - Hurricanes vs Washington Capitals - CBS SPORTS HD
-https://loki.dulo.cc/play/6QSEu17nHA-bpxPOi02csYvE_eu7DaoF/E3vzq2Cuc_f8G8qx.m3u8
-#EXTINF:-1 tvg-name="DAZN SPORTS HD" tvg-logo="" group-title="14-10-2026",05:45 - 08:45 - Hurricanes vs Washington Capitals - DAZN SPORTS HD
-https://netanjahu.hls.st/t/f737016e591941427d3bf76ad998f82f/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="Sport TV HD" tvg-logo="" group-title="14-10-2026",05:45 - 08:45 - Hurricanes vs Washington Capitals - Sport TV HD
-https://netanjahu.hls.st/t/ae48217d49300db5dc9303fe0eebd031/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="ELEVEN SPORTS HD" tvg-logo="" group-title="14-10-2026",05:45 - 08:45 - Hurricanes vs Washington Capitals - ELEVEN SPORTS HD
-https://netanjahu.hls.st/t/c1e1b2b058ee008b9417063b61ef053c/index.m3u8?|Referer=https://iplayer.is/
+https://taifood-blog.asia/embed/nhl/2026-10-13/buf-mtl
+#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",05:45 - 08:45 - Hurricanes vs Washington Capitals - NHL LIVE [FHD]
+https://taifood-blog.asia/embed/nhl/2026-10-13/wsh-car
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="14-10-2026",06:00 - 09:00 - Magic vs Cleveland Cavaliers - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-10/lac-tor
+https://taifood-blog.asia/embed/nba/2026-10-13/cle-orl
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="14-10-2026",06:00 - 09:00 - Toronto Raptors vs Knicks - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-11/orl-cle
+https://taifood-blog.asia/embed/nba/2026-10-13/ny-tor
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",06:00 - 09:00 - Philadelphia Flyers vs Seattle Kraken - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/
-#EXTINF:-1 tvg-name="DAZN SPORTS HD" tvg-logo="" group-title="14-10-2026",06:15 - 09:15 - Rangers vs Lightning - DAZN SPORTS HD
-https://netanjahu.hls.st/t/7981648c21571d3920ade010c34e1f60/index.m3u8?|Referer=https://iplayer.is/
+https://taifood-blog.asia/embed/nhl/2026-10-13/sea-phi
+#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",06:15 - 09:15 - Rangers vs Lightning - NHL LIVE [FHD]
+https://taifood-blog.asia/embed/nhl/2026-10-13/tb-nyr
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",06:30 - 09:30 - Senators vs St. Louis Blues - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-12/fla-buf
+https://taifood-blog.asia/embed/nhl/2026-10-13/stl-ott
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",06:45 - 09:45 - Islanders vs Vancouver Canucks - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-12/ott-nj
+https://taifood-blog.asia/embed/nhl/2026-10-13/van-nyi
 #EXTINF:-1 tvg-name="NXT LIVE [FHD]" tvg-logo="" group-title="14-10-2026",07:00 - 09:00 - WWE NXT - NXT LIVE [FHD]
 https://embedindia.st/embed/wwe/2026-09-29
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="14-10-2026",07:00 - 10:00 - Cleveland Guardians - TNT SPORTS FHD
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="14-10-2026",07:00 - 10:00 - Cleveland Guardians - TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="14-10-2026",07:00 - 10:00 - Thunder vs Indiana Pacers - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-11/mil-cha
+https://taifood-blog.asia/embed/nba/2026-10-13/ind-okc
 #EXTINF:-1 tvg-name="WILLOW FHD [Ad-Free]" tvg-logo="" group-title="14-10-2026",07:00 - 10:00 - Thunder vs Indiana Pacers - WILLOW FHD [Ad-Free]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -494,9 +394,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/cfv0fqo8qr/out
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",07:00 - 10:00 - Blackhawks vs Pittsburgh Penguins - NHL LIVE [FHD]
 https://taifood-blog.asia/embed/nhl/2026-10-12/vgk-min
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",07:15 - 10:15 - Winnipeg Jets vs Minnesota Wild - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-10/det-mtl
+https://taifood-blog.asia/embed/nhl/2026-10-13/min-wpg
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",07:30 - 10:30 - Dallas Stars vs Colorado Avalanche - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-10/nsh-ott
+https://taifood-blog.asia/embed/nhl/2026-10-13/col-dal
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="14-10-2026",07:30 - 09:35 - Boca Juniors vs Vasco da Gama - beIN ENGLISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -516,17 +416,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",07:45 - 10:45 - Nashville Predators vs Knights - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-10/dal-pit
+https://taifood-blog.asia/embed/nhl/2026-10-13/vgk-nsh
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",08:00 - 11:00 - Utah Mammoth vs Maple Leafs - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-10/cbj-stl
+https://taifood-blog.asia/embed/nhl/2026-10-13/tor-uta
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",08:45 - 11:45 - Anaheim Ducks vs Calgary Flames - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-10/tb-nyi
+https://taifood-blog.asia/embed/nhl/2026-10-13/cgy-ana
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="14-10-2026",09:00 - 12:00 - Lakers vs Warriors - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-11/chi-den
+https://taifood-blog.asia/embed/nba/2026-10-13/gs-lal
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="14-10-2026",09:00 - 12:00 - Kings vs Trail Blazers - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-10/min-mia
+https://taifood-blog.asia/embed/nba/2026-10-13/por-sac
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",09:30 - 12:30 - Kings vs Edmonton Oilers - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-10/ana-cgy
+https://taifood-blog.asia/embed/nhl/2026-10-13/edm-la
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-10-2026",10:00 - 13:00 - Sharks vs Boston Bruins - NHL LIVE [FHD]
 https://taifood-blog.asia/embed/nhl/2026-10-10/la-vgk
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-10-2026",10:50 - 18:20 - Australia W vs Bangladesh W - WILLOW - FHD
