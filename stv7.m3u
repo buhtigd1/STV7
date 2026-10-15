@@ -1,44 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="15-10-2026",17:00 - 19:05 - Tai Po vs Lion City Sailors - HD SERVER
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="15-10-2026",17:00 - 19:05 - Gangwon FC vs Phnom Penh Crown - HD SERVER
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="15-10-2026",19:15 - 21:20 - BG Pathum United vs Adelaide United - LOW SERVER
-http://193.47.62.59/hls/B666A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="15-10-2026",19:15 - 21:20 - Kuching City vs Kitchee SC - LOW SERVER
-http://193.47.62.59/hls/B666.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="15-10-2026",19:15 - 21:20 - Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua - LOW SERVER
-http://193.47.62.59/hls/B666AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="15-10-2026",20:40 - 22:40 - Al Faisaly vs Al-Kholood - LOW SERVER
-http://193.47.62.59/hls/B666AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="15-10-2026",23:45 - 01:45 - Olympique Lyon vs Crystal Palace - TNT SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="15-10-2026",23:45 - 01:45 - Olympique Lyon vs Crystal Palace - PARAMOUNT+ FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7afc05537d524efdafd3dc07ad62cdc1:f2aa02dd67c46195266069e70f3de1a0
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/iuczhy24ey/out/v1/340e5e2e99624207b428a58b3b95cfc7/780a67f0-ee7b-40e8-974a-5a4f3c16cd0e-cenc.mpd?aws_sessionId=87b6264e-4e2e-4e43-93de-a1664bc6bf7f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="15-10-2026",23:45 - 01:45 - Olympique Lyon vs Crystal Palace - VIX SPANISH FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=71eb0af995a7ea26b340e966863e38fb:5fff5b455989c16fb0e34b55dccc3d3b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4grbd6fvyu/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="15-10-2026",23:45 - 01:45 - Olympique Lyon vs Crystal Palace - CBS SPORTS HD
-https://chatgpt.hereisman.net/playlist/58067/load-playlist-multi?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="15-10-2026",23:45 - 01:45 - Olympique Lyon vs Crystal Palace - STAN SPORTS HD
-https://netanjahu.hls.st/t/d951fd1a3e1643c76df5e981c42b50df/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="15-10-2026",23:45 - 01:45 - Olympique Lyon vs Crystal Palace - PARAMOUNT+ HD
-https://netanjahu.hls.st/t/71d31a52f088f0be6c4910ecb5cb447f/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="SonyLiv" tvg-logo="" group-title="15-10-2026",23:45 - 01:45 - Olympique Lyon vs Crystal Palace - SonyLiv
-https://sonymtmnew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="15-10-2026",23:45 - 01:45 - Olympique Lyon vs Crystal Palace - LOW SERVER
-http://193.47.62.50/hls/DMMMA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="15-10-2026",23:45 - 01:45 - RB Salzburg vs AC Milan - PARAMOUNT+ FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -327,112 +287,268 @@ http://193.47.62.41/hls/ZKKKAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Wi
 https://netanjahu.hls.st/t/ab69af095306365d8ba416c705d84885/index.m3u8?|Referer=https://iplayer.is/
 #EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="" group-title="15-10-2026",23:45 - 01:45 - Panathinaikos vs Borac - CBS SPORTS HD
 https://netanjahu.hls.st/t/924cdc673c63fc4859ba2bdc969bfdda/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="16-10-2026",02:00 - 04:05 - Benfica vs Celtic - TNT SPORTS FHD
+#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="16-10-2026",01:55 - 04:05 - Golazo Show - PARAMOUNT+ FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92f47a3a961050ea070e6b4dd44d17ca:fa442ee2acdc3b93ff875eecf9f04d35
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uxbiefpgow/out/v1/a167ec278ef449b791773d56e88e17eb/d87937e9-5fe6-451b-971e-00f2690651de-cenc.mpd?aws_sessionId=97ed0336-ff30-49b7-bc82-b80707cc38f0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:04 - Celta Vigo vs Juventus - VIX SPANISH FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a69672f9dce02fb783b1be909fce9145:43b50482d038ae71504797ad34770a7b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kl7kmuufdr/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="16-10-2026",02:00 - 04:04 - Celta Vigo vs Juventus - PARAMOUNT+ HD
+https://chatgpt.hereisman.net/playlist/58072/load-playlist-multi?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="16-10-2026",02:00 - 04:04 - Celta Vigo vs Juventus - SonyLiv (Asia)
+https://sonymtmnew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792129827~acl=/*~id=f3e747f49cc7daffa5250f54294624ed-1792086601557~hmac=abab228d17136460a8e2a3328c2006410d2ac21fc5bb7be398dc2a0286433b4d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6253d580d1d3139b40a73ee38ebb65ef-1792090202087
+#EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:04 - Celta Vigo vs Juventus - STAN SPORTS HD
+https://netanjahu.hls.st/t/1560f983a430fede0a297c834d7e4262/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:04 - Celta Vigo vs Juventus - CBS SPORTS HD
+https://netanjahu.hls.st/t/66e794a110f7b5df7d9a023e248f0718/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:04 - Celta Vigo vs Juventus - HD SERVER
+https://www.rtmpcdn.com/live/465e31ef-beba-44f8-a284-045e8d0db79f.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:04 - Celta Vigo vs Juventus - LOW SERVER
+http://193.47.62.50/hls/K333AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="16-10-2026",02:00 - 04:05 - Benfica vs Celtic - TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - PARAMOUNT+ FHD
+#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="16-10-2026",02:00 - 04:05 - Benfica vs Celtic - PARAMOUNT+ HD
+https://chatgpt.hereisman.net/playlist/58073/load-playlist-multi?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:05 - Benfica vs Celtic - STAN SPORTS HD
+https://netanjahu.hls.st/t/bc9d678276f126ff8672688c3b81a075/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:05 - Benfica vs Celtic - CBS SPORTS HD
+https://netanjahu.hls.st/t/ac27c8f3e0b86b9ea59d6e405dbc1f4f/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="Sport TV HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:05 - Benfica vs Celtic - Sport TV HD
+https://netanjahu.hls.st/t/8923992b4451551bd283baf4a279dfd4/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:05 - Benfica vs Celtic - HD SERVER
+https://www.rtmpcdn.com/live/b420fdeb-e638-4447-a23e-f4fc4bf07822.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:05 - Benfica vs Celtic - LOW SERVER
+http://193.47.62.59/hls/GOOOAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:05 - Marseille vs Olympiacos - VIX SPANISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcdb2369816c7066ae9bac19634423d5:2e6067b2a62c4d3e45f69cd81dea3872
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/athty4ib8j/out/v1/239afca50f824568bb1a40bd4ef8f0d6/25ae04a8-a684-42e4-8418-6bfb99ca4d64-cenc.mpd?aws_sessionId=dfe0303b-4cc9-49e2-af7e-7e7f117b4d6e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - VIX SPANISH FHD
+#KODIPROP:inputstream.adaptive.license_key=f8a9ae28d02e0f77b6aa6ebf5c188a14:6c569f2bb738098d8affc3694aaf2465
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/usqhyzk0hf/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:05 - Marseille vs Olympiacos - STAN SPORTS HD
+https://netanjahu.hls.st/t/b693bc4054cfef22fd6e94f78d08e289/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:05 - Marseille vs Olympiacos - CBS SPORTS HD
+https://netanjahu.hls.st/t/c6429733ebae3495e18b3db385efde66/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:05 - Marseille vs Olympiacos - HD SERVER
+https://www.rtmpcdn.com/live/dde626d7-b157-4c16-a3d1-59fb311a7b9e.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:05 - Marseille vs Olympiacos - LOW SERVER
+http://193.47.62.55/hls/GOOO.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=500a35565a8caf7e163d57d4e3a0a148:f863a58feb8b7e86caf60837fa1a5d71
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/31mhdmgkew/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - PARAMOUNT+ HD
-https://chatgpt.hereisman.net/playlist/58032/load-playlist?|Referer=https://gooz.aapmains.net
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - STAN SPORTS HD
-https://netanjahu.hls.st/t/c9ea9d3af7595b2dca99977dcc721743/index.m3u8?|Referer=https://iplayer.is/
+https://netanjahu.hls.st/t/8e9b01a8c18f8c7f5baf655eb6f895d1/index.m3u8?|Referer=https://iplayer24.me/
 #EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - CBS SPORTS HD
-https://netanjahu.hls.st/t/04dc1ef2b4b1558812e23326cae17c67/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="DAZN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - DAZN SPORTS HD
-https://netanjahu.hls.st/t/8b04f3042a09b647e95dce8d4fca71f8/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="SPORT TV HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - SPORT TV HD
-https://netanjahu.hls.st/t/2ef1606b0b094da59ac63f6fdeaceb47/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="SonyLiv " tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - SonyLiv 
-https://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e30788f13e56bf97b523b8c4e3d10118-1792002603515
-#EXTINF:-1 tvg-name="HD QUALITY" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - HD QUALITY
-https://edgestream1.pro/hls/ueyeztrazb4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - SD SERVER
-https://www.rtmpcdn.com/live/f8ade365-a9fc-4ba0-8310-057e91b3b63c.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="16-10-2026",02:00 - 04:00 - NEC Nijmegen vs Levski Sofia - PARAMOUNT+ FHD
+https://netanjahu.hls.st/t/f527ed4913b66a1bd6c7a4b77af8fc91/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - HD SERVER
+https://www.rtmpcdn.com/live/f6f8dc34-098a-4087-bd23-4d2fd40d0fac.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Bournemouth vs Sturm Graz - LOW SERVER
+http://193.47.62.59/hls/GOOOAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Ferencváros vs Viktoria Plzeň - STAN SPORTS HD
+https://netanjahu.hls.st/t/c4e8c5604d05625a79662ea9f62946d3/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Ferencváros vs Viktoria Plzeň - CBS SPORTS HD
+https://netanjahu.hls.st/t/be5f482f29b9f3679f80054b88fb7d2d/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Ferencváros vs Viktoria Plzeň - HD SERVER
+https://www.rtmpcdn.com/live/326de1d6-b571-4e94-ba00-c9f57adc1032.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Ferencváros vs Viktoria Plzeň - LOW SERVER
+http://193.47.62.50/hls/K333A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - Dinamo Zagreb vs Anderlecht - VIX SPANISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8f4999f5f33c77f9ab28bb566b1ace4:1e2fb33b36c60a7d9b293df36f923e45
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e9ixmmeo6o/out/v1/1545282481c4472d824bc360266bb4f1/38919f87-a1b5-409c-954f-79148e2cd543-cenc.mpd?aws_sessionId=1c919c27-a0b2-4f45-b07d-81915282eb6f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=41002f213a03a1c8c55f383e4571262f:ba0ace630b68106d9a4e73b09b167a74
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cepxt2lcgz/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Dinamo Zagreb vs Anderlecht - STAN SPORTS HD
+https://netanjahu.hls.st/t/f5e2f7b08107af992df6bc889cdf0cfd/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Dinamo Zagreb vs Anderlecht - CBS SPORTS HD
+https://netanjahu.hls.st/t/9070a312f9e803b61b80ea683bc5bf40/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Dinamo Zagreb vs Anderlecht - HD SERVER
+https://www.rtmpcdn.com/live/e58ce9d4-4d15-4805-a8e4-d477f257aecf.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Dinamo Zagreb vs Anderlecht - LOW SERVER
+http://193.47.62.44/hls/8BBBAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - NEC Nijmegen vs Levski Sofia - VIX SPANISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d22b38730e595728bffcde39874f540f:748c92492fe601ed5b83a7aa9f17bd86
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ezw22132t4/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - NEC Nijmegen vs Levski Sofia - STAN SPORTS HD
-https://netanjahu.hls.st/t/9cf5ccb59252c0a9ca4918e9ed4231bb/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="16-10-2026",02:00 - 04:00 - NEC Nijmegen vs Levski Sofia - PARAMOUNT+ HD
-https://netanjahu.hls.st/t/e6425c073f117b802d9654c15ac26ed5/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="DAZN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - NEC Nijmegen vs Levski Sofia - DAZN SPORTS HD
-https://netanjahu.hls.st/t/83d79ac6d334e721ebf6a278a9dda85d/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - NEC Nijmegen vs Levski Sofia - SonyLiv (Asia)
-https://sonymtmnew.akamaized.net/hls/live/2094587/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e30788f13e56bf97b523b8c4e3d10118-1792002603515
+#KODIPROP:inputstream.adaptive.license_key=e14fab45a21379286ce780a18aafe7be:0eab122716a5f23e91fa90d63c4b0fdb
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xugqyjcakm/out/v1/5c4455c571ae467ca76c6b6ca0ad80f1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - NEC Nijmegen vs Levski Sofia - CBS SPORTS HD
+https://netanjahu.hls.st/t/4de3757f52f96bafde580b0383240162/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="Ziggo Sports HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - NEC Nijmegen vs Levski Sofia - Ziggo Sports HD
+https://netanjahu.hls.st/t/1816c8ea9b3ac2c947ad192f5d79445a/index.m3u8?|Referer=https://iplayer24.me/
 #EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - NEC Nijmegen vs Levski Sofia - HD SERVER
-https://edgestream5.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - NEC Nijmegen vs Levski Sofia - SD SERVER
-https://www.rtmpcdn.com/live/8341cfd7-2beb-48c9-8d97-f9e2d970f43e.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Jagiellonia vs Ararat-Armenia - beIN ENGLISH FHD
+https://www.rtmpcdn.com/live/d6f61259-c808-488a-940b-a34fb510b4b7.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - NEC Nijmegen vs Levski Sofia - LOW SERVER
+http://193.47.62.50/hls/K333AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - Stade Rennais vs OFI Crete - VIX SPANISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Atalanta vs Pafos - CBS SPORTS HD
-https://netanjahu.hls.st/t/079b0b648fe797ce1b776997d4fba2f4/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Brighton vs Kauno Zalgiris - TNT SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_key=97b8757a8066bc093ee51f32aca93ab5:e605feaeca63c5f813f9fe09bd552e8b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/atmuhoxhsg/out/v1/ef78b780f5b04dbaa3301bc9be53b8c1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Stade Rennais vs OFI Crete - STAN SPORTS HD
+https://netanjahu.hls.st/t/d74f36e90bb816dd9c9abc4c7bcd74b9/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Stade Rennais vs OFI Crete - CBS SPORTS HD
+https://netanjahu.hls.st/t/5c6967d51afd3ee662d397d622534fa9/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Stade Rennais vs OFI Crete - HD SERVER
+https://www.rtmpcdn.com/live/a2cd08e1-e229-4028-96a2-4c4a5bc54b40.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Stade Rennais vs OFI Crete - LOW SERVER
+http://193.47.62.55/hls/K333AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Hoffenheim vs Beşiktaş - CBS SPORTS HD
+https://netanjahu.hls.st/t/d148947b94ae0f3caf26080333304b4a/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="ARENA SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Hoffenheim vs Beşiktaş - ARENA SPORTS HD
+https://netanjahu.hls.st/t/f5b8169f59337229a049390788b034f6/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Hoffenheim vs Beşiktaş - HD SERVER
+https://www.rtmpcdn.com/live/89f0ff79-66eb-4c48-b7ef-cd49d60527f0.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Hoffenheim vs Beşiktaş - LOW SERVER
+http://193.47.62.50/hls/K333AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - Jagiellonia vs Ararat-Armenia - VIX SPANISH FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc1abcc183237886dc93c24505cdcdd1:e205866842e0fb75fa535f8c0ef504f9
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lqrtbor4qx/out/v1/beb2768ac7d0435bab70ce5cd6231ad7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Jagiellonia vs Ararat-Armenia - STAN SPORTS HD
+https://netanjahu.hls.st/t/f2404720b8a2da41aaf85fe60bf63f7f/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Jagiellonia vs Ararat-Armenia - CBS SPORTS HD
+https://netanjahu.hls.st/t/e1128a49d9871ee66c49a56e502f3fa1/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="POLSAT SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Jagiellonia vs Ararat-Armenia - POLSAT SPORTS HD
+https://netanjahu.hls.st/t/ecd551235692f6e93408a93e7b250669/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Jagiellonia vs Ararat-Armenia - HD SERVER
+https://www.rtmpcdn.com/live/53ffee88-8278-4033-96e2-b8c67f6e2374.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Jagiellonia vs Ararat-Armenia - LOW SERVER
+http://193.47.62.44/hls/8BBBAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - Atalanta vs Pafos - VIX SPANISH FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aeba1bb5c8b0fbebf75be4c1e0da8abc:b7076632c5f6a22211190108393ed0d0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9tc8ad1n1c/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Atalanta vs Pafos - CBS SPORTS HD
+https://netanjahu.hls.st/t/bce15859823339b39184226c64e5e9e9/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Atalanta vs Pafos - HD SERVER
+https://www.rtmpcdn.com/live/c0f7760a-a528-4dad-9878-b06a4d9726f6.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Atalanta vs Pafos - LOW SERVER
+http://193.47.62.44/hls/8BBBA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="16-10-2026",02:00 - 04:00 - Brighton vs Kauno Zalgiris - TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="ESPN NL UHD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Freiburg vs Jablonec - ESPN NL UHD
-https://netanjahu.hls.st/t/e6c99de39ba29483d34d39bef4e1517c/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Freiburg vs Jablonec - HD SERVER
-https://live.vivo155.com/live/sd-1-4621484.m3u8?txSecret=db5028f2c33a5fd6dc1af22a38626d5e&txTime=6ACE8553|Referer=https://player.online878.com/
-#EXTINF:-1 tvg-name="FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="16-10-2026",02:00 - 04:00 - Brann vs Lincoln - FANCODE FHD
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - Brighton vs Kauno Zalgiris - VIX SPANISH FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="beIN SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="16-10-2026",02:00 - 04:00 - Brann vs Lincoln - beIN SPORTS FHD
-https://cdn-v2.gamhed.online/hls/arena8x-1.m3u8?|Referer=https://www.arena8x.live/
+#KODIPROP:inputstream.adaptive.license_key=40e401e1cbaf4a4cdeb68489dfe23dea:06e5ac3b4a716f062db7f8b14b51ef20
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nbvkcuwbh1/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="16-10-2026",02:00 - 04:00 - Brighton vs Kauno Zalgiris - PARAMOUNT+ HD
+https://chatgpt.hereisman.net/playlist/58075/load-playlist-multi?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-name="STAN SPORTS HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Brighton vs Kauno Zalgiris - STAN SPORTS HD
+https://netanjahu.hls.st/t/a226a4507cc6a780c92e5e446052ca57/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Brighton vs Kauno Zalgiris - CBS SPORTS HD
+https://netanjahu.hls.st/t/06d97887fa097866b14296d9daf53393/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Brighton vs Kauno Zalgiris - HD SERVER
+https://www.rtmpcdn.com/live/d2a68645-3cb2-4e1d-b524-a161da531bb7.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Brighton vs Kauno Zalgiris - LOW SERVER
+http://193.47.62.44/hls/8BBB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:05 - København vs Sporting Braga - CBS SPORTS HD
+https://netanjahu.hls.st/t/07a78018a4d8561da34e1bad027a5c15/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="Ziggo Sports HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:05 - København vs Sporting Braga - Ziggo Sports HD
+https://netanjahu.hls.st/t/ac3cc41769cc24efdeb65ab807fb62a9/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:05 - København vs Sporting Braga - HD SERVER
+https://www.rtmpcdn.com/live/d1eca2ba-6c8e-4907-842b-a53d122af4f6.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:05 - København vs Sporting Braga - LOW SERVER
+http://193.47.62.41/hls/H999A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - Twente vs Thun - VIX SPANISH FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=25e66b34d2e44ffec33fa0333cf65ded:be64ba039c84fadafe9b2b9bbc472281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/18vzs9qlwv/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Twente vs Thun - CBS SPORTS HD
+https://netanjahu.hls.st/t/6954574b41f909f0756c1ef5a8527b25/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="Ziggo Sports HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Twente vs Thun - Ziggo Sports HD
+https://netanjahu.hls.st/t/8d52a24fa815c0bd78f91b687cfa4504/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Twente vs Thun - HD SERVER
+https://www.rtmpcdn.com/live/d0004171-cd1f-426d-9077-c458d14ad2ea.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Twente vs Thun - LOW SERVER
+http://193.47.62.41/hls/H999AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="16-10-2026",02:00 - 04:00 - Heart vs Nordsjælland - TNT SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - Heart vs Nordsjælland - VIX SPANISH FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=031c3c697d70c5e3426c4456027be63f:55ed1ca898be4d8144dc0e9a708c5a0b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/befk04wowq/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Heart vs Nordsjælland - CBS SPORTS HD
+https://netanjahu.hls.st/t/e8d26000295fb0270353b504796b6582/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Heart vs Nordsjælland - HD SERVER
+https://www.rtmpcdn.com/live/e815ec96-5d86-44b6-9656-643b1474e073.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Heart vs Nordsjælland - LOW SERVER
+http://193.47.62.50/hls/K333.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - Freiburg vs Jablonec - VIX SPANISH FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e790c4ad2a1694171f9e54f431d3d24c:a608c33e56605acb2d1cf1689f7812df
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qqfytpteck/out/v1/c22699bcc6df411098d4969c11e9c388/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Freiburg vs Jablonec - CBS SPORTS HD
+https://netanjahu.hls.st/t/180555f874bc5f3b00e50449cf0aedb6/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Freiburg vs Jablonec - HD SERVER
+https://www.rtmpcdn.com/live/d6f0e024-8d57-407f-8ba0-d79cb22f97ef.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Freiburg vs Jablonec - LOW SERVER
+http://193.47.62.41/hls/H999AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - Brann vs Lincoln - VIX SPANISH FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5529ce921bc5d8554b925065f86af002:6ad8a302a2876d1df1e327572fcf96d3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tzlhllv3eu/out/v1/90efc41f5f384e97be25bab0bfc53de9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Brann vs Lincoln - HD SERVER
-https://live.vivo155.com/live/sd-1-4621414.m3u8?txSecret=4ba4e6e4f22199dbd63df57465bdb51b&txTime=6ACD340E|Referer=https://player.online878.com/
-#EXTINF:-1 tvg-name="ESPN NL UHD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Brann vs Lincoln - ESPN NL UHD
-https://netanjahu.hls.st/t/9a9a529d372a5ecbdd493a61190c45b8/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="CANAL SPORTS PT" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Brann vs Lincoln - CANAL SPORTS PT
-https://netanjahu.hls.st/t/57964739ab12ef94176c34d362d4b0a1/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="SportKlub HD" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Brann vs Lincoln - SportKlub HD
-https://netanjahu.hls.st/t/38502252af3d9b9450e603b329d6ff6f/index.m3u8?|Referer=https://iplayer.is/
-#EXTINF:-1 tvg-name="SD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Brann vs Lincoln - SD SERVER
-https://www.rtmpcdn.com/live/ccd4e61d-7a19-4501-9c81-3a185a86e44c.m3u8
+https://www.rtmpcdn.com/live/23283798-5002-4cca-b344-fb6b923aac05.m3u8
 #EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Brann vs Lincoln - LOW SERVER
-http://193.47.62.59/hls/BEEEAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+http://193.47.62.41/hls/H999.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="16-10-2026",02:00 - 04:00 - Sint-Truidense vs Iberia - VIX SPANISH FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed59f2a2b2ba9771149b03b66a893ba7:5977784d16e815f27e300c64642a25b7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5kvhntso10/out/v1/ba23558c95cf412bbd7c5e73ec9c23d2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="16-10-2026",02:00 - 04:00 - Sint-Truidense vs Iberia - CBS SPORTS HD
+https://netanjahu.hls.st/t/666307cd5445c1d469f0258a6e03be89/index.m3u8?|Referer=https://iplayer24.me/
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Sint-Truidense vs Iberia - HD SERVER
+https://www.rtmpcdn.com/live/c02be80d-ae8f-41fd-a862-893eb1573887.m3u8
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="16-10-2026",02:00 - 04:00 - Sint-Truidense vs Iberia - LOW SERVER
+http://193.47.62.41/hls/H999AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="16-10-2026",06:00 - 09:00 - Florida Panthers vs Canucks - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-14/mtl-wsh
+https://taifood-blog.asia/embed/nhl/2026-10-15/van-fla
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="16-10-2026",06:00 - 09:00 - Devils vs New York Rangers - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-14/dal-col
+https://taifood-blog.asia/embed/nhl/2026-10-15/nyr-nj
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="16-10-2026",06:00 - 09:00 - Ottawa Senators vs Islanders - NHL LIVE [FHD]
 https://taifood-blog.asia/embed/nhl/2026-10-13/pit-chi
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="16-10-2026",06:00 - 09:00 - Lightning vs Seattle Kraken - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-13/min-wpg
+https://taifood-blog.asia/embed/nhl/2026-10-15/sea-tb
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="16-10-2026",06:00 - 09:00 - Maple Leafs vs Buffalo Sabres - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-13/col-dal
+https://taifood-blog.asia/embed/nhl/2026-10-15/buf-tor
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="16-10-2026",06:30 - 09:30 - Knicks vs Toronto Raptors - NBA LIVE [FHD]
 https://taifood-blog.asia/embed/nba/2026-10-14/cha-bos
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="16-10-2026",06:30 - 09:30 - Red Wings vs Philadelphia Flyers - NHL LIVE [FHD]
@@ -440,7 +556,7 @@ https://taifood-blog.asia/embed/nhl/2026-10-13/vgk-nsh
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="16-10-2026",07:00 - 10:00 - Blackhawks vs Winnipeg Jets - NHL LIVE [FHD]
 https://taifood-blog.asia/embed/nhl/2026-10-13/tor-uta
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="16-10-2026",07:00 - 10:00 - Minnesota Wild vs Blues - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-13/cgy-ana
+https://taifood-blog.asia/embed/nhl/2026-10-15/stl-min
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="16-10-2026",07:00 - 10:00 - Nashville Predators vs Sharks - NHL LIVE [FHD]
 https://taifood-blog.asia/embed/nhl/2026-10-13/edm-la
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="16-10-2026",07:30 - 10:30 - Houston Rockets vs Thunder - NBA LIVE [FHD]
@@ -464,9 +580,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="16-10-2026",08:00 - 11:00 - Edmonton Oilers vs Utah Mammoth - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-13/bos-sj
+https://taifood-blog.asia/embed/nhl/2026-10-15/uta-edm
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="16-10-2026",09:00 - 12:00 - Inter Miami - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/mls/2026-10-14/mia-nyc
+https://taifood-blog.asia/embed/nhl/2026-10-15/cgy-vgk
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="16-10-2026",18:30 - 02:00 - WCL - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -849,3 +965,15 @@ https://taifood-blog.asia/embed/singapore-grand-prix---race-30024
 https://taifood-blog.asia/embed/singapore-grand-prix---race-30028
 #EXTINF:-1 tvg-name="VIAPLAY NL [FHD]" tvg-logo="" group-title="23-10-2026",12:30 - 18:45 - Formula 1 - VIAPLAY NL [FHD]
 https://taifood-blog.asia/embed/singapore-grand-prix---race-30030
+#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="26-10-2026",00:00 - 03:20 - Los Angeles Rams - TSN SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TSN5 SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="26-10-2026",00:00 - 03:20 - Los Angeles Rams - TSN5 SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
