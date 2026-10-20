@@ -37,14 +37,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qddnwqthpp/out
 https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="FANCODE - BD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="19-10-2026",18:30 - 02:00 - Afghanistan vs Zimbabwe - FANCODE - BD
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143404_english.m3u8
-#EXTINF:-1 tvg-name="FOX DEPORTES" tvg-logo="" group-title="19-10-2026",22:05 - 00:10 - Al-Fayha vs Al-Ahli - FOX DEPORTES
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="THMANYAH SD" tvg-logo="" group-title="19-10-2026",22:05 - 00:10 - Al-Fayha vs Al-Ahli - THMANYAH SD
-http://193.47.62.59/hls/ZNNNAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="19-10-2026",23:30 - 01:35 - Monza vs Cagliari - PARAMOUNT+ FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -81,22 +73,6 @@ https://edgestream2.pro/hls/syaLqucEne4k.m3u8|User-Agent=Mozilla/5.0 (Windows NT
 https://www.rtmpcdn.com/live/85ffc4c7-4ad0-4257-a568-74bf0ca78791.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="19-10-2026",23:30 - 01:35 - Monza vs Cagliari - LOW SERVER
 http://193.47.62.41/hls/LFFFAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="beIN SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="20-10-2026",00:00 - 02:05 - Trabzonspor vs Beşiktaş - beIN SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pd5s6lz0a8/out/v1/27aac1f9df984d65a9d4b95d234f4468/119614ca-db40-4ea0-b7bd-58d85088893c-cenc.mpd?aws_sessionId=379d5d83-91bf-4c17-aa67-2d7ee721e904|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="20-10-2026",00:00 - 02:05 - Trabzonspor vs Beşiktaş - HD SERVER
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="20-10-2026",00:00 - 02:05 - Trabzonspor vs Beşiktaş - LOW SERVER
-http://193.47.62.59/hls/DDDDD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="20-10-2026",01:00 - 03:05 - Al-Hilal vs Al-Hazem - LOW SERVER
-http://193.47.62.50/hls/6HHHAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="20-10-2026",01:00 - 03:00 - Al-Shabab vs Al Faisaly - LOW SERVER
-http://193.47.62.50/hls/6HHHAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="20-10-2026",01:30 - 03:30 - Celta Fortuna vs Tenerife - LOW SERVER
-http://193.47.62.50/hls/6HHHAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="20-10-2026",01:45 - 03:50 - Parma vs Torino - PARAMOUNT+ FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -189,30 +165,74 @@ https://www.rtmpcdn.com/live/1a9a07e3-fd84-44d7-adb6-c2d00e525eb1.m3u8|User-Agen
 http://193.47.62.50/hls/O555AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="20-10-2026",06:00 - 09:00 - Rangers vs Anaheim Ducks - NHL LIVE [FHD]
 https://taifood-blog.asia/embed/nhl/2026-10-18/cbj-min
+#EXTINF:-1 tvg-name="PREMIER SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="20-10-2026",06:00 - 09:00 - Philadelphia Flyers vs Avalanche - PREMIER SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="20-10-2026",06:00 - 09:00 - Philadelphia Flyers vs Avalanche - NHL LIVE [FHD]
+https://taifood-blog.asia/embed/nhl/2026-10-18/car-cgy
+#EXTINF:-1 tvg-name="SporTV BR FHD" tvg-logo="" group-title="20-10-2026",06:00 - 08:05 - Corinthians vs Vitoria - SporTV BR FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="PREMIERER BR" tvg-logo="" group-title="20-10-2026",06:00 - 08:05 - Corinthians vs Vitoria - PREMIERER BR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="20-10-2026",06:30 - 09:30 - Maple Leafs vs Sharks - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-17/sj-det
+https://taifood-blog.asia/embed/nhl/2026-10-19/sj-tor
 #EXTINF:-1 tvg-name="WWE RAW [FHD]" tvg-logo="" group-title="20-10-2026",07:00 - 09:30 - WWE Raw - WWE RAW [FHD]
 https://embedindia.st/embed/wwe/2026-08-24
 #EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="20-10-2026",07:00 - 09:30 - WWE Raw - HD SERVER
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://26hrwgorfcmh.windows-devs.top/
 #EXTINF:-1 tvg-name="Backup SD" tvg-logo="" group-title="20-10-2026",07:00 - 09:30 - WWE Raw - Backup SD
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://27lftgqlgzmy.windows-devs.top/
+#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="" group-title="20-10-2026",07:00 - 09:45 - Valkyries vs Atlanta Dream - TSN SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="WNBA LIVE [FHD]" tvg-logo="" group-title="20-10-2026",07:00 - 09:45 - Valkyries vs Atlanta Dream - WNBA LIVE [FHD]
-https://taifood-blog.asia/embed/wnba/2026-10-17/atl-gs
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="20-10-2026",07:00 - 10:00 - Cleveland Guardians - TNT SPORTS FHD
+https://taifood-blog.asia/embed/wnba/2026-10-19/atl-gs
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="20-10-2026",07:00 - 10:00 - Cleveland Guardians - TNT SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TNT2 SPORTS FHD" tvg-logo="" group-title="20-10-2026",07:00 - 10:00 - Cleveland Guardians - TNT2 SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="" group-title="20-10-2026",08:00 - 11:00 - Mammoth vs Pittsburgh Penguins - Premier Sports 1
+#EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="" group-title="20-10-2026",07:15 - 10:35 - 49ers vs Commanders - TSN SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TSN4 SPORTS FHD" tvg-logo="" group-title="20-10-2026",07:15 - 10:35 - 49ers vs Commanders - TSN4 SPORTS FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="PREMIER SPORTS" tvg-logo="" group-title="20-10-2026",08:00 - 11:00 - Mammoth vs Pittsburgh Penguins - PREMIER SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="20-10-2026",08:00 - 11:00 - Mammoth vs Pittsburgh Penguins - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-17/buf-mtl
+https://taifood-blog.asia/embed/nhl/2026-10-19/pit-uta
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="20-10-2026",15:00 - 22:30 - South Africa vs Australia - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
