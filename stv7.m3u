@@ -5,18 +5,6 @@ https://embedindia.st/embed/wwe/2026-08-24
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://26hrwgorfcmh.windows-devs.top/
 #EXTINF:-1 tvg-name="Backup SD" tvg-logo="" group-title="20-10-2026",07:00 - 09:30 - WWE Raw - Backup SD
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://27lftgqlgzmy.windows-devs.top/
-#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="20-10-2026",07:00 - 10:00 - Cleveland Guardians - TNT SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="TNT2 SPORTS FHD" tvg-logo="" group-title="20-10-2026",07:00 - 10:00 - Cleveland Guardians - TNT2 SPORTS FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="NXT LIVE [FHD]" tvg-logo="" group-title="21-10-2026",07:00 - 09:00 - WWE NXT - NXT LIVE [FHD]
 https://embedindia.st/embed/wwe/2026-09-29
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="21-10-2026",09:00 - 12:00 - Canucks vs Carolina Hurricanes - NHL LIVE [FHD]
@@ -35,8 +23,8 @@ https://taifood-blog.asia/embed/liga-mx/2026-10-16/ncx-ats
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4kosuavavh/out/v1/9e742bb032404e1fb540828f2aaca55c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=025191e8ca6a7f7bf7b404b981218810:93f3917609f8d7976aac6502f71c61f1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lia3rss4ck/out/v1/046eafc037f548279ed15f3f0f85a898/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="21-10-2026",14:45 - 22:30 - South Africa vs Australia - FANCODE FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -47,40 +35,36 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4kosuavavh/out/v1/9e742bb032404e1fb540828f2aaca55c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd
 #EXTINF:-1 tvg-name="SKY CRICKET - FHD" tvg-logo="" group-title="21-10-2026",14:45 - 22:30 - South Africa vs Australia - SKY CRICKET - FHD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-name="TAPMAD - FHD" tvg-logo="" group-title="21-10-2026",14:45 - 22:30 - South Africa vs Australia - TAPMAD - FHD
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/
 #EXTINF:-1 tvg-name="FOX CRICKET HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="21-10-2026",14:45 - 22:30 - South Africa vs Australia - FOX CRICKET HD
 https://baila-lentoo.pages.dev/all-sp/809389.m3u8
 #EXTINF:-1 tvg-name="A SPORTS HD" tvg-logo="" group-title="21-10-2026",14:45 - 22:30 - South Africa vs Australia - A SPORTS HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 #EXTINF:-1 tvg-name="FANCODE - IN" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="21-10-2026",14:45 - 22:30 - South Africa vs Australia - FANCODE - IN
-https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f98565_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="21-10-2026",14:45 - 22:30 - South Africa vs Australia - LOW SERVER
-http://193.47.62.44/hls/BEEEEAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="21-10-2026",18:30 - 02:00 - Afghanistan vs Zimbabwe - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d57bd95dbcabbb9bd7917982d72b4c5:1cac0963a8a04fab11efa87f1a09b1b3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7k1yx7ubyw/out/v1/acdc21850c72499cb691e57c550a3aca/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=8c9270d440ed7b9096f59ea36e8eb3e4:d9e4be23facd5a18a08c1b43d39c0b45
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ocbymwnxdg/out/v1/a1aa37dc29b04b4f9d633f54367c05fd/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="21-10-2026",18:30 - 02:00 - Afghanistan vs Zimbabwe - WILLOW - ALT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fnparssbf9/out/v1/fd27f9f2ac2a400db81a85b1a22ea66e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iplwybp0pk/out/v1/d71f03d9635c4fc0b1c911f743f98519/cenc.mpd
 #EXTINF:-1 tvg-name="TAPMAD - FHD" tvg-logo="" group-title="21-10-2026",18:30 - 02:00 - Afghanistan vs Zimbabwe - TAPMAD - FHD
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com
-#EXTINF:-1 tvg-name="A SPORTS HD" tvg-logo="" group-title="21-10-2026",18:30 - 02:00 - Afghanistan vs Zimbabwe - A SPORTS HD
-https://playztv-apps.pages.dev/a-sports/index.m3u8
 #EXTINF:-1 tvg-name="T SPORTS HD" tvg-logo="" group-title="21-10-2026",18:30 - 02:00 - Afghanistan vs Zimbabwe - T SPORTS HD
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
 #EXTINF:-1 tvg-name="FANCODE - IN" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="21-10-2026",18:30 - 02:00 - Afghanistan vs Zimbabwe - FANCODE - IN
-https://dai-fancode.pages.dev/mumbai/4249695_english_hls_940482a4d917399_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-name="FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="21-10-2026",18:30 - 02:00 - Afghanistan vs Zimbabwe - FANCODE FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -209,18 +193,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="NBA LIVE HD" tvg-logo="" group-title="22-10-2026",06:00 - 09:00 - Magic vs Atlanta Hawks - NBA LIVE HD
-https://chatgpt.hereisman.net/playlist/58333/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="22-10-2026",06:00 - 09:00 - Magic vs Atlanta Hawks - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-20/bos-det
+https://taifood-blog.asia/embed/nba/2026-10-21/atl-orl
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="22-10-2026",06:00 - 09:00 - Wizards vs Milwaukee Bucks - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-20/phi-ny
+https://taifood-blog.asia/embed/nba/2026-10-21/mil-wsh
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="22-10-2026",06:30 - 09:30 - Brooklyn Nets vs Charlotte Hornets - NBA LIVE [FHD]
 https://taifood-blog.asia/embed/nba/2026-10-20/okc-sa
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="22-10-2026",06:30 - 09:30 - Miami Heat vs Timberwolves - NBA LIVE [FHD]
 https://taifood-blog.asia/embed/nba/2026-10-16/bos-phi
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="22-10-2026",06:30 - 09:30 - Raptors vs Chicago Bulls - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-16/min-chi
+https://taifood-blog.asia/embed/nba/2026-10-21/chi-tor
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="22-10-2026",06:30 - 09:30 - Sabres vs Philadelphia Flyers - NHL LIVE [FHD]
 https://taifood-blog.asia/embed/nhl/2026-10-20/sj-mtl
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="22-10-2026",06:30 - 09:30 - Senators vs Florida Panthers - NHL LIVE [FHD]
@@ -243,6 +225,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
 #EXTINF:-1 tvg-name="BACKUP SD" tvg-logo="" group-title="22-10-2026",07:00 - 09:00 - WWE - BACKUP SD
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
+#EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="22-10-2026",07:00 - 10:00 - Memphis Grizzlies vs Utah Jazz - NBA LIVE [FHD]
+https://taifood-blog.asia/embed/nba/2026-10-21/utah-mem
 #EXTINF:-1 tvg-name="WILLOW FHD [Ad-Free]" tvg-logo="" group-title="22-10-2026",07:00 - 10:00 - Memphis Grizzlies vs Utah Jazz - WILLOW FHD [Ad-Free]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -262,7 +246,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1
 #KODIPROP:inputstream.adaptive.license_key=MDg0YmVlNzA3NDk3OTk2MTU4ZTRlYzZkOWNhZDQwZTQ6MmViOTgwNzFiZjhjMDA2ZWY4YjVhNXU4Nz41MWQ4NDM=
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/cfv0fqo8qr/out/v1/8e02e7de7e9245c4b54f304c1159878d/cenc-sd.mpd
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="22-10-2026",07:00 - 10:00 - Pelicans vs Indiana Pacers - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-16/cha-mem
+https://taifood-blog.asia/embed/nba/2026-10-21/ind-no
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="22-10-2026",07:30 - 10:30 - Rockets vs Dallas Mavericks - NBA LIVE [FHD]
 https://taifood-blog.asia/embed/nba/2026-10-16/wsh-no
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="22-10-2026",07:30 - 09:35 - Palmeiras vs Fluminense - beIN ENGLISH FHD
@@ -278,15 +262,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="22-10-2026",09:00 - 12:00 - Lakers vs Warriors - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-16/sac-sa
-#EXTINF:-1 tvg-name="ESPN SPORTS HD" tvg-logo="" group-title="22-10-2026",09:00 - 12:00 - Trail Blazers vs Phoenix Suns - ESPN SPORTS HD
-https://hls.bobsteam.info/live/espn-401898409/index.m3u8?|Referer=https://play.cyberbingo.cfd/
-#EXTINF:-1 tvg-name="NBA LIVE HD" tvg-logo="" group-title="22-10-2026",09:00 - 12:00 - Trail Blazers vs Phoenix Suns - NBA LIVE HD
-https://live.vivo155.com/live/hd-en-2-3925709.m3u8?txSecret=0ab0291de396c518b9c7dde4af1f9644&txTime=6AD2E673|Referer=https://player.online878.com/
+https://taifood-blog.asia/embed/nba/2026-10-21/gs-lal
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="22-10-2026",09:00 - 12:00 - Trail Blazers vs Phoenix Suns - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-16/por-gs
+https://taifood-blog.asia/embed/nba/2026-10-21/phx-por
 #EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="22-10-2026",09:30 - 12:30 - [NBA 11] - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-16/utah-phx
+https://taifood-blog.asia/embed/nba/2026-10-21/sac-lac
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="22-10-2026",14:00 - 17:45 - India vs West Indies - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
