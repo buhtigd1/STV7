@@ -31,36 +31,24 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=MTk5NGIxZGY3ZGZkMmU4YThkN2I5YmYzZmI5MDAyODU6MjJhMTQ0NGIzZGExOGUxMzkxOTE2djViMrQ2NTI4MzU=
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="23-10-2026",15:30 - 23:00 - Australia W vs New Zealand W - WILLOW - FHD
+#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="" group-title="23-10-2026",15:30 - 23:00 - Australia W vs New Zealand W - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1d03c736494cff8eff6c6b208716715:d41a9479cce7c43faf8e212765fd42c0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/upctcqjn8t/out/v1/81cea51017e24bdc86df391c3c77f03b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="23-10-2026",15:30 - 23:00 - Australia W vs New Zealand W - FANCODE FHD
+#KODIPROP:inputstream.adaptive.license_key=b6e0746a53137a564ec5889039bae9ea:c42a5196a2a7f70065ced842c3efaa73
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/khff4hi6a2/out/v1/f6f94e06603a4ac4a5231b5fd5b0681e/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="23-10-2026",15:30 - 23:00 - Australia W vs New Zealand W - TNT SPORTS FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="23-10-2026",15:30 - 23:00 - Australia W vs New Zealand W - WILLOW - ALT
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="" group-title="23-10-2026",15:30 - 23:00 - Australia W vs New Zealand W - WILLOW - ALT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1d03c736494cff8eff6c6b208716715:d41a9479cce7c43faf8e212765fd42c0
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/upctcqjn8t/out/v1/81cea51017e24bdc86df391c3c77f03b/cenc.mpd
-#EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="23-10-2026",15:30 - 23:00 - Australia W vs New Zealand W - WILLOW HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-name="EUROSPORT - FHD" tvg-logo="" group-title="23-10-2026",15:30 - 23:00 - Australia W vs New Zealand W - EUROSPORT - FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
-https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
+#KODIPROP:inputstream.adaptive.license_key=b6e0746a53137a564ec5889039bae9ea:c42a5196a2a7f70065ced842c3efaa73
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/khff4hi6a2/out/v1/f6f94e06603a4ac4a5231b5fd5b0681e/cenc.mpd
 #EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="23-10-2026",18:30 - 02:00 - Afghanistan vs Zimbabwe - WILLOW - FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
