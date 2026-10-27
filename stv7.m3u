@@ -16,32 +16,32 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/DADADAAA.m3u8
-#EXTINF:-1 tvg-name="DAZN SPORTS HD" tvg-logo="" group-title="27-10-2026",01:00 - 04:30 - [OLD] Zuffa Boxing 11 - DAZN SPORTS HD
+#EXTINF:-1 tvg-name="DAZN SPORTS HD" tvg-logo="" group-title="27-10-2026",01:00 - 06:15 - [OLD] Zuffa Boxing 11 - DAZN SPORTS HD
 #KODIPROP:http-referer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/58697/load-playlist-multi?
-#EXTINF:-1 tvg-name="Live Ball FHD" tvg-logo="" group-title="27-10-2026",01:00 - 04:30 - [OLD] Zuffa Boxing 11 - Live Ball FHD
+#EXTINF:-1 tvg-name="Live Ball FHD" tvg-logo="" group-title="27-10-2026",01:00 - 06:15 - [OLD] Zuffa Boxing 11 - Live Ball FHD
 https://c4lycho7.skibid.im:8443/t/v2.1.98439517-cc33-480e-9ba6-665e706fa733.1793040862.1793055202.18XFYZC139VliHxn3c4ANbJ1FmcmquOdGlZJgoP3e_E/f064a4f0/s/042b2f81acc47e84c1165772efcd6d20/0/index.m3u8
-#EXTINF:-1 tvg-name="CBS NETWORK" tvg-logo="" group-title="27-10-2026",01:00 - 04:30 - [OLD] Zuffa Boxing 11 - CBS NETWORK
+#EXTINF:-1 tvg-name="CBS NETWORK" tvg-logo="" group-title="27-10-2026",01:00 - 06:15 - [OLD] Zuffa Boxing 11 - CBS NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-name="DAZN SPORTS HD (2)" tvg-logo="" group-title="27-10-2026",01:00 - 04:30 - [OLD] Zuffa Boxing 11 - DAZN SPORTS HD (2)
+#EXTINF:-1 tvg-name="DAZN SPORTS HD (2)" tvg-logo="" group-title="27-10-2026",01:00 - 06:15 - [OLD] Zuffa Boxing 11 - DAZN SPORTS HD (2)
 https://pl.playlist4.space/playlist/58697/a.newvegan6.space/caxi-low
-#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="27-10-2026",01:00 - 04:30 - [OLD] Zuffa Boxing 11 - LOW SERVER
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="27-10-2026",01:00 - 06:15 - [OLD] Zuffa Boxing 11 - LOW SERVER
 #KODIPROP:http-referer=http://www.fawanews.sc/
 #KODIPROP:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.50/hls/AFFF.m3u8
-#EXTINF:-1 tvg-name="Ballon D'Or (ENG)" tvg-logo="" group-title="27-10-2026",01:00 - 04:30 - [OLD] Zuffa Boxing 11 - Ballon D'Or (ENG)
+#EXTINF:-1 tvg-name="Ballon D'Or (ENG)" tvg-logo="" group-title="27-10-2026",01:00 - 06:15 - [OLD] Zuffa Boxing 11 - Ballon D'Or (ENG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://tedesco.formaturamaxi.com.br/balon.m3u8?
-#EXTINF:-1 tvg-name="Ballon D'Or (FRN)" tvg-logo="" group-title="27-10-2026",01:00 - 04:30 - [OLD] Zuffa Boxing 11 - Ballon D'Or (FRN)
+#EXTINF:-1 tvg-name="Ballon D'Or (FRN)" tvg-logo="" group-title="27-10-2026",01:00 - 06:15 - [OLD] Zuffa Boxing 11 - Ballon D'Or (FRN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://admin2.formaturamaxi.com.br/equipe.m3u8?
-#EXTINF:-1 tvg-name="Ballon D'Or (ESP)" tvg-logo="" group-title="27-10-2026",01:00 - 04:30 - [OLD] Zuffa Boxing 11 - Ballon D'Or (ESP)
+#EXTINF:-1 tvg-name="Ballon D'Or (ESP)" tvg-logo="" group-title="27-10-2026",01:00 - 06:15 - [OLD] Zuffa Boxing 11 - Ballon D'Or (ESP)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://admin2.formaturamaxi.com.br/dazn.m3u8?
 #EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="27-10-2026",01:15 - 03:15 - Al-Jawiya vs Pakhtakor - LOW SERVER
