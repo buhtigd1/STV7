@@ -267,6 +267,31 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+#EXTINF:-1 tvg-name="PRIME VIDEO FHD" tvg-logo="" group-title="30-10-2026",21:00 - 23:00 - NorthEast United vs Bengaluru - PRIME VIDEO FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf2673b7fa403304187d06a465327574:3e6d16f6076eb37dfb2ee05916f63db6
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/okrdtowgt0/out/v1/77961fd468194c5785b97b858f9af3fc/cenc.mpd
+#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="30-10-2026",21:00 - 23:00 - NorthEast United vs Bengaluru - SonyLiv (ENG)
+#KODIPROP:http-referer=https://www.sonyliv.com/
+#KODIPROP:http-origin=https://www.sonyliv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793410703~acl=/*~id=26571186098163408218118816181417~hmac=3f2fdd7452a3c9da01d0b5aba983b360e0d458c4bf58605817a038df7cec801a
+#EXTINF:-1 tvg-name="SonyLiv (HIN)" tvg-logo="" group-title="30-10-2026",21:00 - 23:00 - NorthEast United vs Bengaluru - SonyLiv (HIN)
+#KODIPROP:http-referer=https://www.sonyliv.com/
+#KODIPROP:http-origin=https://www.sonyliv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793410703~acl=/*~id=26571186098163408218118816181417~hmac=3f2fdd7452a3c9da01d0b5aba983b360e0d458c4bf58605817a038df7cec801a
+#EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="30-10-2026",21:50 - 23:50 - Diriyah vs Neom - HD SERVER
+#KODIPROP:http-referer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8?
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="30-10-2026",21:50 - 23:50 - Diriyah vs Neom - LOW SERVER
+#KODIPROP:http-referer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/RRRRQQQQ.m3u8
 #EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="31-10-2026",00:30 - 02:30 - Energie Cottbus vs Bochum - HD SERVER
 #KODIPROP:http-referer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel16.m3u8?
