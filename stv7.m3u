@@ -58,150 +58,78 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-name="WWE LIVE FHD" tvg-logo="" group-title="14-11-2026",08:00 - 10:30 - WWE Smackdown Friday - WWE LIVE FHD
-https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8
-#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="14-11-2026",08:00 - 10:30 - WWE Smackdown Friday - SPX LIVE [FHD]
-https://taifood-blog.asia/embed/wwe/2026-10-23
-#EXTINF:-1 tvg-name="USA TV" tvg-logo="" group-title="14-11-2026",08:00 - 10:30 - WWE Smackdown Friday - USA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
-https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
-#EXTINF:-1 tvg-name="NBA LEAGUEPASS FHD" tvg-logo="" group-title="14-11-2026",09:30 - 12:30 - Spurs vs Golden State Warriors - NBA LEAGUEPASS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f420b8baa9b82347fd6f5a8ebf052b9d:fec99ead9eb59c1dd3e1d17205716521
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jgygiimpim/out/v1/02f930af80e84a9fb8040e478da6e252/cenc.mpd
-#EXTINF:-1 tvg-name="NBA LIVE HD" tvg-logo="" group-title="14-11-2026",09:30 - 12:30 - Spurs vs Golden State Warriors - NBA LIVE HD
-#KODIPROP:http-referer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60014/load-playlist-multi?
-#EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="14-11-2026",09:30 - 12:30 - Spurs vs Golden State Warriors - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-11-13/gs-sa
-#EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="14-11-2026",10:00 - 13:00 - Sacramento Kings vs Trail Blazers - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-11-11/orl-utah
-#EXTINF:-1 tvg-name="PREMIER SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="14-11-2026",10:00 - 13:00 - Knights vs Nashville Predators - PREMIER SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="14-11-2026",10:00 - 13:00 - Knights vs Nashville Predators - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-11-11/nyr-cgy
-#EXTINF:-1 tvg-name="NBA LEAGUEPASS FHD" tvg-logo="" group-title="14-11-2026",10:30 - 13:30 - Los Angeles Clippers vs Thunder - NBA LEAGUEPASS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34193d90b22d421857212337573239b3:568a057cdd8707ec6690f6d2d39d9335
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lfkqchjfny/out/v1/a7c27e085aa74f91800c984439ff6e74/cenc.mpd
-#EXTINF:-1 tvg-name="NBA LIVE [FHD]" tvg-logo="" group-title="14-11-2026",10:30 - 13:30 - Los Angeles Clippers vs Thunder - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-11-13/okc-lac
-#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",11:40 - 19:00 - WBBL - WILLOW - FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f703fd09044cca52e2574b38fb30a6f9:35494900afade256b06dce9fbd4e3018
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd
-#EXTINF:-1 tvg-name="SKY CRICKET FHD" tvg-logo="" group-title="14-11-2026",11:40 - 19:00 - WBBL - SKY CRICKET FHD
-#EXTVLCOPT:http-user-agent=Mozilla
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",11:40 - 19:00 - WBBL - WILLOW - ALT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f703fd09044cca52e2574b38fb30a6f9:35494900afade256b06dce9fbd4e3018
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd
-#EXTINF:-1 tvg-name="TAPMAD - FHD" tvg-logo="" group-title="14-11-2026",11:40 - 19:00 - WBBL - TAPMAD - FHD
-#KODIPROP:http-referer=https://tapmad.com/
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8?
-#EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",11:40 - 19:00 - WBBL - WILLOW HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-name="LOW QUALITY" tvg-logo="" group-title="14-11-2026",11:40 - 19:00 - WBBL - LOW QUALITY
-#KODIPROP:http-referer=http://www.fawanews.sc/
-#KODIPROP:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.41/hls/ZZZZAA.m3u8
-#EXTINF:-1 tvg-name="PRIME VIDEO [Multi Audio]" tvg-logo="" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - PRIME VIDEO [Multi Audio]
+#EXTINF:-1 tvg-name="PRIME VIDEO [Multi Audio]" tvg-logo="" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - PRIME VIDEO [Multi Audio]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c32f4ea1b4dd4e4736ee667ee02aa8bb:3ae921b11d3dcabb54a7433f065c2efa
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd
-#EXTINF:-1 tvg-name="WILLOW - AdFree" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - WILLOW - AdFree
+#EXTINF:-1 tvg-name="WILLOW - AdFree" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - WILLOW - AdFree
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea34a15a1bff7bccd0e54fb079cd5373:97d76953ace3dd3ea44af3db47ae7f75
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zx4jlrv9p5/out/v1/7df7e6d0e16745b5ac2cf28d2ab40fc8/cenc.mpd?
-#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - WILLOW - FHD
+#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - WILLOW - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd
-#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - WILLOW - ALT
+#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - WILLOW - ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd
-#EXTINF:-1 tvg-name="PTV SPORTS FHD" tvg-logo="" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - PTV SPORTS FHD
+#EXTINF:-1 tvg-name="PTV SPORTS FHD" tvg-logo="" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - PTV SPORTS FHD
 https://live.msnetworks.net/ptv-sports/master.m3u8
-#EXTINF:-1 tvg-name="TEN SPORTS FHD" tvg-logo="" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - TEN SPORTS FHD
+#EXTINF:-1 tvg-name="TEN SPORTS FHD" tvg-logo="" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - TEN SPORTS FHD
 https://live.msnetworks.net/ten-sports/master.m3u8
-#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - SonyLiv (ENG)
+#EXTINF:-1 tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - SonyLiv (ENG)
 #EXTVLCOPT:http-user-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598
-#EXTINF:-1 tvg-name="SonyLiv (HIN)" tvg-logo="" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - SonyLiv (HIN)
+#EXTINF:-1 tvg-name="SonyLiv (HIN)" tvg-logo="" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - SonyLiv (HIN)
 #EXTVLCOPT:http-user-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598
-#EXTINF:-1 tvg-name="SonyLiv (TAM)" tvg-logo="" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - SonyLiv (TAM)
+#EXTINF:-1 tvg-name="SonyLiv (TAM)" tvg-logo="" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - SonyLiv (TAM)
 #EXTVLCOPT:http-user-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1411/TAM/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598
-#EXTINF:-1 tvg-name="SonyLiv (TEL)" tvg-logo="" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - SonyLiv (TEL)
+#EXTINF:-1 tvg-name="SonyLiv (TEL)" tvg-logo="" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - SonyLiv (TEL)
 #EXTVLCOPT:http-user-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1411/TEL/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598
-#EXTINF:-1 tvg-name="SonyLiv (KAN)" tvg-logo="" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - SonyLiv (KAN)
+#EXTINF:-1 tvg-name="SonyLiv (KAN)" tvg-logo="" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - SonyLiv (KAN)
 #EXTVLCOPT:http-user-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1411/KAN/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598
-#EXTINF:-1 tvg-name="TAMASHA - FHD" tvg-logo="" group-title="14-11-2026",12:00 - 19:30 - Pakistan U-19 vs India U-19 - TAMASHA - FHD
+#EXTINF:-1 tvg-name="TAMASHA - FHD" tvg-logo="" group-title="14-11-2026",12:00 - 20:00 - Pakistan U-19 vs India U-19 - TAMASHA - FHD
 https://cdn05khi-n.tamashaweb.com:8087/appcast/ACCMEN-U19-2026-avod-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="WILLOW FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",13:00 - 21:00 - Afghanistan vs Zimbabwe - WILLOW FHD
+#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",13:00 - 21:00 - Afghanistan vs Zimbabwe - WILLOW - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
-#EXTINF:-1 tvg-name="WILLOW ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",13:00 - 21:00 - Afghanistan vs Zimbabwe - WILLOW ALT
+#KODIPROP:inputstream.adaptive.license_key=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd
+#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",13:00 - 21:00 - Afghanistan vs Zimbabwe - WILLOW - ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
-#EXTINF:-1 tvg-name="TAPMAD - FHD" tvg-logo="" group-title="14-11-2026",13:00 - 21:00 - Afghanistan vs Zimbabwe - TAPMAD - FHD
+#KODIPROP:inputstream.adaptive.license_key=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd
+#EXTINF:-1 tvg-name="TAPMAD - AQ" tvg-logo="" group-title="14-11-2026",13:00 - 21:00 - Afghanistan vs Zimbabwe - TAPMAD - AQ
 #KODIPROP:http-referer=https://tapmad.com/
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+#EXTINF:-1 tvg-name="ATN SPORTS FHD" tvg-logo="" group-title="14-11-2026",13:00 - 21:00 - Afghanistan vs Zimbabwe - ATN SPORTS FHD
+#KODIPROP:http-referer=https://liveland.af/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8?
 #EXTINF:-1 tvg-name="A SPORTS HD" tvg-logo="" group-title="14-11-2026",13:00 - 21:00 - Afghanistan vs Zimbabwe - A SPORTS HD
 https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-name="ATN SPORTS SD" tvg-logo="" group-title="14-11-2026",13:00 - 21:00 - Afghanistan vs Zimbabwe - ATN SPORTS SD
-https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="FANCODE (IND)" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="14-11-2026",13:00 - 21:00 - Afghanistan vs Zimbabwe - FANCODE (IND)
 #KODIPROP:http-referer=https://fancode.com/
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
@@ -227,13 +155,23 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qddnwqthpp/out
 https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="FANCODE - BD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="14-11-2026",13:00 - 21:00 - Afghanistan vs Zimbabwe - FANCODE - BD
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143404_english.m3u8
-#EXTINF:-1 tvg-name="SporTV BR FHD" tvg-logo="" group-title="14-11-2026",17:15 - 19:20 - Japan vs Brazil - SporTV BR FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+#EXTINF:-1 tvg-name="BTV BD FHD" tvg-logo="" group-title="14-11-2026",16:00 - 18:05 - India vs Bhutan - BTV BD FHD
+https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
+#EXTINF:-1 tvg-name="HD QUALITY" tvg-logo="" group-title="14-11-2026",16:00 - 18:05 - India vs Bhutan - HD QUALITY
+#KODIPROP:http-referer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel7.m3u8?
+#EXTINF:-1 tvg-name="MyCO FHD" tvg-logo="" group-title="14-11-2026",16:00 - 18:05 - India vs Bhutan - MyCO FHD
+#KODIPROP:http-referer=https://myco.io/
+https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8
+#EXTINF:-1 tvg-name="HD FAST SERVER" tvg-logo="" group-title="14-11-2026",16:00 - 18:05 - India vs Bhutan - HD FAST SERVER
+#KODIPROP:http-referer=https://playyyz5.cc/
+https://playback.livetl002.com/live/6aef22d1f72fb30b985aafbe.m3u8
+#EXTINF:-1 tvg-name="T SPORTS HD" tvg-logo="" group-title="14-11-2026",16:00 - 18:05 - India vs Bhutan - T SPORTS HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 tvg-name="BACKUP HD" tvg-logo="" group-title="14-11-2026",16:00 - 18:05 - India vs Bhutan - BACKUP HD
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794650288-0-0-c84e283d6670dae79c28ad58d5c2f1d8
+#EXTINF:-1 tvg-name="VETO TV (IND)" tvg-logo="" group-title="14-11-2026",16:00 - 18:05 - India vs Bhutan - VETO TV (IND)
+https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8
 #EXTINF:-1 tvg-name="FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="14-11-2026",18:15 - 22:15 - [OLD] NPL - FANCODE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -247,31 +185,48 @@ http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&exten
 #KODIPROP:http-referer=https://fancode.com/
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 https://dai-fancode.pages.dev/mumbai/4250374_english_hls_b7c929ff7638952_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",18:30 - 01:15 - Abu Dhabi T10 League - WILLOW - FHD
+#EXTINF:-1 tvg-name="WILLOW FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",18:30 - 01:15 - Abu Dhabi T10 League - WILLOW FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f5dd13b8a8e3359a73e223b88369060:876bbda3e69865498248ea092dce4c9e
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/delyeuco8c/out/v1/1f09875985524291b4fc55f67ababfb5/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=b6b856f70ea437dac71a3f94324db592:6164b110597256d30f31eafe2455c66f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lf66rbark9/out/v1/d4c064c41d6d4f3a80739799154e4eea/cenc.mpd?
 #EXTINF:-1 tvg-name="PREMIER SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="14-11-2026",18:30 - 01:15 - Abu Dhabi T10 League - PREMIER SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?
-#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",18:30 - 01:15 - Abu Dhabi T10 League - WILLOW - ALT
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-name="WILLOW ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="14-11-2026",18:30 - 01:15 - Abu Dhabi T10 League - WILLOW ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f5dd13b8a8e3359a73e223b88369060:876bbda3e69865498248ea092dce4c9e
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/delyeuco8c/out/v1/1f09875985524291b4fc55f67ababfb5/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b6b856f70ea437dac71a3f94324db592:6164b110597256d30f31eafe2455c66f
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lf66rbark9/out/v1/d4c064c41d6d4f3a80739799154e4eea/cenc.mpd?
 #EXTINF:-1 tvg-name="A SPORTS HD" tvg-logo="" group-title="14-11-2026",18:30 - 01:15 - Abu Dhabi T10 League - A SPORTS HD
 https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-name="MYCO TV HD" tvg-logo="" group-title="14-11-2026",18:30 - 01:15 - Abu Dhabi T10 League - MYCO TV HD
+#EXTINF:-1 tvg-name="MYCO HD" tvg-logo="" group-title="14-11-2026",18:30 - 01:15 - Abu Dhabi T10 League - MYCO HD
 #KODIPROP:http-referer=https://myco.io/
 https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8
+#EXTINF:-1 tvg-name="HD QUALITY" tvg-logo="" group-title="14-11-2026",19:00 - 21:05 - Chinese Taipei vs Kyrgyzstan - HD QUALITY
+#KODIPROP:http-referer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel4.m3u8?
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="14-11-2026",19:00 - 21:05 - Chinese Taipei vs Kyrgyzstan - LOW SERVER
+#KODIPROP:http-referer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KUUUAA.m3u8?
+#EXTINF:-1 tvg-name="HD QUALITY" tvg-logo="" group-title="14-11-2026",19:00 - 21:20 - China vs Malaysia - HD QUALITY
+#KODIPROP:http-referer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8?
+#EXTINF:-1 tvg-name="LOW QUALITY" tvg-logo="" group-title="14-11-2026",19:00 - 21:20 - China vs Malaysia - LOW QUALITY
+#KODIPROP:http-referer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KUUUA.m3u8
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="14-11-2026",19:30 - 21:30 - Exeter City vs Cheltenham Town - beIN ENGLISH FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -279,6 +234,33 @@ https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+#EXTINF:-1 tvg-name="LOW SERVER" tvg-logo="" group-title="14-11-2026",19:30 - 21:30 - Exeter City vs Cheltenham Town - LOW SERVER
+#KODIPROP:http-referer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.44/hls/KUUUAAAA.m3u8
+#EXTINF:-1 tvg-name="CBS SPORTS FHD" tvg-logo="" group-title="14-11-2026",19:45 - 21:45 - Manchester vs Palace - CBS SPORTS FHD
+#KODIPROP:http-origin=https://amazon.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-name="SKY SPORTS EPL FHD" tvg-logo="" group-title="14-11-2026",19:45 - 21:45 - Manchester vs Palace - SKY SPORTS EPL FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd
+#EXTINF:-1 tvg-name="SKY SPORTS PL FHD" tvg-logo="" group-title="14-11-2026",19:45 - 21:45 - Manchester vs Palace - SKY SPORTS PL FHD
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https
+#EXTINF:-1 tvg-name="LOW QUALITY" tvg-logo="" group-title="14-11-2026",19:45 - 21:45 - Manchester vs Palace - LOW QUALITY
+#KODIPROP:http-referer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.44/hls/KUUUAAAAA.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS FHD" tvg-logo="" group-title="14-11-2026",20:00 - 22:00 - Real Valladolid vs CD Castellón - beIN SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -286,13 +268,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?
-#EXTINF:-1 tvg-name="DEFAULT" tvg-logo="" group-title="14-11-2026",20:00 - 22:05 - Palestine vs Iran - DEFAULT
-https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1
-#EXTINF:-1 tvg-name="LOW SERVER " tvg-logo="" group-title="14-11-2026",20:30 - 22:30 - Chelsea vs Manchester City - LOW SERVER 
+#EXTINF:-1 tvg-name="SD STREAM" tvg-logo="" group-title="14-11-2026",20:00 - 22:05 - Palestine vs Iran - SD STREAM
 #KODIPROP:http-referer=http://www.fawanews.sc/
 #KODIPROP:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZAZAZAA.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.59/hls/BEEEAA.m3u8
 #EXTINF:-1 tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="14-11-2026",21:00 - 23:05 - Kosovo vs Israel - beIN ENGLISH FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -300,6 +280,10 @@ http://193.47.62.50/hls/ZAZAZAA.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-name="BTV BD FHD" tvg-logo="" group-title="14-11-2026",21:30 - 23:35 - Bangladesh vs Pakistan - BTV BD FHD
+https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
+#EXTINF:-1 tvg-name="T SPORTS HD" tvg-logo="" group-title="14-11-2026",21:30 - 23:35 - Bangladesh vs Pakistan - T SPORTS HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-name="HD SERVER" tvg-logo="" group-title="14-11-2026",22:00 - 00:00 - Tottenham FC vs Everton - HD SERVER
 #KODIPROP:http-referer=http://www.fawanews.sc/
 #KODIPROP:http-origin=http://www.fawanews.sc
@@ -310,6 +294,15 @@ https://www.rtmpcdn.com/live/0f998e02-556a-48fb-9751-b1a8bce25185.m3u8
 #KODIPROP:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/WAWAWAAAA.m3u8
+#EXTINF:-1 tvg-name="DEFAULT" tvg-logo="" group-title="14-11-2026",22:00 - 00:20 - AFC Wimbledon vs Blackpool - DEFAULT
+https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1
+#EXTINF:-1 tvg-name="SD STREAM" tvg-logo="" group-title="14-11-2026",22:00 - 00:20 - Milton Keynes Dons vs Burton Albion - SD STREAM
+#KODIPROP:http-referer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/VYYYAAA.m3u8
+#EXTINF:-1 tvg-name="DEFAULT" tvg-logo="" group-title="14-11-2026",22:00 - 00:20 - Wigan Athletic vs Barnsley - DEFAULT
+https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1
 #EXTINF:-1 tvg-name="beIN SPORTS FHD" tvg-logo="" group-title="14-11-2026",22:15 - 00:15 - Real Sociedad B vs Sporting Gijón - beIN SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -549,6 +542,38 @@ https://live.vivo155.com/live/hd-en-2-3931613.m3u8?txSecret=a78eba0c590611b2fee0
 https://taifood-blog.asia/embed/nba/2026-11-02/tor-lac
 #EXTINF:-1 tvg-name="NHL LIVE [FHD]" tvg-logo="" group-title="15-11-2026",07:00 - 10:00 - [MLB 05] Canadiens vs Colorado Avalanche - NHL LIVE [FHD]
 https://taifood-blog.asia/embed/nba/2026-11-04/mia-lac
+#EXTINF:-1 tvg-name="WILLOW - HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="15-11-2026",07:00 - 10:45 - WBBL - WILLOW - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?
+#EXTINF:-1 tvg-name="SKY CRICKET FHD" tvg-logo="" group-title="15-11-2026",07:00 - 10:45 - WBBL - SKY CRICKET FHD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-name="WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="15-11-2026",07:00 - 10:45 - WBBL - WILLOW - ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b51f11dbc19547e6f0632655ae75917c:ab4de045def2b8e41bcadb851386c8f3
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qijgjnbc2h/out/v1/76cf501f920d40469c245fa437adbb40/cenc.mpd?
+#EXTINF:-1 tvg-name="TAPMAD - FHD" tvg-logo="" group-title="15-11-2026",07:00 - 10:45 - WBBL - TAPMAD - FHD
+#KODIPROP:http-referer=https://tapmad.com/
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8?
+#EXTINF:-1 tvg-name="WILLOW HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="15-11-2026",07:00 - 10:45 - WBBL - WILLOW HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="LOW QUALITY" tvg-logo="" group-title="15-11-2026",07:00 - 10:45 - WBBL - LOW QUALITY
+#KODIPROP:http-referer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/ZZZZAA.m3u8
 #EXTINF:-1 tvg-name="TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="15-11-2026",07:00 - 10:00 - [NBA 11] Pittsburgh Penguins vs Ottawa Senators - TSN SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -911,3 +936,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 tvg-name="TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="20-11-2026",17:45 - 23:30 - MotoGP - TNT SPORTS HD
 https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
+#EXTINF:-1 tvg-name="WWE LIVE FHD" tvg-logo="" group-title="21-11-2026",08:00 - 10:30 - WWE Smackdown Friday - WWE LIVE FHD
+https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8
+#EXTINF:-1 tvg-name="SPX LIVE [FHD]" tvg-logo="" group-title="21-11-2026",08:00 - 10:30 - WWE Smackdown Friday - SPX LIVE [FHD]
+https://taifood-blog.asia/embed/wwe/2026-10-23
+#EXTINF:-1 tvg-name="USA TV" tvg-logo="" group-title="21-11-2026",08:00 - 10:30 - WWE Smackdown Friday - USA TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
+https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
